@@ -1,8 +1,8 @@
+from api_config import claude_query
+from funcs import ask_question
 
 
 # sample question
-from funcs import ask_question
-
 question = "What is the capital of France?"
 answer = "Paris"
 difficulty = ask_question(question, answer)

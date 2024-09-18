@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import messagebox
 
-def ask_question(question, answer):
+def tkinter(question, answer):
     difficulty_result = [None]  # Using a list to store the result
 
     def show_answer():
