@@ -1,0 +1,5001 @@
+absoluto (adj)		absolute		574
+actual (adj)		current (adj)		676
+adecuado (adj)		adequate, suitable		948
+alemán (adj)		German		963
+amplio (adj)		wide, ample, broad		763
+azul (adj)		blue		904
+cercano (adj)		near		942
+cerrado (adj)		closed		680
+civil (adj)		civil (adj)		774
+concreto (adj)		concrete, real		909
+conocido (adj)		known, well-known		540
+corriente (nf)		current, flow (nf)		838
+corto (adj)		short, brief		537
+cuánto (adj)		how much?		723
+cuarto (nm)		room, chamber (nm)		655
+dado (adj)		given		968
+debido: debido a (adj)		due to		981
+definitivo (adj)		definitive, conclusive		803
+determinado (adj)		determined, fixed		927
+diario (nm)		newspaper (nm)		903
+directo (adj)		direct, straight		733
+dispuesto (adj)		willing, ready		690
+diverso (adj)		different, several, diverse		740
+duro (adj)		hard (adj)		615
+enfermo (adj)		ill, sick		698
+entero (adj)		entire, whole, complete		760
+exacto (adj)		exact, faithful, true		879
+extraño (adj)		strange, foreign		551
+extraordinario (adj)		extraordinary, exceptional		860
+fácil (adj)		easy		514
+familiar (adj)		familiar, of the family (adj)		744
+famoso (adj)		famous, well-known		713
+feliz (adj)		happy, fortunate		956
+físico (adj)		physical (adj)		643
+francés (adj)		French		646
+frío (adj)		cold (adj)		907
+futuro (nm)		future (nm)		623
+grave (adj)		serious, solemn		548
+histórico (adj)		historical		980
+imposible (adj)		impossible		592
+inglés (adj)		English		608
+inmediato (adj)		immediate		724
+interesante (adj)		interesting		762
+interior (nm)		interior, inside (nm)		614
+interno (adj)		internal		783
+italiano (adj)		Italian		953
+justo (adv)		just (adv)		915
+lleno (adj)		full, filled (as an object would de filled)		508
+maestro (nm)		teacher (m), master (nm)		961
+mas (conj)		but, however		777
+material (nm)		material, element (nm)		656
+médico (nm/f)		doctor (nm/f)		564
+militar (adj)		military (adj)		856
+mínimo (adj)		minimum (adj)		990
+moderno (adj)		modern		671
+muerto (adj)		dead (adj)		687
+nacional (adj)		national		507
+normal (adj)		normal, usual, regular		664
+oscuro (adj)		dark, obscure		888
+parecido (adj)		similar [also similar]		837
+particular (adj)		particular, peculiar (adj)		854
+peor (adv)		worse (adv)		866
+perdido (adj)		lost		931
+perfecto (adj)		perfect		810
+personal (adj)		personal (adj)		590
+plano (nm)		plane, map, level (nm)		875
+pleno (adj)		complete, fulfilled (as emotionally)		679
+popular (adj)		popular		709
+preciso (adj)		precise, necessary		739
+presente (nm)		present (nm)		802
+privado (adj)		private		706
+profesional (adj)		professional		640
+puro (adj)		pure, clean		637
+rápido (adj)		quick, fast		652
+raro (adj)		strange, rare, scarce		849
+religioso (adj)		religious		886
+responsable (adj)		responsible		955
+rico (adj)		rich, tasty		627
+rojo (adj)		red		533
+sencillo (adj)		simple, plain, easy		922
+serio (adj)		serious		545
+simple (adj)		simple, mere, simple-minded		661
+suficiente (adj)		sufficient, enough		547
+superior (adj)		superior, upper		535
+supuesto (adj); por supuesto		supposed: of course		511
+total (adj)		total, entire (adj)		629
+unido (adj)		united		858
+verde (adj)		green		878
+abajo (adv)		down, below, downward		631
+adelante (adv)		forward, further		516
+alrededor (adv)		about, around, round (adv)		556
+apenas (adv)		hardly, barely		587
+arriba (adv)		up above		544
+aun (adv)		even (though), still		843
+completamente (adv)		completely		869
+debajo (adv)		underneath, below		820
+delante (adv)		in front of, ahead		885
+detrás (adv)		in the back		701
+directamente (adv)		directly, straight away		936
+especialmente (adv)		especially		684
+exactamente (adv)		exactly		977
+finalmente (adv)		finally, at last		728
+inmediatamente (adv)		immediately		882
+jamás (adv)		never		788
+junto (adj)		together (adj)		729
+perfectamente (adv)		perfectly		850
+precisamente (adv)		precisely		580
+probablemente (adv)		probably		971
+recién (adv)		recently, just		863
+salvo (adv)		except for, but		924
+seguramente (adv)		surely, securely		994
+simplemente (adv)		simply, just		591
+siquiera (adv)		even if		602
+totalmente (adv)		totally, completely		662
+artista (nc)		artist, performer		928
+joven (nc)		teenager, young person (nc)		581
+modelo (nc)		model, pattern		747
+actitud (nf)		attitude		644
+altura (nf)		height, altitude		578
+autoridad (nf)		authority		718
+ayuda (nf)		help, aid		594
+boca (nf)		mouth, entrance, opening		635
+calidad (nf)		quality		772
+capacidad (nf)		capacity		675
+carne (nf)		meat, flesh		787
+carta (nf)		letter, playing card		586
+causa (nf)		cause		546
+ciencia (nf)		science, knowledge		775
+circunstancia (nf)		circumstance		704
+comida (nf)		food, meal		873
+compañía (nf)		company		798
+comunicación (nf)		communication		659
+conciencia (nf)		conscience, consciousness		696
+confianza (nf)		confidence, trust		947
+consecuencia (nf)		consequence		570
+construcción (nf)		construction		794
+conversación (nf)		conversation		892
+costumbre (nf)		habit, custom, usage		700
+cultura (nf)		culture		521
+decisión (nf)		decision		549
+defensa (nf)		defense, plea		815
+dificultad (nf)		difficulty, obstacle		741
+dirección (nf)		direction, address		636
+distancia (nf)		distance		678
+educación (nf)		education		845
+elección (nf)		election, choice		827
+empresa (nf)		firm, company, venture		517
+energía (nf)		energy, power		946
+enfermedad (nf)		illness, sickness		666
+entrada (nf)		entrance, admission ticket		647
+escuela (nf)		school		532
+esperanza (nf)		hope		805
+esposa (nf)		wife		951
+etapa (nf)		stage, period		921
+existencia (nf)		existence, life		840
+explicación (nf)		explanation		818
+expresión (nf)		expression		555
+fecha (nf)		date, day		749
+fiesta (nf)		party, feast		988
+flor (nf)		flower		950
+formación (nf)		formation, education		938
+frase (nf)		phrase		809
+fuente (nf)		source, fountain		801
+función (nf)		function, meeting		543
+generación (nf)		generation		906
+hija (nf)		daughter		715
+hoja (nf)		sheet, leaf		1000
+impresión (nf)		impression, printing		874
+información (nf)		information		682
+intención (nf)		intention		876
+investigación (nf)		investigation		890
+izquierda (nf)		left		940
+labor (nf)		labor, work, task		930
+lectura (nf)		reading		839
+lengua (nf)		language, tongue, strip of land		596
+letra (nf)		letter, handwriting, lyrics		865
+lucha (nf)		fight, struggle, wrestle		758
+madera (nf)		wood		987
+máquina (nf)		machine		806
+marcha (nf)		march, progress		785
+masa (nf)		mass, dough, bulk, crowd		935
+materia (nf)		matter, subject		668
+mayoría (nf)		majority		531
+memoria (nf)		memory		605
+mente (nf)		mind		993
+mitad (nf)		half, middle		625
+música (nf)		music		550
+naturaleza (nf)		nature		674
+nota (nf)		note, grade		853
+noticia (nf)		news		703
+operación (nf)		operation		848
+opinión (nf)		opinion, view		632
+oportunidad (nf)		opportunity, chance		624
+pared (nf)		interior wall		736
+pareja (nf)		couple, pair		901
+paz (nf)		peace		702
+película (nf)		movie, film		826
+pena (nf) (valer la pena)		trouble (be of worth)		575
+piedra (nf)		stone, rock		719
+piel (nf)		skin, hide, fur		884
+pieza (nf)		piece, part		639
+planta (nf)		plant, floor		711
+población (nf)		population		900
+política (nf)		politics, policy		506
+posición (nf)		position		503
+práctica (nf)		practice, skill		933
+preocupación (nf)		worry, concern		995
+presencia (nf)		presence, appearance		519
+presión (nf)		pressure		967
+propiedad (nf)		property		588
+prueba (nf)		proof, trial, test		505
+responsabilidad (nf)		responsibility		781
+reunión (nf)		meeting, reunion		746
+revista (nf)		magazine, journal		804
+revolución (nf)		revolution		957
+sala (nf)		room, hall		811
+salida (nf)		exit, escape, outcome		694
+salud (nf)		health		973
+sangre (nf)		blood		613
+santa (nf)		saint (f)		793
+seguridad (nf)		security, safety		560
+señora (nf)		Mrs., lady, madam		976
+serie (nf)		series		522
+solución (nf)		solution, answer		871
+suerte (nf)		luck, fortune		725
+tarea (nf)		task, job		585
+teoría (nf)		theory		970
+tradición (nf)		tradition		898
+vía (nf)		road, way		982
+visión (nf)		vision		908
+visita (nf)		visit, visitor, guest		828
+voluntad (nf)		will, willpower, intention		745
+vuelta (nf)		return, turn		600
+alma (nf el)		soul		984
+arma (nf el)		weapon		832
+acto (nm)		act, action		572
+alumno (nm)		student, pupil		969
+ambiente (nm)		environment, atmosphere		683
+andar (v)		to walk [also caminar]		536
+apoyo (nm)		support, backing		830
+árbol (nm)		tree		833
+arte (nm)		art, skill		567
+artículo (nm)		article, product, item		819
+asunto (nm)		matter, issue, affair		518
+banco (nm)		financial bank, bench		881
+bien (nm)		goods, property, benefit (nm)		667
+brazo (nm)		arm		620
+caballo (nm)		horse		780
+calor (nm)		heat, warmth		989
+carácter (nm)		personality, nature		530
+cargo (nm)		position, charge, fee		791
+cielo (nm)		sky, heaven, ceiling		932
+compañero (nm)		companion, classmate		693
+concepto (nm)		concept		997
+conjunto (nm)		group, set		721
+contacto (nm)		contact		648
+control (nm)		control		889
+corazón (nm)		heart, core		649
+cuadro (nm)		painting, picture		779
+cuarto (adj)		fourth (adj)		897
+cuidado (nm)		care, carefulness		754
+curso (nm)		course, direction		610
+dato (nm)		data, fact		513
+derecho (adj)		right, straight (adj)		912
+desarrollo (nm)		development		685
+deseo (nm)		desire, wish		579
+destino (nm)		destination, destiny		844
+detalle (nm)		detail		784
+diario (adj)		daily (adj) [also cotidiano]		979
+dolor (nm)		pain, ache, sorrow		705
+edificio (nm)		building		717
+elemento (nm)		element		607
+encuentro (nm)		meeting, game, skirmish		836
+equipo (nm)		team, equipment, outfit		737
+error (nm)		error, mistake		738
+espíritu (nm)		spirit, ghost		731
+estilo (nm)		style		707
+éxito (nm)		success		714
+fenómeno (nm)		phenomenon		966
+golpe (nm)		hit, strike, punch		657
+grado (nm)		degree, grade		756
+gusto (nm)		pleasure, taste, preference		593
+hermano (nm)		brother, [pl] siblings		539
+hogar (nm)		home, hearth		992
+instrumento (nm)		instrument		813
+juicio (nm)		judgment		795
+lenguaje (nm)		language, speech		841
+límite (nm)		limit		934
+mercado (nm)		market		609
+metro (nm)		meter (unit of measure), subway		563
+miembro (nm)		member, limb		732
+motivo (nm)		motive, cause, motif		504
+negocio (nm)		business, transaction		864
+norte (nm)		north		895
+origen (nm)		origin, cause		606
+oro (nm)		gold		914
+pasado (nm)		past (nm)		902
+peligro (nm)		danger, menace		913
+pensamiento (nm)		thought, thinking		789
+periódico (nm)		newspaper, periodical		765
+perro (nm)		dog		939
+personaje (nm)		character (e.g. movie)		712
+piso (nm)		floor, story		797
+plan (nm)		plan		598
+precio (nm)		price, cost, value		708
+presidente (nm)		president		831
+producto (nm)		product		589
+propósito (nm)		intention, purpose		752
+proyecto (nm)		project, plan		604
+público (nm)		public, audience (nm)		769
+puesto (nm)		job, place, position		755
+recuerdo (nm)		memory, keepsake		628
+recurso (nm)		resource, recourse, means		735
+respeto (nm)		respect, regard		894
+río (nm)		river		559
+ritmo (nm)		rhythm		877
+segundo (nm)		second (nm)		577
+sentimiento (nm)		feeling, sentiment		867
+silencio (nm)		silence		923
+sitio (nm)		place, space		672
+sol (nm)		sun		686
+sueño (nm)		dream, sleep		583
+tamaño (nm)		size, dimension		776
+teatro (nm)		theater, drama		861
+teléfono (nm)		phone, telephone		999
+término (nm)		term (language), end		561
+terreno (nm)		ground, earth, terrain		796
+texto (nm)		text		800
+título (nm)		title, heading		653
+tono (nm)		tone		972
+uso (nm)		use		619
+verano (nm)		summer		893
+vino (nm)		wine		917
+autor (nm/f)		writer, author		538
+director (nm/f)		director, manager, principal		816
+doctor (nm/f)		doctor		778
+jefe (nm/f)		leader, boss, manager		761
+profesor (nm/f)		professor, teacher		621
+capital (nmf)		capital city (f), money (m)		651
+final (adj)		final (adj)		771
+mar (nmf)		sea		645
+par (nmf)		pair, couple (m)		768
+radio (nmf)		radio; set (m), communication (f)		824
+cincuenta (num)		fifty		782
+cuarenta (num)		forty		943
+doce (num)		twelve		823
+millón (num)		million, fortune		523
+nueve (num)		nine		786
+treinta (num)		thirty		722
+veinte (num)		twenty		582
+mediante (prep)		by means of		896
+tras (prep)		after, behind		534
+aquello (pron)		that over there (n)		814
+ése, ésa (pron)		that one		855
+mío (pron)		mine (pron)		872
+suyo (pron)		his, hers, yours, theirs (formal)		520
+tú (pron) [also vos]		you (subj singular familiar)		554
+abandonar (v)		to abandon, leave (a place)		638
+acompañar (v)		to accompany		512
+acordar (v) [also recordar]		to remember, remind		595
+actuar (v)		to act		576
+admitir (v)		to admit		985
+adquirir (v)		to acquire, get		603
+advertir (v)		to warn		887
+afectar (v)		to affect		991
+afirmar (v)		to assert, affirm		978
+anunciar (v)		to announce, advertise		730
+aplicar (v)		to apply		650
+apoyar (v)		to support, lean on		616
+aprovechar (v)		to take advantage of		612
+asegurar (v)		to assure, secure, insure		542
+asistir (v)		to attend		822
+atender (v)		to serve, attend to		697
+atravesar (v)		to cross [also cruzar]		937
+aumentar (v)		to increase [also incrementar]		633
+avanzar (v)		to advance, progress		618
+bajar (v)		to come down, let down		569
+bastar (v)		to be sufficient		899
+caber (v)		to fit into		695
+caminar (v)		to walk [also andar]		919
+cargar (v)		to load up, carry		748
+coincidir (v)		to coincide, agree		920
+colocar (v)		to place, position		562
+comentar (v)		to comment on		742
+compartir (v)		to share		681
+comprobar (v)		to verify, prove		852
+comunicar (v)		to communicate		952
+conducir (v)		to lead, drive		868
+conservar (v)		to conserve, preserve		670
+consistir (v)		to consist of		688
+constituir (v)		to constitute, consist of		689
+construir (v)		to construct, build		525
+contemplar (v)		to contemplate		807
+contener (v)		to contain		829
+contestar (v)		to answer, reply		764
+convenir (v)		to be agreeable, be convenient		964
+corresponder (v)		to correspond with		599
+cortar (v)		to cut		597
+costar (v)		to cost, to be hard to do		626
+crecer (v)		to grow, increase		552
+cruzar (v)		to cross [also atravesar]		726
+cubrir (v)		to cover		691
+cuidar (v)		to take care of		846
+defender (v)		to defend, protect		665
+definir (v)		to define		974
+demostrar (v)		to show, demonstrate		501
+depender (v)		to depend on		673
+desaparecer (v)		to disappear, vanish		528
+desear (v)		to want, desire, wish for		515
+despertar (v)		to wake up, arouse		734
+destacar (v)		to emphasize, stand out		941
+discutir (v)		to argue, discuss		859
+disponer (v)		to have means, dispose		658
+distinguir (v)		to distinguish		945
+dominar (v)		to dominate, master		926
+dormir (v)		to sleep		857
+durar (v)		to last		812
+emplear (v)		to employ		962
+enfrentar (v)		to confront, face		862
+enseñar (v)		to teach, show		524
+entregar (v)		to deliver		558
+enviar (v)		to send		842
+escapar (v)		to escape		757
+establecer (v)		to establish		565
+exigir (v)		to demand		630
+exponer (v)		to expound, expose		773
+expresar (v)		to express		660
+extender (v)		to extend, spread		851
+faltar (v)		to be lacking		510
+firmar (v)		to sign		870
+funcionar (v)		to work, function		692
+guardar (v)		to keep, save		566
+identificar (v)		to identify		986
+impedir (v)		to prevent, hinder		751
+imponer (v)		to impose, enforce		641
+incluir (v)		to include		720
+informar (v)		to inform		835
+iniciar (v)		to initiate, start		568
+insistir (v)		to insist on		699
+instalar (v)		to install		958
+interpretar (v)		to interpret		983
+intervenir (v)		to intervene		847
+introducir (v)		to introduce, bring in		949
+invitar (v)		to invite		954
+lanzar (v)		to throw (violently), to hurl [also arrojar]		611
+llenar (v)		to fill		925
+mandar (v)		to send, order		529
+manejar (v)		to drive, handle		916
+marcar (v)		to mark, note, dial		677
+matar (v)		to kill		557
+medir (v)		to measure		929
+mejorar (v)		to improve, get better		960
+mencionar (v)		to mention, cite		905
+merecer (v)		to deserve, be worthy of		716
+meter (v)		to put into		573
+montar (v)		to ride, mount, assemble		998
+negar (v)		to deny, refuse		617
+notar (v)		to notice [also percibir]		571
+obligar (v)		to obligate, force		642
+organizar (v)		to organize		825
+participar (v)		to participate		750
+permanecer (v)		to stay, remain		821
+pertenecer (v)		to belong		654
+pesar (v)		to weigh (v)		770
+plantear (v)		to propose, present		910
+preferir (v)		to prefer		541
+preocupar(se) (v)		to worry		766
+prestar (v)		to lend		767
+pretender (v)		to attempt		584
+probar (v)		to test, prove, try		911
+pronunciar (v)		to pronounce		944
+provocar (v)		to cause, provoke		663
+publicar (v)		to publish		743
+quitar (v)		to remove, take away		669
+recoger (v)		to pick up		634
+recorrer (v)		to travel, cover distance		808
+recuperar (v)		to recuperate, recover		965
+reducir (v)		to reduce		996
+regresar (v)		to return to a place		799
+representar (v)		to represent		527
+resolver (v)		to resolve, settle, work out		622
+respetar (v)		to respect		880
+retirar (v)		to take away, retire		817
+reunir (v)		to put togerther, to get together [also juntar]		509
+romper (v)		to break		601
+salvar (v)		to save, rescue		753
+sentar (v)		to sit down, seat		710
+separar (v)		to separate		792
+significar (v)		to mean		502
+sostener (v)		to support, hold up		883
+superar (v)		to overcome, surpass		975
+surgir (v)		to appear, spring forth		553
+tardar (v)		to delay, take long		959
+tender (v)		to tend to, lay out		727
+tirar (v)		to throw, pull		759
+transformar (v)		to transform, change		891
+unir (v)		to unite		918
+vender (v)		to sell		526
+viajar (v)		to travel		790
+visitar (v)		to visit		834
+activo (adj)		active		1328
+ajeno (adj)		not belonging to, detached		1175
+americano (adj)		American		1261
+auténtico (adj)		authentic		1223
+barato (adj)		inexpensive		1470
+bello (adj)		beautiful, fine		1338
+breve (adj)		brief, short		1153
+brillante (adj)		brilliant, shiny, sparkling		1342
+central (adj)		central (adj)		1062
+chino (adj)		Chinese		1444
+ciego (adj)		blind		1481
+clásico (adj)		classic		1329
+comercial (adj)		commercial, shopping		1253
+complejo (adj)		complex, complicated (adj)		1278
+complicado (adj)		complicated, complex		1368
+consciente (adj)		conscious, aware		1416
+constante (adj)		constant		1034
+convencido (adj)		convinced, persuaded		1294
+correcto (adj)		correct, suitable		1234
+correspondiente (adj)		corresponding		1461
+cotidiano (adj)		daily (adj) [also diario]		1434
+cristiano (adj)		Christian		1114
+cultural (adj)		cultural		1277
+curioso (adj)		curious, strange		1084
+débil (adj)		weak		1284
+delicado (adj)		delicate		1380
+desconocido (adj)		unknown		1302
+doble (adj)		double (adj)		1002
+eléctrico (adj)		electric		1333
+encargado (adj)		in charge of		1479
+escaso (adj)		scarce, very little		1110
+europeo (adj)		European		1092
+evidente (adj)		evident, obvious		1051
+excelente (adj)		excellent		1273
+exterior (adj)		exterior, outside (adj)		1163
+extranjero (adj)		foreign, alien (adj)		1042
+extremo (nm)		edge, border, end (nm)		1036
+falso (adj)		false		1140
+femenino (adj)		feminine, female		1345
+fijo (adj)		fixed, steady		1061
+fino (adj)		fine, delicate		1348
+fuerte (adj)		strong		1010
+fundamental (adj)		fundamental		1086
+griego (adj)		Greek		1467
+habitual (adj)		usual, habitual, customary		1403
+hermoso (adj)		beautiful, lovely		1224
+independiente (adj)		independent, self-sufficient		1291
+individual (adj)		individual		1482
+infantil (adj)		of children, childlike, infantile		1186
+inferior (adj)		lower, inferior		1350
+inmenso (adj)		immense, vast, huge		1074
+intelectual (adj)		intellectual		1103
+inteligente (adj)		intelligent		1447
+intenso (adj)		intense, acute		1119
+internacional (adj)		international		1189
+lejano (adj)		distant		1152
+lento (adj)		slow		1128
+limpio (adj)		clean		1397
+listo (adj)		ready, clever, smart		1456
+literario (adj)		literary		1494
+loco (adj)		crazy, insane		1377
+lógico (adj)		logical		1214
+máximo (adj)		maximum (adj)		1089
+moral (adj)		moral (adj)		1082
+muchísimo (adj)		great many, great amount		1305
+nervioso (adj)		nervous, uptight		1410
+norteamericano (adj)		North American		1246
+notable (adj)		outstanding, noteworthy		1475
+numeroso (adj)		numerous		1101
+objetivo (nm)		objective (nm)		1210
+obligado (adj)		obliged, required		1255
+oficial (adj)		official, authorized (adj)		1099
+original (adj)		original (adj)		1191
+peligroso (adj)		dangerous		1127
+pendiente (adj)		aware of, pending		1296
+permanente (adj)		permanent		1239
+pesado (adj)		heavy, boring, tiresome		1367
+positivo (adj)		positive		1356
+posterior (adj)		rear, backside		1399
+práctico (adj)		practical, skillful		1270
+preparado (adj)		prepared		1067
+previo (adj)		previous		1437
+quinto (adj)		fifth		1179
+reciente (adj)		recent		1332
+relacionado (adj)		related, regarding		1402
+sano (adj)		healthy, wholesome [also saludable]		1394
+seco (adj)		dry, arid		1178
+seguido (adj)		in a row, successive		1465
+seguro (adj)		safe, sure, secure (adj)		1118
+semejante (adj)		similar, such, alike		1039
+sentado (adj)		seated		1231
+separado (adj)		separate		1208
+similar (adj)		similar [also parecideo]		1325
+técnico (adj)		technical (adj)		1480
+temprano (adj)		early		1200
+terrible (adj)		terrible		1228
+tradicional (adj)		traditional		1309
+tranquilo (adj)		calm, tranquil, relaxed		1144
+tremendo (adj)		tremendous, dreadful, huge		1198
+triste (adj)		sad, unhappy		1314
+universal (adj)		universal		1488
+útil (adj)		useful		1195
+vecino (nm)		neighbor (nm)		1095
+violento (adj)		violent		1389
+vital (adj)		vital, lively, essential		1428
+absolutamente (adv)		absolutely, completely		1181
+acaso (adv)		by chance, maybe		1072
+acerca (adv)		about, concerning		1288
+aparte (adv)		apart, aside, separately		1313
+ayer (adv)		yesterday		1112
+claramente (adv)		clearly		1477
+cuándo (adv)		when?		1199
+definitivamente (adv)		definitely, finally		1358
+generalmente (adv)		generally, usually		1463
+igualmente (adv)		equally		1431
+justamente (adv)		just, exactly		1485
+nuevamente (adv)		anew, again		1454
+prácticamente (adv)		practically		1106
+profundamente (adv)		profoundly, deeply		1365
+rápidamente (adv)		rapidly, quickly		1008
+únicamente (adv)		only [also solamente]		1409
+verdaderamente (adv)		truly		1407
+ah (interj) [also oh]		oh		1489
+estudiante (nc)		student		1019
+juez (nc)		judge		1259
+periodista (nc)		journalist		1464
+poeta (nc)		poet		1262
+policía (nc)		police, police force, police officer		1017
+representante (nc)		representative (nc)		1491
+alegría (nf)		joy, happiness		1429
+amistad (nf)		friendship		1232
+ausencia (nf)		absence		1321
+aventura (nf)		adventure		1366
+batalla (nf)		battle		1091
+belleza (nf)		beauty		1472
+busca (nf)		search, hunt		1441
+cadena (nf)		chain		1236
+caja (nf)		bank, box, safe		1258
+cama (nf)		bed (furniture)		1185
+cámara (nf)		camera, chamber		1172
+campaña (nf)		campaign		1362
+canción (nf)		song		1459
+capa (nf)		layer, coat		1496
+característica (nf)		characteristic, aspect		1266
+carga (nf)		load, charge, cargo		1031
+categoría (nf)		category		1280
+columna (nf)		column, spine		1406
+compra (nf)		shopping, buy, purchase		1374
+comunidad (nf)		community		1130
+conclusión (nf)		conclusion, end		1138
+conducta (nf)		conduct, behavior		1388
+consideración (nf)		consideration, regard		1335
+costa (nf)		coast		1126
+creación (nf)		creation		1173
+crisis (nf)		crisis		1085
+crítica (nf)		criticism, critique		1344
+culpa (nf)		blame, fault		1053
+derecha (nf)		right, right hand		1035
+disciplina (nf)		discipline, subject		1401
+discusión (nf)		discussion, argument		1055
+disposición (nf)		disposal, disposition		1398
+entrevista (nf)		interview, meeting		1419
+escena (nf)		scene, stage, setting		1139
+espalda (nf)		back (body)		1499
+estación (nf)		station, season		1275
+estrella (nf)		star (nf)		1194
+estructura (nf)		structure		1141
+excepción (nf)		exception		1319
+fábrica (nf)		factory, manufacture		1498
+facilidad (nf)		ease, facility		1108
+facultad (nf)		faculty, ability		1383
+fe (nf)		faith		1060
+fotografía (nf)		photograph		1385
+frecuencia (nf)		frequency		1137
+frontera (nf)		border, frontier		1150
+gana (nf)		desire		1177
+hermana (nf)		sister		1256
+iglesia (nf)		church		1111
+ilusión (nf)		illusion, hope, dream		1372
+influencia (nf)		influence		1102
+inquietud (nf)		restlessness, anxiety		1453
+institución (nf)		institution		1115
+inteligencia (nf)		intelligence		1375
+interpretación (nf)		interpretation, interpreting		1468
+isla (nf)		island		1229
+justicia (nf)		justice, fairness		1290
+juventud (nf)		youth		1311
+leche (nf)		milk		1334
+lista (nf)		list, roster, roll		1049
+literatura (nf)		literature		1090
+llamada (nf)		call, knock		1022
+lluvia (nf)		rain		1217
+mañana (adv)		tomorrow (adv)		1235
+marca (nf)		mark, brand, trademark		1370
+mirada (nf)		gaze, look		1197
+misión (nf)		mission, task		1432
+moda (nf)		fashion, form		1180
+moneda (nf)		coins, currency		1107
+montaña (nf)		mountain (nf)		1212
+niña (nf)		child, young girl		1052
+norma (nf)		standard, pattern, norm		1349
+novela (nf)		novel		1080
+obligación (nf)		obligation		1040
+oficina (nf)		office		1113
+organización (nf)		organization		1243
+página (nf)		page		1135
+participación (nf)		participation, involvement		1438
+partida (nf)		game, match, departure		1165
+pasión (nf)		passion, desire		1445
+pérdida (nf)		loss		1417
+personalidad (nf)		personality, celebrity		1421
+perspectiva (nf)		perspective		1066
+pierna (nf)		leg		1201
+pintura (nf)		painting, paint		1097
+plata (nf)		silver, money		1281
+plaza (nf)		square, marketplace		1020
+prensa (nf)		press		1318
+profesión (nf)		profession, occupation		1206
+profundidad (nf)		depth, profundity		1330
+punta (nf)		tip, point		1427
+raíz (nf)		root		1028
+rama (nf)		branch, bough, limb		1160
+reacción (nf)		reaction		1122
+referencia (nf)		reference, allusion		1063
+región (nf)		region		1050
+regla (nf)		rule, ruler, regulation		1014
+religión (nf)		religion		1460
+representación (nf)		representation		1425
+resistencia (nf)		resistance, opposition		1415
+riqueza (nf)		riches, wealth		1474
+ropa (nf)		clothes, clothing		1285
+rueda (nf)		wheel		1352
+satisfacción (nf)		satisfaction		1299
+señal (nf)		sign, mark, token		1360
+sensación (nf)		sensation, feeling		1023
+silla (nf)		chair, seat		1307
+sombra (nf)		shade, shadow		1324
+sorpresa (nf)		surprise		1264
+suma (nf)		sum, amount, summary		1271
+superficie (nf)		surface, area		1442
+tarde (adv)		late (adv)		1046
+técnica (nf)		technique, skill		1187
+televisión (nf)		TV, television		1078
+tendencia (nf)		tendency, style		1347
+unidad (nf)		unit, unity		1025
+universidad (nf)		university, college		1473
+velocidad (nf)		speed, velocity [also rapidez]		1145
+venta (nf)		sale		1075
+ventaja (nf)		advantage, benefit		1226
+ventana (nf)		window		1265
+violencia (nf)		violence		1190
+virtud (nf)		virtue, quality		1378
+hambre (nf el)		hunger, starvation		1204
+acceso (nm)		access, entry		1315
+accidente (nm)		accident, irregularity		1098
+acontecimiento (nm)		event, happening		1125
+agosto (nm)		August		1244
+alcance (nm)		reach, scope		1083
+alimento (nm)		food, nourishment		1143
+análisis (nm)		analysis		1148
+ánimo (nm)		zest, spirit, heart		1240
+aparato (nm)		apparatus, device		1168
+argumento (nm)		argument, plot		1279
+ataque (nm)		attack, raid		1157
+avión (nm)		plane, airplane, aircraft		1283
+barco (nm)		boat		1164
+barrio (nm)		neighborhood, district		1146
+beneficio (nm)		benefit, profit		1142
+café (nm)		coffee, café		1250
+capítulo (nm)		chapter		1450
+chico (nm)		boy [also muchacho]		1079
+cine (nm)		cinema, US movie theater		1159
+círculo (nm)		circle, club		1222
+coche (nm)		car, carriage		1131
+colegio (nm)		high school, college		1073
+comentario (nm)		remark, comment		1030
+comienzo (nm)		start, beginning		1162
+comportamiento (nm)		behavior, conduct		1343
+compromiso (nm)		compromise, engagement		1029
+conflicto (nm)		conflict		1282
+consejo (nm)		advice, council, counsel		1188
+contenido (nm)		contents, content		1038
+criterio (nm)		criterion		1292
+cuento (nm)		story, tale		1357
+daño (nm)		harm, injury, damage		1045
+dedo (nm)		finger, toe, digit		1248
+defecto (nm)		defect		1497
+departamento (nm)		department, apartment		1462
+diálogo (nm)		dialogue, conversation		1251
+diciembre (nm)		December		1341
+discurso (nm)		lecture, discourse, talk		1254
+documento (nm)		document		1076
+domingo (nm)		Sunday		1121
+dueño (nm)		owner, landlord (m)		1093
+ejercicio (nm)		exercise, practice		1242
+ejército (nm)		army		1218
+empleado (nm)		employee		1104
+empleo (nm)		work, job, occupation		1436
+enemigo (nm)		enemy		1024
+enero (nm)		January		1449
+equilibrio (nm)		balance		1487
+espectáculo (nm)		spectacle, show		1420
+examen (nm)		examination, exam		1286
+exceso (nm)		excess		1495
+experto (nm)		expert		1452
+extranjero (nm)		foreigner (nm)		1171
+fracaso (nm)		failure, collapse		1451
+frío (nm)		cold (nm)		1120
+fruto (nm)		fruit, result		1490
+fuego (nm)		fire, gunfire		1346
+futuro (adj)		future (adj)		1300
+gasto (nm)		expense, expenditure		1249
+gato (nm)		cat		1412
+general (nm)		general (nm)		1400
+gesto (nm)		gesture		1065
+habitante (nm)		inhabitant		1287
+honor (nm)		honor, honesty		1211
+hospital (nm)		hospital		1298
+idioma (nm)		language		1027
+indio (nm)		Indian		1411
+individuo (nm)		individual, person		1037
+instante (nm)		instant, moment		1215
+intento (nm)		attempt, try		1012
+interior (adj)		interior, inside (adj)		1263
+invierno (nm)		winter		1340
+kilómetro (nm)		kilometer		1297
+maestro (adj)		master (adj)		1469
+marco (nm)		frame, mark, setting		1316
+marido (nm)		husband		1032
+material (adj)		material (adj)		1414
+matrimonio (nm)		marriage, married couple		1109
+mayo (nm)		May		1422
+mensaje (nm)		message		1047
+método (nm)		method		1129
+nacimiento (nm)		birth, origin		1339
+organismo (nm)		organization, organism, human body		1458
+pan (nm)		bread		1392
+particular (nm)		particular, detail, individual (nm)		1260
+pelo (nm)		hair [also cabello]		1056
+período (nm)		period, time		1440
+personal (nm)		personnel, staff, staffing (nm)		1404
+placer (nm)		pleasure		1205
+plazo (nm)		deadline, installment		1295
+premio (nm)		prize, reward		1337
+presente (adj)		present, current (adj)		1088
+puente (nm)		bridge		1353
+puerto (nm)		port, harbor		1364
+rasgo (nm)		feature, trait		1355
+rato (nm)		moment, while, time		1478
+régimen (nm)		regime, diet		1426
+remedio (nm)		alternative, cure, solution		1379
+rey (nm)		king		1238
+riesgo (nm)		risk		1016
+ruido (nm)		noise		1184
+salto (nm)		jump, hop, skip		1391
+sector (nm)		sector, area, section		1096
+signo (nm)		sign, mark, symbol		1359
+sonido (nm)		sound		1192
+sur (nm)		south		1064
+techo (nm)		ceiling, roof		1386
+temor (nm)		fear [also miedo]		1154
+territorio (nm)		territory		1382
+en torno a torno (nm)		about, regarding		1230
+total (nm)		sum, total (nm)		1043
+tratamiento (nm)		treatment, processing		1418
+trato (nm)		treatment, manner, agreement		1241
+tren (nm)		train, convoy		1220
+vehículo (nm)		vehicle, car		1446
+viento (nm)		wind, scent		1216
+volumen (nm)		volume		1274
+escritor (nm/f)		writer		1011
+médico (adj)		medical (adj)		1170
+político (nm/f)		politician (nm/f)		1237
+secretario (nm/f)		secretary		1245
+corte (nmf)		court (f), cut (m)		1041
+margen (nmf)		edge, margin, border, brink		1413
+once (num)		eleven		1455
+quince (num)		fifteen		1033
+sesenta (num)		sixty		1306
+aquél (pron)		that one over there (m)		1390
+os (pron)		you (obj pl fam)		1373
+aclarar (v)		to clarify, clear up		1133
+acudir (v)		to attend, go to, frequent		1044
+acumular (v)		to accumulate, amass		1301
+adoptar (v)		to adopt		1267
+alejar (v)		to move away		1196
+amar (v)		to love		1486
+añadir (v)		to add		1369
+analizar (v)		to analyze		1048
+animar (v)		to cheer up		1354
+apreciar (v)		to appreciate		1483
+aprobar (v)		to pass a test, approve		1443
+apuntar (v)		to point, note, aim		1361
+arrancar (v)		to start a machine, uproot		1268
+arrastrar (v)		to drag, pull		1134
+arreglar (v)		to fix, arrange		1351
+asumir (v)		to assume, take on		1132
+atacar (v)		to attack		1393
+atraer (v)		to attract		1293
+atrever (v)		to dare		1276
+basar (v)		to base on, base upon		1430
+beber (v)		to drink		1476
+calcular (v)		to calculate, figure out		1155
+cantar (v)		to sing		1124
+casar (v)		to marry		1105
+causar (v)		to cause, bring about		1007
+ceder (v)		to give way, yield		1289
+celebrar (v)		to celebrate		1059
+citar (v)		to cite, quote		1077
+cobrar (v)		to charge money		1013
+cometer (v)		to commit		1213
+comparar (v)		to compare		1058
+componer (v)		to compose, be part of		1336
+conceder (v)		to grant, concede		1331
+concentrar (v)		to concentrate		1233
+concluir (v)		to conclude, finish		1221
+condenar (v)		to convict, condemn		1323
+confiar (v)		to trust, confide		1423
+confirmar (v)		to confirm		1435
+conformar (v)		to conform		1156
+confundir (v)		to confuse		1149
+consumir (v)		to consume, take in		1326
+contribuir (v)		to contribute		1183
+controlar (v)		to control		1070
+convencer (v)		to convince, persuade		1169
+declarar (v)		to declare, testify		1136
+descansar (v)		to rest		1257
+describir (v)		to describe		1151
+destinar (v)		to assign, appoint		1057
+destruir (v)		to destroy, ruin		1207
+determinar (v)		to determine, decide		1009
+devolver (v)		to give back, to return something [also retornar]		1003
+disfrutar (v)		to enjoy [also gozar]		1269
+dividir (v)		to divide		1015
+dudar (v)		to have doubt		1252
+ejercer (v)		to practice, exercise		1004
+elevar (v)		to elevate, raise		1123
+encargar (v)		to entrust, [se] take charge of		1054
+equivocar (v)		to be wrong		1457
+estimar (v)		to estimate, hold in esteem		1433
+experimentar (v)		to experience, experiment		1484
+fabricar (v)		to manufacture		1408
+facilitar (v)		to facilitate		1381
+figurar (v)		to appear, represent, figure in		1227
+fundar (v)		to found, base		1117
+girar (v)		to rotate, revolve		1371
+gozar (v)		to enjoy [also disfrutar]		1304
+grabar (v)		to record, engrave		1448
+hallar (v)		to find out		1166
+ignorar (v)		to be unaware		1247
+incorporar (v)		to incorporate, include		1087
+integrar (v)		to integrate, fit in		1439
+interrumpir (v)		to interrupt		1405
+inventar (v)		to invent, make up		1018
+justificar (v)		to justify, excuse		1308
+juzgar (v)		to judge		1396
+liberar (v)		to free, liberate		1363
+limitar (v)		to limit		1021
+llorar (v)		to cry		1466
+luchar (v)		to fight, wrestle		1026
+manifestar (v)		to express, show		1069
+marchar (v)		to walk, to work (like a machine)		1203
+mezclar (v)		to mix		1500
+molestar (v)		to bother, disturb, upset		1272
+nombrar (v)		to name, appoint		1147
+operar (v)		to operate		1424
+opinar (v)		to think, be of the opinion		1209
+oponer (v)		to oppose		1225
+ordenar (v)		to put in order, organize		1167
+parar (v)		to stop moving		1001
+pegar (v)		to hit, stick on		1395
+perseguir (v)		to pursue		1094
+pintar (v)		to paint		1158
+poseer (v)		to possess, own		1005
+practicar (v)		to practice		1303
+proceder (v)		to proceed, start		1322
+procurar (v)		to try, seek		1100
+proteger (v)		to protect		1006
+proyectar (v)		to project		1471
+rechazar (v)		to reject		1182
+reflejar (v)		to reflect		1176
+reír (v)		to laugh		1493
+repartir (v)		to divide, deliver, distribute		1161
+requerir (v)		to require		1081
+resistir (v)		to resist, endure		1312
+robar (v)		to rob, steal		1492
+rodear (v)		to surround		1174
+saltar (v)		to jump, leap, hop		1071
+solicitar (v)		to solicit, request		1384
+someter (v)		to subject, submit, subjugate		1116
+sonar (v)		to sound, ring		1068
+soportar (v)		to endure, stand (something)		1310
+sorprender (v)		to surprise		1320
+sugerir (v)		to suggest, hint at		1327
+temer (v)		to fear		1387
+transmitir (v)		to transmit, broadcast		1202
+trasladar (v)		to move, transfer		1219
+vencer (v)		to overcome, conquer		1193
+vestir (v)		to wear, dress		1317
+volar (v)		to fly		1376
+acostumbrado (adj)		accustomed		1595
+agradable (adj)		nice, pleasant		1724
+aislado (adj)		isolated		1533
+alejado (adj)		remote, distant, aloof		1894
+amarillo (adj)		yellow		1586
+ancho (adj)		wide (adj)		1720
+anciano (adj)		elderly, aged		1912
+aplicado (adj)		applied		1827
+argentino (adj)		Argentine		1626
+armado (adj)		armed		1639
+artístico (adj)		artistic		1598
+avanzado (adj)		advanced		1856
+bonito (adj)		pretty, nice		1707
+caliente (adj)		hot, warm, spirited		1793
+campesino (adj)		rural		1815
+caro (adj)		expensive, difficult, dear		1876
+casado (adj)		married		1830
+castellano (adj)		Castilian, Spanish		1660
+científico (adj)		scientific (adj)		1634
+circular (v)		to circulate, go around, flow (v)		1822
+ciudadano (nm)		citizen (nm)		1787
+clave (nf)		key (nf)		1903
+colectivo (adj)		collective, joint (adj)		1728
+cómodo (adj)		comfortable, convenient		1627
+conforme (adj)		in agreement		1572
+contento (adj)		happy, content		1642
+continuo (adj)		continuous		1502
+conveniente (adj)		convenient		1970
+crítico (adj)		critical (adj)		1656
+cubierto (adj)		covered		1646
+decidido (adj)		determined, resolute		1988
+digno (adj)		worthy		1561
+divino (adj)		divine		1888
+doméstico (adj)		domestic		1960
+dulce (adj)		sweet (adj)		1882
+efectivo (adj)		effective [also eficaz]		1820
+eficaz (adj)		effective [also efectivo]		1976
+elegante (adj)		elegant, smart, stylish		1918
+elemental (adj)		elemental, basic		1901
+elevado (adj)		elevated, high, lofty		1512
+entendido (adj)		understood		1852
+esencial (adj)		essential		1573
+espiritual (adj)		spiritual		1865
+establecido (adj)		established		1515
+estrecho (adj)		narrow		1686
+eterno (adj)		eternal		1872
+excesivo (adj)		excessive		1607
+fiel (adj)		faithful, loyal		1913
+firme (adj)		firm, steady		1570
+frecuente (adj)		frequent		1693
+ideal (nm)		ideal, goal (nm)		1702
+incapaz (adj)		incapable		1733
+increíble (adj)		incredible, unbelievable		1669
+indispensable (adj)		indispensable, essential		1949
+inevitable (adj)		inevitable, unavoidable		1694
+inicial (adj)		initial (adj)		1879
+interesado (adj)		interested		1605
+íntimo (adj)		close, intimate		1684
+inútil (adj)		useless		1564
+izquierdo (adj)		left (opposite of right)		1703
+latino (adj)		Latin (adj)		1862
+ligero (adj)		light (in weight), slight		1696
+limitado (adj)		limited		1866
+local (adj)		local (adj)		1516
+magnífico (adj)		magnificent, splendid		1812
+maravilloso (adj)		wonderful, marvelous		1743
+mecánico (adj)		mechanical		1973
+mental (adj)		mental		1674
+múltiple (adj)		multiple, many		1556
+mundial (adj)		worldwide		1951
+musical (adj)		musical		1752
+negativo (adj)		negative, pessimistic		1631
+nocturno (adj)		nocturnal, evening		1979
+no + obstante obstante (adj)		nevertheless		1679
+ocupado (adj)		busy, occupied		1601
+oportuno (adj)		opportune, timely		1937
+opuesto (adj)		opposite, contrary		1785
+oriental (adj)		eastern, oriental		1955
+poderoso (adj)		powerful		1560
+precioso (adj)		beautiful, precious		1839
+preocupado (adj)		worried, concerned		1677
+primario (adj)		primary		1715
+probable (adj)		probable		1840
+radical (adj)		radical		1987
+redondo (adj)		round (adj)		1757
+reducido (adj)		reduced, limited		1736
+regular (adj)		regular (adj)		1956
+relativo (adj)		relative (adj)		1747
+respectivo (adj)		respective		1797
+revolucionario (adj)		revolutionary		1947
+rodeado (adj)		surrounded		1801
+romano (adj)		Roman		1774
+roto (adj)		broken, torn		1914
+sabio (adj)		wise, learned		1790
+sagrado (adj)		sacred		1775
+satisfecho (adj)		satisfied		1735
+secreto (adj)		secret (adj)		1731
+severo (adj)		severe		1832
+sexual (adj)		sexual		1796
+significativo (adj)		significant, meaningful		1939
+situado (adj)		situated, located		1798
+sólido (adj)		solid, strong		1569
+suave (adj)		soft, gentle, mild		1784
+sucio (adj)		dirty, filthy, underhanded		1994
+suelto (adj)		loose		1941
+sujeto (nm)		subject, individual (nm)		1748
+típico (adj)		typical		1651
+trabajador (nm/f)		worker, laborer (nm/f) [also obrero]		1714
+vacío (adj)		empty, vacant (adj)		1532
+vestido (adj)		dressed (adj)		1870
+afuera (adv)		outside		1858
+aparentemente (adv)		apparently		1853
+constantemente (adv)		constantly		1868
+efectivamente (adv)		in fact, actually, indeed		1604
+evidentemente (adv)		evidently, obviously		1766
+exclusivamente (adv)		exclusively		1769
+fácilmente (adv)		easily		1629
+justo (adj)		fair, just (adj)		1834
+lentamente (adv)		slowly		1975
+a menudo (adv)		often		1944
+naturalmente (adv)		naturally		1523
+peor (adj)		worse, worst (adj)		1965
+personalmente (adv)		personally		1964
+posiblemente (adv)		possibly		1980
+suficientemente (adv)		enough (adv)		1805
+cuando (adv)		when (adv)		1803
+agente (nc)		agent		1806
+amante (nc)		lover		1893
+cliente (nc)		client, customer		1550
+especialista (nc)		specialist		1886
+guardia (nc)		guard, watch, lookout		1842
+oficial (nc)		official, officer (nc)		1781
+paciente (nc)		patient		1511
+actuación (nf)		performance, acting		1924
+alternativa (nf)		alternative		1800
+amiga (nf)		friend (f)		1817
+angustia (nf)		anguish, distress		1957
+aparición (nf)		appearance, apparition		1854
+apariencia (nf)		appearance, aspect		1863
+arena (nf)		sand		1635
+biblioteca (nf)		library		1825
+bolsa (nf)		bag, purse, stock exchange		1915
+bomba (nf)		bomb, explosion, pump		1562
+búsqueda (nf)		search		1727
+caída (nf)		fall, drop, falling		1659
+cárcel (nf)		jail, prison		1991
+carretera (nf)		highway, road		1818
+chica (nf)		girl, female		1907
+cifra (nf)		figure, number, amount		1540
+cinta (nf)		tape, ribbon, film, strip		1916
+claridad (nf)		clearness, clarity		1630
+cocina (nf)		kitchen		1673
+cola (nf)		line, queue, tail		1589
+colección (nf)		collection		1906
+comparación (nf)		comparison		1772
+competencia (nf)		competition, contest		1529
+composición (nf)		composition, make-up, essay		1898
+comprensión (nf)		understanding (nf)		1732
+concentración (nf)		concentration, gathering		1670
+confusión (nf)		confusion		1706
+continuación (nf)		continuation, follow-up		1921
+corriente (adj)		current, common (adj)		1709
+cualidad (nf)		quality, attribute		1997
+curiosidad (nf)		curiosity, quaintness		1857
+declaración (nf)		declaration, statement		1746
+definición (nf)		definition		1676
+demanda (nf)		petition, request, demand		1950
+desgracia (nf)		misfortune, bad luck		1584
+dimensión (nf)		dimension, size		1549
+división (nf)		division		1992
+economía (nf)		economy, economics, thriftiness		1504
+emoción (nf)		emotion, excitement		1577
+enseñanza (nf)		teaching, instruction		1751
+escala (nf)		scale, ladder, rank		1542
+esencia (nf)		essence		1672
+espera (nf)		wait		1525
+esquina (nf)		corner		1926
+evolución (nf)		evolution, development		1754
+exigencia (nf)		requirement, demand		1711
+exposición (nf)		exhibition, display		1689
+fama (nf)		reputation, fame		1967
+felicidad (nf)		happiness		1892
+fila (nf)		line, row, file		1647
+filosofía (nf)		philosophy		1808
+firma (nf)		company, signature, signing		1567
+fórmula (nf)		formula		1546
+fortuna (nf)		fortune, fate		1782
+fruta (nf)		fruit		1701
+habilidad (nf)		ability, skill, talent		1582
+habitación (nf)		room, bedroom, habitat		1610
+humanidad (nf)		humanity, mankind		1566
+identidad (nf)		identity		1583
+imaginación (nf)		imagination, fantasy		1838
+independencia (nf)		independence		1767
+industria (nf)		industry, factory		1884
+infancia (nf)		infancy, childhood		1928
+iniciativa (nf)		initiative		1668
+instrucción (nf)		instruction		1611
+intervención (nf)		intervention		1615
+lección (nf)		lesson		1977
+llegada (nf)		arrival		1616
+manifestación (nf)		protest, manifestation		1551
+medicina (nf)		medicine		1725
+mentira (nf)		lie		1768
+mezcla (nf)		mixture, blend		1606
+miseria (nf)		misery, wretchedness		1963
+moral (nf)		morals, ethics (nf)		1756
+muestra (nf)		proof, sample, sign		1594
+nación (nf)		nation		1891
+novedad (nf)		latest news, newness		1864
+nube (nf)		cloud		1961
+observación (nf)		observation		1535
+oposición (nf)		opposition		1699
+playa (nf)		beach, seaside		1713
+pobreza (nf)		poverty, lack, scarcity		1874
+poesía (nf)		poetry, poem		1841
+postura (nf)		posture, position, attitude		1636
+potencia (nf)		power, potential		1779
+precisión (nf)		precision		1847
+presentación (nf)		presentation, introduction		1990
+producción (nf)		production [also elaboración]		1721
+protección (nf)		protection		1652
+provincia (nf)		province, region		1624
+rapidez (nf)		speed, velocity [also velocidad]		1899
+raza (nf)		race, lineage		1620
+red (nf)		network, net, system		1658
+reflexión (nf)		reflection, thought		1826
+reserva (nf)		reservation, reserve		1527
+rosa (nf)		rose		1978
+sección (nf)		section, cut		1910
+sensibilidad (nf)		sensitivity		1554
+sesión (nf)		session, meeting		1683
+tabla (nf)		chart, board, table, plank		1833
+tela (nf)		cloth, fabric		1719
+temperatura (nf)		temperature		1558
+temporada (nf)		season, period, time		1887
+tensión (nf)		tension, stress, strain		1514
+tienda (nf)		shop, store, tent		1650
+tragedia (nf)		tragedy		1905
+tranquilidad (nf)		tranquility, peace		1729
+vacaciones (nf)		vacation		1623
+versión (nf)		version, account		1613
+víctima (nf)		victim, casualty		1712
+victoria (nf)		victory, triumph		1821
+vivienda (nf)		housing, dwelling		1600
+vocación (nf)		vocation, calling		1829
+área (nf el)		area, zone (nf el)		1602
+abril (nm)		abril		1922
+abuelo (nm)		grandfather		1740
+actor (nm)		actor		1705
+alrededor (nm)		surrounding area, vicinity (nm)		1617
+ámbito (nm)		sphere, space		1547
+aumento (nm)		increase, rise		1873
+automóvil (nm)		automobile		1578
+avance (nm)		advance, progress [also adelanto]		1565
+baño (nm)		bathroom, bath, swim		1789
+borde (nm)		edge		1763
+bosque (nm)		forest		1506
+caballero (nm)		gentleman, knight		1885
+cálculo (nm)		calculation, calculus		1897
+canal (nm)		channel, canal		1804
+canto (nm)		singing, chant		1778
+carro (nm)		car, cart		1871
+castigo (nm)		punishment, penalty		1867
+cerebro (nm)		brain		1734
+clima (nm)		climate		1576
+comercio (nm)		commerce, trade		1522
+continente (nm)		continent		1831
+contrato (nm)		contract, agreement		1989
+crecimiento (nm)		growth, increase		1902
+crédito (nm)		credit, reputation		1799
+crimen (nm)		crime, murder		1783
+cuello (nm)		neck, collar		1920
+desastre (nm)		disaster		1953
+descanso (nm)		rest, interval, break		1930
+descubrimiento (nm)		discovery		1622
+dibujo (nm)		drawing, sketch		1692
+diente (nm)		tooth, cog		1859
+disco (nm)		disc, disk, record		1948
+dólar (nm)		dollar		1878
+dominio (nm)		power, control		1619
+ensayo (nm)		essay, rehearsal		1835
+entusiasmo (nm)		enthusiasm		1765
+escenario (nm)		stage, setting, scene		1638
+espejo (nm)		mirror, reflection		1730
+exterior (nm)		exterior, outside (nm)		1795
+extremo (adj)		extreme (adj)		1571
+factor (nm)		factor, cause, influence		1925
+familiar (nm)		relative (nm)		1934
+febrero (nm)		February		1722
+funcionario (nm)		civil servant		1653
+género (nm)		sort, gender, genre		1501
+grito (nm)		cry, shout, scream		1671
+hábito (nm)		habit		1596
+hierro (nm)		iron		1716
+hilo (nm)		thread, yarn, wire		1851
+hombro (nm)		shoulder		1927
+hotel (nm)		hotel		1643
+hueso (nm)		bone		1695
+huevo (nm)		egg		1900
+humor (nm)		mood, humor		1889
+ideal (adj)		ideal (adj)		1717
+impulso (nm)		impulse, momentum		1520
+índice (nm)		index, forefinger		2000
+informe (nm)		report		1548
+ingreso (nm)		entrance, admission, income		1690
+jardín (nm)		garden		1837
+julio (nm)		July		1559
+largo (nm)		length (nm)		1640
+lector (nm)		reader, lecturer		1810
+llamado (nm)		call, calling		1510
+local (nm)		place, quarters (nm)		1880
+lujo (nm)		luxury		1614
+mal (nm)		evil (nm)		1580
+mecanismo (nm)		mechanism		1599
+mérito (nm)		worth, merit		1935
+militar (nm)		soldier, military person (nm)		1697
+monte (nm)		mountain (nm)		1844
+montón (nm)		lot of, heap, pile		1946
+motor (nm)		engine, motor		1698
+muchacho (nm)		boy [also chico]		1687
+mueble (nm)		piece of furniture		1952
+muro (nm)		outer wall, rampart		1942
+octubre (nm)		October		1688
+oficio (nm)		job, occupation, function		1644
+oído (nm)		hearing, ear		1969
+olor (nm)		smell, odor, fragrance		1986
+órgano (nm)		organ		1563
+pago (nm)		payment		1807
+paisaje (nm)		landscape		1508
+pájaro (nm)		bird [also ave]		1824
+palacio (nm)		palace		1968
+parque (nm)		park		1760
+patio (nm)		courtyard, playground, yard		1700
+patrón (nm)		employer, landlord, patron saint, pattern		1648
+pecho (nm)		chest, breast		1649
+permiso (nm)		permission, permit		1753
+y pico :pico (nm)		and a bit :beak, peak		1553
+plato (nm)		plate, dish		1836
+poema (nm)		poem		1855
+polvo (nm)		dust, powder		1971
+prestigio (nm)		prestige		1908
+primo (nm)		cousin		1860
+privilegio (nm)		privilege		1843
+procedimiento (nm)		procedure, proceedings		1544
+progreso (nm)		progress		1591
+reconocimiento (nm)		recognition, acknowledgment		1794
+reflejo (nm)		reflection (reflected image)		1675
+regreso (nm)		return [also retorno]		1557
+reloj (nm)		clock, watch		1685
+revés (nm): al revés: 		backwards, upside down, inside out		1993
+sábado (nm)		Saturday		1816
+sacerdote (nm)		priest		1974
+sacrificio (nm)		sacrifice		1848
+salón (nm)		hall, room		1637
+secreto (nm)		secret (nm)		1954
+seno (nm)		breast, bosom, cavity		1776
+sexo (nm)		sex		1667
+significado (nm)		meaning		1966
+símbolo (nm)		symbol		1723
+sueldo (nm)		salary, pay		1770
+sujeto (adj)		fastened, subject to (adj)		1759
+testigo (nm)		witness		1618
+tío (nm)		uncle, guy		1755
+tiro (nm)		throw, shot		1737
+traje (nm)		suit, dress, costume		1710
+transporte (nm)		transportation, transport		1657
+triunfo (nm)		triumph, victory		1813
+vacío (nm)		emptiness, void (nm)		1538
+valle (nm)		valley		1663
+vecino (adj)		nearby, neighboring (adj)		1666
+vuelo (nm)		flight		1665
+zapato (nm)		shoe		1932
+abogado (nm/f)		lawyer		1680
+ingeniero (nm/f)		engineer		1761
+ministro (nm/f)		government secretary, minister		1519
+soldado (nm/f)		soldier		1568
+setenta (num)		seventy		1773
+conmigo (pron)		with me		1845
+ti (pron)		you (obj prep singular familiar)		1704
+aconsejar (v)		to advise, counsel		1828
+acostumbrar (v)		to be accustomed to [also soler]		1628
+acusar (v)		to accuse		1524
+adelantar (v)		to move forward		1777
+admirar (v)		to admire		1682
+agotar (v)		to exhaust, wear out, run out		1919
+agradecer (v)		to thank for		1681
+agregar (v)		to add, gather		1708
+aguantar (v)		to endure, put up with		1895
+ajustar (v)		to adjust, tighten		1545
+alimentar (v)		to feed, support		1609
+alterar (v)		to alter, modify		1809
+ampliar (v)		to enlarge, increase, expand		1931
+apartar (v)		to move away, separate		1505
+aportar (v)		to provide, contribute		1738
+arrojar (v)		to throw (violently), to hurl [also lanzar]		1846
+ascender (v)		to ascend, be promoted		1909
+asociar (v)		to associate with		1661
+aspirar (v)		to aspire, want		1552
+atribuir (v)		to attribute		1539
+averiguar (v)		to investigate, find out		1983
+borrar (v)		to erase		1890
+captar (v)		to capture, attract		1996
+carecer (v)		to lack		1633
+chocar (v)		to crash into, collide with		1883
+coger (v)		to hold, take, catch		1896
+colaborar (v)		to collaborate, work together		1943
+combatir (v)		to fight against		1726
+completar (v)		to complete		1718
+complicar (v)		to complicate, make difficult		1911
+concebir (v)		to conceive, understand		1518
+confesar (v)		to confess, admit		1972
+constar (v)		to consist of, comprise		1655
+consultar (v)		to consult		1587
+corregir (v)		to correct, rectify		1585
+criar (v)		to bring up, rear		1962
+criticar (v)		to criticize		1849
+cultivar (v)		to cultivate, produce		1936
+deber (nm)		duty, obligation (nm)		1588
+denominar (v)		to call, name [also llamar]		1869
+depositar (v)		to deposit, place, store		1995
+derivar (v)		to derive, come from		1739
+descender (v)		to descend		1645
+desconocer (v)		to not know, not recognize		1662
+despedir (v)		to dismiss, to say goodbye to		1940
+desplazar (v)		to replace, move, shift		1771
+desprender (v)		to detach, release, remove		1819
+dictar (v)		to dictate, announce		1881
+disminuir (v)		to decrease, diminish		1982
+distribuir (v)		to distribute, deliver		1503
+doblar (v)		to bend, turn		1981
+elaborar (v)		to make, develop		1592
+eliminar (v)		to eliminate, exclude		1612
+emitir (v)		to emit, give off		1811
+empeñar (v)		to pawn, pledge, engage		1998
+empujar (v)		to push, shove		1877
+encerrar (v)		to shut in		1861
+engañar (v)		to trick, deceive		1917
+enterar (v)		to find out [se]		1543
+esconder (v)		to hide, conceal		1802
+examinar (v)		to examine, inspect		1780
+explotar (v)		to explode, exploit		1938
+fallar (v)		to fail, miss		1664
+forzar (v)		to force		1959
+gastar (v)		to spend money		1526
+golpear (v)		to hit, strike		1904
+gritar (v)		to shout		1597
+huir (v)		to flee, run away		1574
+hundir (v)		to sink, submerge		1850
+implicar (v)		to implicate, imply		1788
+impulsar (v)		to push, promote, drive		1875
+inclinar (v)		to bow, tilt, incline		1814
+ingresar (v)		to join, deposit, admit		1791
+invadir (v)		to invade, overcome		1764
+invertir (v)		to invest		1945
+investigar (v)		to investigate [also indagar]		1749
+lavar (v)		to wash		1762
+limpiar (v)		to clean		1537
+modificar (v)		to modify		1758
+obedecer (v)		to obey		1513
+ocultar (v)		to hide		1541
+padecer (v)		to suffer		1590
+parecer (nm)		opinion, looks (nm)		1933
+pasear (v)		to go for a walk, ride		1985
+pelear (v)		to fight, struggle		1823
+penetrar (v)		to penetrate		1531
+percibir (v)		to notice [also notar]		1575
+perdonar (v)		to forgive, excuse		1678
+precisar (v)		to do exactly, specify		1923
+prohibir (v)		to prohibit, forbid		1741
+prometer (v)		to promise		1641
+proporcionar (v)		to provide, supply		1742
+provenir (v)		to come from, be from		1958
+quejar (v)		to complain		1530
+quemar (v)		to burn		1509
+reaccionar (v)		to react		1521
+reclamar (v)		to demand, require		1507
+recomendar (v)		to recommend		1581
+recurrir (v)		to resort to		1555
+regalar (v)		to give as a gift		1528
+registrar (v)		to register, record [also inscribir]		1536
+relacionar (v)		to relate		1745
+rendir (v)		to yield, to produce		1534
+renunciar (v)		to give up, renounce		1621
+reproducir (v)		to reproduce, repeat		1654
+respirar (v)		to breathe		1792
+revelar (v)		to reveal, disclose		1691
+revisar (v)		to check, revise, inspect		1632
+saber (nm)		knowledge (nm)		1625
+saludar (v)		to greet, say hello		1744
+satisfacer (v)		to satisfy		1517
+sobrevivir (v)		to survive, outlive		1999
+soñar (v)		to dream		1593
+sospechar (v)		to suspect, suppose		1984
+sumar (v)		to add up, amount to		1608
+suspender (v)		to suspend, hang, fail		1929
+sustituir (v)		to substitute, replace		1786
+traducir (v)		to translate		1603
+transcurrir (v)		to occur, pass		1579
+ubicar (v)		to find, locate		1750
+abandonado (adj)		abandoned		2298
+absurdo (adj)		absurd		2010
+abundante (adj)		abundant, plentiful		2316
+académico (adj)		academic		2399
+adulto (nm)		adult, grown-up (nm)		2200
+agresivo (adj)		aggressive		2242
+agudo (adj)		sharp, acute		2180
+alegre (adj)		happy, lively, cheerful		2304
+amable (adj)		kind, nice, friendly		2409
+anónimo (adj)		anonymous		2499
+apropiado (adj)		appropriate		2422
+árabe (adj)		Arab		2433
+artificial (adj)		artificial		2018
+atractivo (adj)		attractive (adj)		2131
+básico (adj)		basic, essential		2295
+caído (adj)		fallen		2168
+cansado (adj)		tired, tiresome		2147
+característico (adj)		characteristic		2090
+católico (adj)		Catholic		2137
+compuesto (adj)		composite, mixed		2062
+comunista (adj)		Communist		2315
+considerable (adj)		considerable		2283
+creciente (adj)		growing, increasing		2484
+cruel (adj)		cruel, harsh		2453
+cuadrado (adj)		square		2198
+culpable (adj)		guilty		2211
+definido (adj)		definite		2043
+democrático (adj)		democratic		2271
+desagradable (adj)		unpleasant		2237
+desarrollado (adj)		developed, grown		2369
+desesperado (adj)		desperate, hopeless		2156
+desierto (nm)		desert (nm)		2431
+desnudo (adj)		nude, naked		2008
+distante (adj)		distant, far, remote		2351
+doloroso (adj)		painful		2080
+dramático (adj)		dramatic		2011
+ejemplar (nm)		copy, issue (nm)		2101
+encerrado (adj)		locked up		2376
+envuelto (adj)		wrapped		2473
+equivocado (adj)		mistaken, wrong		2353
+específico (adj)		specific		2372
+espontáneo (adj)		spontaneous		2172
+estricto (adj)		strict, rigorous		2079
+excepcional (adj)		exceptional, unusual		2392
+exclusivo (adj)		exclusive		2253
+extenso (adj)		extensive, large		2306
+externo (adj)		external, outward		2047
+fantástico (adj)		fantastic, unreal		2360
+favorable (adj)		favorable, suitable		2204
+feo (adj)		ugly, nasty, rude		2381
+formal (adj)		formal, polite		2036
+fresco (adj)		cool, healthy, fresh (adj)		2124
+generoso (adj)		generous		2398
+gordo (adj)		fat, thick		2217
+gris (adj)		gray, gloomy		2290
+grueso (adj)		thick (adj)		2262
+humilde (adj)		humble, modest		2367
+idéntico (adj)		identical		2085
+impresionante (adj)		impressive, astonishing		2320
+indígena (adj)		indigenous, native		2302
+industrial (adj)		industrial		2005
+infinito (adj)		infinite (adj)		2215
+injusto (adj)		unfair, unjust		2378
+japonés (adj)		Japanese		2169
+judío (adj)		Jewish		2319
+legal (adj)		legal		2017
+liberal (adj)		liberal		2014
+masculino (adj)		masculine, manly, male		2142
+mero (adj)		mere		2060
+modesto (adj)		modest, humble		2024
+moreno (adj)		dark, brown		2303
+mutuo (adj)		mutual		2326
+obrero (nm/f)		worker, laborer (nm/f) [also trabajador]		2243
+occidental (adj)		occidental, western		2323
+oculto (adj)		hidden, occult		2039
+ordenado (adj)		organized, clean		2417
+ordinario (adj)		vulgar, ordinary		2478
+organizado (adj)		organized		2058
+orgulloso (adj)		proud, arrogant [also soberbio]		2388
+parado (adj)		stopped, standing		2244
+paralelo (adj)		parallel		2477
+pintado (adj)		painted		2347
+poquito (adj)		little bit		2463
+previsto (adj)		foreseen, planned		2086
+primitivo (adj)		primitive		2038
+prohibido (adj)		prohibited		2257
+querido (adj)		dear, beloved		2009
+razonable (adj)		reasonable		2405
+remoto (adj)		remote, far-off		2313
+repetido (adj)		repeated		2471
+resuelto (adj)		resolved, determined		2428
+rígido (adj)		rigid, stiff, firm		2411
+romántico (adj)		romantic		2338
+ruso (adj)		Russian		2307
+salvaje (adj)		wild, savage, uncultivated		2001
+secundario (adj)		secondary		2213
+sensible (adj)		sensitive, sentient		2030
+solitario (adj)		solitary, lonely		2064
+sorprendente (adj)		surprising, astonishing		2203
+sucesivo (adj)		successive, following		2379
+tonto (adj)		stupid, dumb		2191
+uniforme (nm)		uniform (nm)		2341
+universitario (adj)		university (adj)		2029
+urbano (adj)		urban, city, urbane		2176
+urgente (adj)		urgent		2265
+válido (adj)		valid		2216
+valioso (adj)		valuable, precious		2178
+variado (adj)		varied, mixed		2464
+visible (adj)		visible		2459
+acá (adv)		here, around here		2230
+actualmente (adv)		now, at present		2362
+adentro (adv) [also dentro]		inside		2084
+aproximadamente (adv)		approximately		2256
+necesariamente (adv)		necessarily		2282
+normalmente (adv)		normally		2212
+plenamente (adv)		fully		2340
+posteriormente (adv)		afterwards		2430
+principalmente (adv)		principally, mainly		2226
+repente: de + repente (adv)		suddenly		2183
+sencillamente (adv)		simply		2352
+sumamente (adv)		extremely, highly		2380
+últimamente (adv)		lately, recently		2475
+ay (interj)		oh no! oh my!		2337
+etcétera (n)		etcetera		2154
+colega (nc)		colleague		2094
+comerciante (nc)		merchant, businessman		2442
+guía (nc)		guide, leader		2318
+líder (nc)		leader		2427
+pariente (nc)		relative (nc)		2297
+abuela (nf)		grandmother		2408
+actualidad (nf)		present time		2046
+administración (nf)		administration		2055
+admiración (nf)		admiration		2448
+afirmación (nf)		statement, assertion		2357
+ambición (nf)		ambition		2440
+amenaza (nf)		threat		2229
+anécdota (nf)		anecdote		2028
+aplicación (nf)		application		2263
+asociación (nf)		association		2123
+atmósfera (nf)		atmosphere, environment		2003
+banda (nf)		musical band, sash		2025
+bandera (nf)		flag		2021
+botella (nf)		bottle, flask		2161
+broma (nf)		joke		2482
+calma (nf)		calm, lull		2202
+camisa (nf)		shirt		2443
+casualidad (nf)		chance, coincidence		2190
+caza (nf)		hunting (game)		2451
+ceremonia (nf)		ceremony		2111
+cita (nf)		appointment, date, quotation		2045
+civilización (nf)		civilization		2057
+colaboración (nf)		collaboration		2387
+colonia (nf)		colony, cologne		2420
+combinación (nf)		combination		2164
+comisión (nf)		commission, committee		2155
+comodidad (nf)		comfort, convenience		2296
+compañera (nf)		female companion		2346
+concepción (nf)		conception		2232
+conferencia (nf)		conference, lecture		2171
+consulta (nf)		consultation, advice		2194
+contradicción (nf)		contradiction		2073
+convicción (nf)		conviction		2339
+copa (nf)		cup, glass, top of a tree		2267
+copia (nf)		copy		2098
+creencia (nf)		belief		2236
+criatura (nf)		creature, child		2235
+cuerda (nf)		cord, rope		2193
+dama (nf)		lady, dame		2159
+danza (nf)		dance		2434
+debilidad (nf)		weakness		2439
+década (nf)		decade		2127
+desaparición (nf)		disappearance		2470
+destrucción (nf)		destruction		2301
+deuda (nf)		debt		2139
+dignidad (nf)		dignity		2092
+distribución (nf)		distribution		2299
+doña (nf)		courtesy title (f), Mrs.		2410
+droga (nf)		drug		2371
+edición (nf)		edition, publication		2195
+ejecución (nf)		performance, execution		2415
+entrega (nf)		delivery		2182
+escritura (nf)		writing, scripture		2432
+estancia (nf)		stay, stance, ranch		2364
+evidencia (nf)		evidence, certainty		2091
+expectativa (nf)		expectation, hope, prospect		2456
+explosión (nf)		explosion		2175
+extensión (nf)		extension, area, expanse		2082
+fantasía (nf)		fantasy, fancy		2050
+fase (nf)		phase, stage		2310
+foto (nf)		photo, picture		2054
+garantía (nf)		guarantee, warranty		2106
+gloria (nf)		glory, fame		2146
+herencia (nf)		inheritance, legacy		2016
+herida (nf)		wound, injury		2460
+herramienta (nf)		tool		2498
+hipótesis (nf)		hypothesis		2461
+huella (nf)		trace, track, footstep		2099
+inclinación (nf)		slope, incline, tendency		2035
+instalación (nf)		installation, facilities		2395
+instancia (nf)		application, request		2495
+intensidad (nf)		intensity, force		2174
+inversión (nf)		investment, outlay		2458
+invitación (nf)		invitation		2300
+jornada (nf)		working day, shift		2007
+lágrima (nf)		tear, teardrop		2386
+lata (nf)		tin can		2493
+leyenda (nf)		legend		2031
+liberación (nf)		liberation		2361
+limpieza (nf)		cleanliness, purity		2447
+llave (nf)		key, faucet, wrench		2150
+locura (nf)		madness, insanity		2441
+lógica (nf)		logic		2015
+luna (nf)		moon		2394
+madrugada (nf)		dawn, daybreak [also alba]		2241
+mamá (nf)		mom		2286
+mancha (nf)		stain, spot		2491
+maravilla (nf)		wonder, marvel		2023
+media (nf)		average; a m.: halfways		2342
+meta (nf)		goal, aim, purpose		2293
+multitud (nf)		multitude		2424
+nariz (nf)		nose		2119
+nieve (nf)		snow		2423
+ocupación (nf)		occupation, use		2059
+oferta (nf)		offer, bid, supply		2205
+ola (nf)		wave, billow		2406
+onda (nf)		wave, ripple		2160
+opción (nf)		option, choice		2305
+oreja (nf)		ear		2407
+orilla (nf)		shore, edge		2096
+oscuridad (nf)		darkness		2468
+paciencia (nf)		patience		2336
+pantalla (nf)		screen, monitor		2330
+pata (nf)		leg, paw		2052
+patria (nf)		native land, fatherland		2135
+pelota (nf)		ball		2445
+pensión (nf)		pension, boarding house		2469
+pista (nf)		clue, track, trace		2065
+pluma (nf)		pen, feather		2444
+posesión (nf)		possession		2158
+preparación (nf)		preparation, training		2128
+primavera (nf)		spring, spring-like		2325
+promesa (nf)		promise		2051
+proporción (nf)		proportion		2109
+propuesta (nf)		proposal, proposition		2173
+protesta (nf)		objection, protest		2134
+reina (nf)		queen		2020
+risa (nf)		laugh, chuckle		2192
+roca (nf)		rock		2497
+rodilla (nf)		knee		2208
+ruina (nf)		ruin, collapse		2397
+ruptura (nf)		break-up, rupture		2457
+ruta (nf)		route		2113
+selva (nf)		forest, jungle		2138
+separación (nf)		separation		2041
+simpatía (nf)		sympathy, affinity		2327
+soledad (nf)		loneliness, solitude		2116
+tarjeta (nf)		card		2309
+tesis (nf)		thesis, exposition		2117
+tía (nf)		aunt		2199
+torre (nf)		tower		2162
+totalidad (nf)		whole, totality		2276
+transformación (nf)		transformation		2450
+tristeza (nf)		sadness		2233
+tropa (nf)		troops, forces		2312
+tumba (nf)		tomb, grave		2485
+unión (nf)		union		2081
+urgencia (nf)		urgency		2391
+vaca (nf)		cow		2234
+variedad (nf)		variety		2368
+vela (nf)		candle, sail, vigil		2287
+vergüenza (nf)		embarrassment		2206
+viuda (nf)		widow		2488
+ala (nf el)		wing, flank		2260
+aceite (nm)		oil		2076
+afán (nm)		eagerness, zeal, effort		2152
+afecto (nm)		affection, fondness		2132
+alcohol (nm)		alcohol		2421
+almacén (nm)		warehouse, store		2455
+ángel (nm)		angel		2248
+ángulo (nm)		angle		2389
+anuncio (nm)		advertisement, announcement		2114
+apellido (nm)		last name		2167
+arco (nm)		arch, arc, bow		2412
+asiento (nm)		seat, chair		2061
+auto (nm)		auto, car		2259
+ave (nm)		bird [also pájaro]		2207
+azar (nm)		random, chance, hazard		2400
+azúcar (nm)		sugar		2033
+baile (nm)		dance, ball		2222
+bar (nm)		snack bar, café		2359
+bienestar (nm)		wellbeing, welfare		2335
+bloque (nm)		block		2480
+bolsillo (nm)		pocket		2121
+cadáver (nm)		corpse, body		2165
+candidato (nm)		candidate		2149
+caos (nm)		chaos		2419
+capitán (nm)		captain, chief		2370
+cariño (nm)		love, affection		2246
+centímetro (nm)		centimeter		2329
+ciclo (nm)		cycle		2225
+cierre (nm)		zipper, closing		2481
+club (nm)		club, society		2429
+código (nm)		code		2078
+combate (nm)		combat, battle, fight		2494
+concierto (nm)		concert, concerto		2435
+consumo (nm)		consumption		2136
+contraste (nm)		contrast		2251
+creador (nm)		creator		2393
+cristal (nm)		glass, crystal, window		2026
+cultivo (nm)		cultivation, crop		2333
+debate (nm)		debate		2261
+delito (nm)		crime, offense		2219
+deporte (nm)		sport		2019
+desorden (nm)		disorder, mess		2374
+despacho (nm)		office, study		2487
+diseño (nm)		design		2013
+doble (nm)		double (nm)		2354
+drama (nm)		drama		2350
+duro (nm)		money (nm)		2083
+eco (nm)		echo, response		2042
+episodio (nm)		episode, incident		2355
+escándalo (nm)		scandal		2093
+esclavo (nm)		slave		2377
+esquema (nm)		outline, diagram, plan		2466
+establecimiento (nm)		establishment		2289
+fantasma (nm)		ghost, phantom		2449
+funcionamiento (nm)		functioning, operation		2258
+ganado (nm)		livestock, cattle		2425
+gas (nm)		gas		2144
+giro (nm)		turn, draft, expression		2465
+héroe (nm)		hero		2186
+hielo (nm)		ice		2321
+homenaje (nm)		homage, tribute		2396
+horario (nm)		schedule, timetable		2095
+horizonte (nm)		horizon		2140
+horror (nm)		horror, atrocity		2334
+impacto (nm)		impact		2390
+inconveniente (nm)		inconvenience, drawback		2151
+intercambio (nm)		exchange, interchange		2490
+junio (nm)		June		2349
+laboratorio (nm)		laboratory		2264
+líquido (nm)		liquid		2438
+lunes (nm)		Monday		2187
+mando (nm)		command, authority		2125
+manejo (nm)		handling, management		2385
+mapa (nm)		map		2185
+marzo (nm)		March		2002
+matiz (nm)		shade, tint, nuance		2291
+máximo (nm)		maximum (nm)		2308
+metal (nm)		metal		2075
+milagro (nm)		miracle		2181
+mínimo (nm)		minimum (nm)		2343
+misterio (nm)		mystery		2223
+mito (nm)		myth		2467
+muerto (nm)		dead person (nm)		2032
+noviembre (nm)		November		2148
+núcleo (nm)		nucleus, core		2238
+objetivo (adj)		objective, impartial (adj)		2027
+odio (nm)		hatred		2177
+orgullo (nm)		pride		2006
+oriente (nm)		East		2413
+palo (nm)		stick, pole		2012
+panorama (nm)		panorama, landscape		2500
+pantalón (nm)		pants, trousers		2489
+paquete (nm)		package, packet		2166
+partidario (nm)		supporter, partisan		2436
+pasaje (nm)		fare, passage, lane		2446
+paseo (nm)		walk, ride		2209
+perdón (nm)		forgiveness, pardon		2240
+perfil (nm)		profile, outline		2108
+pez (nm)		fish (alive)		2426
+planeta (nm)		planet		2004
+rayo (nm)		ray, beam, lightning		2197
+rechazo (nm)		rejection, refusal		2275
+recorrido (nm)		journey, itinerary, route		2231
+regalo (nm)		gift, present		2067
+registro (nm)		register, record		2214
+reino (nm)		kingdom, reign		2255
+relato (nm)		tale, story		2221
+retrato (nm)		portrait, photograph		2492
+rigor (nm)		harshness, rigor		2249
+rincón (nm)		corner, nook		2118
+rostro (nm)		face, countenance		2040
+rumbo (nm)		direction, course, bearing		2414
+sabor (nm)		taste, flavor, sensation		2126
+síntoma (nm)		symptom		2228
+socio (nm)		member, partner		2314
+talento (nm)		talent, skill		2143
+taller (nm)		workshop, shop		2373
+templo (nm)		temple, church		2437
+terror (nm)		terror, horror		2189
+testimonio (nm)		testimony, evidence		2066
+toro (nm)		bull		2331
+tráfico (nm)		traffic, trade		2188
+tratado (nm)		treaty, treatise		2270
+turno; en turno a (nm)		turn; shift		2252
+universo (nm)		universe		2179
+varón (nm)		male, man		2088
+vaso (nm)		drinking glass, vase		2107
+vestido (nm)		dress (nm)		2220
+vidrio (nm)		glass, pane		2112
+viernes (nm)		Friday		2483
+voto (nm)		vote		2201
+pintor (nm/f)		painter		2218
+vendedor (nm/f)		salesperson		2266
+cura (nmf)		priest (m), cure (f)		2103
+papá (nm)		dad		2281
+catorce (num)		fourteen		2278
+cero (num)		zero, naught, nil		2284
+doscientos (num)		two hundred		2344
+ochenta (num)		eighty		2120
+trece (num)		thirteen		2115
+veinticinco (num)		twenty-five		2311
+té (nm)		tea		2145
+abarcar (v)		to encompass, comprise		2163
+abordar (v)		to board, get in/on		2273
+absorber (v)		to absorb, soak up		2056
+acceder (v)		to consent, agree, accede		2130
+acomodar (v)		to accommodate, be/make comfortable		2196
+adaptar (v)		to adapt		2087
+agarrar (v)		to grasp, catch		2074
+amenazar (v)		to threaten		2239
+anticipar (v)		to anticipate, advance		2366
+apagar (v)		to turn off, extinguish		2104
+apretar (v)		to squeeze, tighten, compress		2404
+aproximar (v)		to come near, closer		2070
+asomar (v)		to appear, show, stick (out)		2383
+atar (v)		to tie (up)		2153
+avisar (v)		to notify [also notificar]		2268
+bailar (v)		to dance		2071
+brindar (v)		to offer		2170
+calificar (v)		to grade, rate, qualify		2279
+callar (v)		to be/make quiet		2245
+caracterizar (v)		to characterize, portray		2476
+castigar (v)		to punish		2274
+cesar (v)		to cease, stop		2227
+colgar (v)		to hang up		2049
+combinar (v)		to combine		2348
+competir (v)		to compete		2486
+comportar (v)		to behave		2294
+comprometer (v)		to compromise		2069
+conquistar (v)		to conquer, win over		2358
+contratar (v)		to hire, contract		2418
+copiar (v)		to copy		2402
+curar (v)		to cure		2097
+denunciar (v)		to denounce		2332
+desempeñar (v)		to carry out, fulfill		2100
+deshacer (v)		to undo, destroy, take apart		2324
+designar (v)		to designate		2479
+dibujar (v)		to draw, sketch		2317
+disparar (v)		to shoot at		2141
+divertir (v)		to amuse, entertain		2356
+doler (v)		to hurt		2037
+educar (v)		to educate		2068
+ejecutar (v)		to execute, carry out		2285
+emprender (v)		to undertake, embark on		2365
+encender (v)		to turn on		2133
+envolver (v)		to wrap		2363
+equilibrar (v)		to balance		2382
+escoger (v)		to choose		2048
+especializar (v)		to specialize, major in		2474
+estallar (v)		to break out, explode, start		2401
+exhibir (v)		to exhibit, show off		2122
+expulsar (v)		to expel, throw out		2110
+extraer (v)		to extract, take out		2102
+favorecer (v)		to favor, help		2044
+formular (v)		to formulate		2462
+fracasar (v)		to fail, to be unsuccessful		2277
+fumar (v)		to smoke		2472
+garantizar (v)		to guarantee		2345
+generar (v)		to generate		2157
+gobernar (v)		to govern		2322
+imitar (v)		to imitate, copy, mimic		2063
+impresionar (v)		to impress		2292
+inaugurar (v)		to inaugurate, start		2403
+influir (v)		to have influence		2022
+inspirar (v)		to inspire, inhale		2072
+juntar (v)		to put togerther, to get together [also reunir]		2280
+llover (v)		to rain		2053
+mentir (v)		to (tell a) lie		2416
+multiplicar (v)		to multiply		2034
+optar (v)		to choose, opt for		2384
+orientar (v)		guide, show the way		2250
+otorgar (v)		to give, grant, award		2224
+portar (v)		to behave [se], carry		2254
+prender (v)		to turn on, apprehend		2454
+prever (v)		to foresee, anticipate, forecast		2105
+prolongar (v)		to extend, prolong		2077
+protestar (v)		to protest, object		2288
+quebrar (v)		to break, bend, weaken		2375
+reconstruir (v)		to reconstruct		2328
+renovar (v)		to renew, renovate		2269
+retener (v)		to keep, retain		2452
+secar (v)		to dry		2496
+situar (v)		to situate, place, locate		2089
+soltar (v)		to release, loosen, let out		2272
+solucionar (v)		to solve, settle		2184
+tapar (v)		to cover, wrap		2129
+variar (v)		to change, vary		2210
+vigilar (v)		to watch over, guard		2247
+aburrido (adj)		boring, bored		2813
+administrativo (adj)		administrative		2852
+admirable (adj)		admirable		2934
+adolescente (nc)		adolescent (nc)		2645
+aéreo (adj)		aerial, air		2975
+agotado (adj)		tired, used up, sold out		2861
+amargo (adj)		bitter, sour, painful		2710
+aparente (adj)		apparent		2659
+atento (adj)		attentive, careful, polite		2532
+ausente (adj)		absent		2562
+automático (adj)		automatic		2984
+autónomo (adj)		autonomous		2761
+bárbaro (adj)		savage, horrible		2757
+blando (adj)		soft, limp, gentle		2783
+bravo (adj)		fierce, angry		2572
+bruto (adj)		brutal, coarse, clumsy		2642
+cálido (adj)		warm		2704
+comprometido (adj)		committed, engaged		2803
+confuso (adj)		confused, mixed up		2634
+conservador (adj)		conservative		2613
+consiguiente (adj)		consequent		2807
+convencional (adj)		conventional		2968
+crudo (adj)		raw, crude, natural		2860
+culto (adj)		cultured, educated (adj)		2725
+decisivo (adj)		decisive, conclusive		2638
+deportivo (adj)		sports, sporty		2862
+divertido (adj)		funny, amusing		2553
+dorado (adj)		golden, gold-plated		2696
+dormido (adj)		asleep, sleeping		2786
+escolar (adj)		school, scholastic		2701
+escondido (adj)		hidden		2546
+espectacular (adj)		spectacular		2845
+espléndido (adj)		splendid, generous		2822
+estable (adj)		stable, steady		2784
+estético (adj)		esthetic		2569
+exagerado (adj)		exaggerated		2603
+existente (adj)		existing		2833
+exquisito (adj)		exquisite, superb		2592
+fatal (adj)		fateful, deadly, awful		2539
+favorito (adj)		favorite		2699
+filosófico (adj)		philosophical		2716
+frustrado (adj)		frustrated		2801
+gigantesco (adj)		giant, gigantic		2970
+hábil (adj)		skillful, clever		2997
+harto (adj)		fed up with		2600
+helado (adj)		iced, freezing, icy		2987
+herido (adj)		wounded, injured (adj)		2647
+hondo (adj)		deep		2549
+horrible (adj)		horrible		2738
+hueco (nm)		hole, cavity (nm)		2880
+húmedo (adj)		humid, damp		2665
+ideológico (adj)		ideological		2917
+ilustre (adj)		renowned, illustrious		2771
+imprescindible (adj)		essential, indispensable		2617
+inclinado (adj)		inclined, slanting		2835
+incómodo (adj)		uncomfortable		2535
+inconsciente (adj)		unconscious, thoughtless		2705
+indiferente (adj)		indifferent		2902
+inesperado (adj)		unexpected, unforeseen		2904
+inocente (adj)		innocent, naïve		2538
+inquieto (adj)		restless, anxious		2986
+judicial (adj)		judicial		2957
+jurídico (adj)		legal, juridical		2769
+juvenil (adj)		young, juvenile		2561
+legítimo (adj)		legitimate		2966
+leve (adj)		slight, trifling, light		2671
+ligado (adj)		linked, joined		2926
+lindo (adj)		pretty, nice, lovely		2582
+luminoso (adj)		bright, luminous		2651
+maduro (adj)		mature, ripe		2578
+mágico (adj)		magic, magical		2708
+marino (adj)		marine, naval		2720
+mediado (adj)		mid, middle		2566
+metálico (adj)		metallic		2842
+mezclado (adj)		mixed		2579
+misterioso (adj)		mysterious		2849
+municipal (adj)		municipal, town		2686
+noble (adj)		noble (adj)		2545
+obvio (adj)		obvious		2586
+peculiar (adj)		peculiar		2746
+pensado (adj)		thought-out, designed		2734
+plástico (nm)		plastic (nm)		2947
+prestado (adj)		borrowed, lent		2682
+prolongado (adj)		prolonged, lengthy		2929
+prudente (adj)		sensible, prudent		2884
+químico (adj)		chemical		2864
+racional (adj)		rational		2890
+realista (adj)		realistic		2678
+recto (adj)		right, straight, honest		2816
+reservado (adj)		reserved, booked		2960
+riguroso (adj)		rigorous, severe		2528
+rural (adj)		rural, country		2631
+sentimental (adj)		sentimental		2646
+simpático (adj)		nice, likeable, friendly		2590
+sincero (adj)		sincere		2915
+singular (adj)		single, singular		2854
+socialista (adj)		socialist		2820
+sonoro (adj)		loud, resounding		2762
+sordo (adj)		deaf, dull		2933
+superficial (adj)		superficial		2693
+supremo (adj)		supreme		2633
+sutil (adj)		subtle		2577
+telefónico (adj)		telephone		2888
+teórico (adj)		theoretical		2866
+tierno (adj)		tender, soft		2973
+tímido (adj)		timid, shy, half-hearted		2795
+trágico (adj)		tragic		2501
+transparente (adj)		transparent, clear		2657
+vasto (adj)		vast, immense, huge		2799
+voluntario (adj)		voluntary, volunteer		2953
+vulgar (adj)		vulgar, common, banal		2991
+afortunadamente (adv)		luckily, fortunately		2712
+anteriormente (adv)		previously [also previamente]		2719
+ciertamente (adv)		certainly, indeed		2785
+continuamente (adv)		continuously		2585
+enfrente (adv)		in front of		2541
+enseguida (adv)		immediately, at once		2707
+estrictamente (adv)		strictly		2587
+francamente (adv)		frankly, openly		2909
+fundamentalmente (adv)		fundamentally, basically		2688
+libremente (adv)		freely		2804
+ligeramente (adv)		slightly, lightly		2974
+particularmente (adv)		particularly, personally		2652
+previamente (adv)		previously [also anteriormente]		2891
+puramente (adv)		purely, simply		2753
+recientemente (adv)		recently		2749
+relativamente (adv)		relatively		2519
+seguida: en seguida (adv)		right away, at once		2818
+eh (interj)		eh		2520
+oh (interj) [also ah]		oh		2736
+este (n)		East (n)		2743
+ayudante (nc)		helper, assistant		2901
+protagonista (nc)		protagonist, main character		2536
+visitante (nc)		visitor		2760
+aceptación (nf)		acceptance, approval		2758
+agencia (nf)		agency, branch		2886
+alimentación (nf)		feeding, food		2989
+armonía (nf)		harmony		2529
+arquitectura (nf)		architecture		2516
+asistencia (nf)		attendance, assistance		2751
+aspiración (nf)		ambition, aspiration		2589
+atracción (nf)		attraction		2768
+avenida (nf)		avenue		2876
+barra (nf)		bar, rod, rail		2721
+barrera (nf)		barrier, obstacle		2568
+basura (nf)		garbage, rubbish		2594
+bebida (nf)		drink, beverage		2828
+boda (nf)		marriage, wedding		2677
+bola (nf)		ball, sphere		2639
+bondad (nf)		goodness, kindness		2814
+bota (nf)		boot, wineskin		2735
+campana (nf)		bell		3000
+cartera (nf)		wallet, satchel		2834
+cena (nf)		dinner		2971
+cercanía (nf)		nearness, proximity		2943
+certeza (nf)		certainty		2663
+charla (nf)		talk, chat		2830
+circulación (nf)		circulation, traffic		2837
+coincidencia (nf)		coincidence		2713
+conquista (nf)		conquest		2650
+convivencia (nf)		coexistence, living together		2811
+corona (nf)		crown		2772
+correspondencia (nf)		correspondence, connection		2893
+cosecha (nf)		harvest, crop		2778
+crónica (nf)		account, chronicle		2817
+cruz (nf)		cross, burden		2800
+cuota (nf)		quota, share, dues		2955
+curva (nf)		curve		2781
+democracia (nf)		democracy		2576
+demostración (nf)		demonstration		2687
+denuncia (nf)		accusation, complaint, denunciation		2838
+dependencia (nf)		dependence, dependency		2575
+derrota (nf)		defeat, loss		2601
+descripción (nf)		description		2550
+desesperación (nf)		desperation, exasperation		2780
+determinación (nf)		determination		2640
+dictadura (nf)		dictatorship		2824
+distinción (nf)		distinction		2962
+docena (nf)		dozen		2774
+doctrina (nf)		doctrine, teachings		2959
+dosis (nf)		dose		2609
+eficacia (nf)		efficiency, effectiveness		2825
+entidad (nf)		entity		2660
+escalera (nf)		stairs, ladder		2595
+esfera (nf)		sphere, globe		2514
+especialidad (nf)		specialty, specialized field		2517
+estrategia (nf)		strategy		2505
+fiebre (nf)		fever, excitement		2739
+fuga (nf)		flight, escape		2895
+geografía (nf)		geography		2670
+gestión (nf)		management, step, negotiation		2831
+gota (nf)		drop		2619
+gravedad (nf)		seriousness, gravity		2596
+guitarra (nf)		guitar		2885
+hierba (nf)		herb, grass, weed		2850
+huelga (nf)		strike, protest		2604
+humedad (nf)		humidity		2777
+identificación (nf)		identification		2897
+igualdad (nf)		equality		2867
+incertidumbre (nf)		uncertainty		2972
+índole (nf)		nature, temperament		2927
+injusticia (nf)		injustice		2554
+intimidad (nf)		private life, intimacy		2540
+invasión (nf)		invasion		2573
+joya (nf)		jewel, treasure		2698
+laguna (nf)		lagoon		2961
+limitación (nf)		limitation		2581
+madurez (nf)		maturity, ripeness		2684
+magnitud (nf)		magnitude, extent		2863
+maniobra (nf)		maneuver, operation		2903
+manzana (nf)		apple, city block		2853
+mercancía (nf)		goods, merchandise		2935
+miel (nf)		honey		2990
+misa (nf)		religious mass		2510
+mosca (nf)		fly (insect)		2956
+muchacha (nf)		girl		2506
+naranja (nf)		orange (fruit)		2950
+nave (nf)		spacecraft, ship		2542
+noción (nf)		notion, idea		2871
+novia (nf)		girlfriend, bride		2726
+oración (nf)		prayer		2543
+orientación (nf)		orientation, direction		2683
+palma (nf)		palm tree, palm		2938
+pausa (nf)		pause		2802
+perfección (nf)		perfection		2776
+precaución (nf)		caution, forethought		2918
+preferencia (nf)		preference		2623
+prenda (nf)		piece of clothing		2939
+presa (nf)		dam, prisoner (f)		2635
+pretensión (nf)		pretension, claim		2728
+prisión (nf)		prison, imprisonment		2980
+promoción (nf)		promotion		2706
+propaganda (nf)		advertising, propaganda		2508
+publicación (nf)		publication		2702
+publicidad (nf)		advertising, publicity		2925
+queja (nf)		complaint		2922
+rabia (nf)		rage		2887
+realización (nf)		fulfillment, realization		2790
+recomendación (nf)		recommendation		2908
+reforma (nf)		reform, improvement		2641
+residencia (nf)		residence		2844
+resolución (nf)		resolution		2711
+sabiduría (nf)		wisdom, knowledge		2856
+sal (nf)		salt		2608
+selección (nf)		selection, choice		2533
+semilla (nf)		seed		2875
+señorita (nf)		young woman		2622
+sentencia (nf)		legal sentence, judgment		2709
+síntesis (nf)		synthesis		2742
+solidaridad (nf)		solidarity, togetherness		2668
+sonrisa (nf)		smile		2754
+sospecha (nf)		suspicion		2602
+sucesión (nf)		succession, series		2655
+sustancia (nf)		substance, essence		2598
+tecnología (nf)		technology		2931
+tentación (nf)		temptation		2765
+tormenta (nf)		storm		2841
+trampa (nf); hacer trampa		trick, trap; to cheat		2548
+tribu (nf)		tribe		2963
+utilidad (nf)		usefulness, utility		2921
+variación (nf)		variation		2703
+vigilancia (nf)		surveillance, vigilance		2632
+habla (nf el)		speech, talking		2729
+abandono (nm)		abandonment, desertion		2524
+abrigo (nm)		overcoat, shelter		2996
+abuso (nm)		abuse, misuse		2605
+acento (nm)		accent, stress		2610
+adiós (nm)		goodbye		2557
+adulto (adj)		adult, grown-up (adj)		2685
+aeropuerto (nm)		airport		2993
+ahorro (nm)		saving, thrift		2977
+amo (nm)		master, boss (m)		2787
+antecedente (nm)		antecedent		2567
+aprendizaje (nm)		learning, apprenticeship		2675
+arreglo (nm)		arrangement		2607
+aviso (nm)		warning		2611
+barro (nm)		clay, mud		2894
+botón (nm)		button		2865
+cabello (nm)		hair [also pelo]		2920
+cable (nm)		cable, wiring		2812
+cajón (nm)		drawer		2620
+camión (nm)		truck, van, tanker		2503
+cansancio (nm)		tiredness, weariness		2544
+capricho (nm)		caprice, whim		2882
+celo (nm)		zeal, jealousy		2924
+cementerio (nm)		cemetery, graveyard		2700
+chiste (nm)		joke, funny story		2674
+choque (nm)		crash, collision		2930
+cigarrillo (nm)		cigarette		2858
+ciudadano (adj)		community, citizen (adj)		2883
+colaborador (nm)		collaborator		2881
+complejo (nm)		complex (nm)		2948
+componente (nm)		component, ingredient		2656
+concurso (nm)		competition, gathering		2628
+contexto (nm)		context		2898
+coro (nm)		choir, chorus		2940
+cruce (nm)		crossing, intersection		2809
+cuartel (nm)		quarters, barracks		2791
+cuchillo (nm)		knife		2945
+cuero (nm)		leather, skin		2848
+culto (nm)		worship, cult (nm)		2937
+cumplimiento (nm)		fulfillment, compliment		2691
+depósito (nm)		deposit, sediment		2664
+desafío (nm)		challenge, provocation		2992
+desprecio (nm)		contempt, disdain		2946
+diablo (nm)		devil		2878
+eje (nm)		axis, shaft, crux		2521
+ejemplar (adj)		exemplary, model (adj)		2747
+empresario (nm)		manager, entrepreneur		2796
+énfasis (nm)		emphasis		2794
+entorno (nm)		environment, surroundings		2614
+espectador (nm)		spectator, onlooker		2732
+esposo (nm)		husband, spouse		2676
+estímulo (nm)		stimulus, encouragement		2714
+estómago (nm)		stomach		2636
+experimento (nm)		experiment		2815
+ferrocarril (nm)		railway		2537
+filósofo (nm)		philosopher		2653
+foco (nm)		focus		2843
+fresco (nm)		freshness, coolness (nm)		2679
+fundamento (nm)		foundation, ground		2597
+fútbol (nm)		soccer		2513
+genio (nm)		genius, temper, genie		2654
+grano (nm)		grain, kernel		2748
+humo (nm)		smoke		2789
+impuesto (nm)		tax		2806
+incendio (nm)		fire, conflagration		2695
+inicio (nm)		beginning, start		2512
+instinto (nm)		instinct		2914
+invitado (nm)		guest		2583
+jueves (nm)		Thursday		2606
+juguete (nm)		toy		2672
+kilo (nm)		kilogram		2648
+labio (nm)		lip		2759
+lago (nm)		lake		2680
+lazo (nm)		bow, knot, tie, lasso		2612
+león (nm)		lion		2756
+mediodía (nm)		noon, midday		2618
+monumento (nm)		monument		2889
+museo (nm)		museum		2525
+nervio (nm)		nerve		2744
+nieto (nm)		grandchild		2615
+novio (nm)		boyfriend, groom		2730
+obstáculo (nm)		obstacle		2588
+olvido (nm)		forgetfulness, omission		2504
+pacto (nm)		pact, agreement		2530
+papa (nmf)		Pope (m), potato (f)		2669
+paraíso (nm)		paradise		2983
+pasillo (nm)		hall, corridor		2666
+pecado (nm)		sin		2551
+pedazo (nm)		piece, bit		2855
+pescado (nm)		fish (cooked)		2584
+piano (nm)		piano		2727
+plástico (adj)		plastic (adj)		2988
+porvenir (nm)		future, time to come		2766
+pozo (nm)		well, shaft		2625
+prejuicio (nm)		prejudice		2906
+presupuesto (nm)		budget		2630
+pretexto (nm)		pretext, excuse		2737
+príncipe (nm)		prince		2616
+propietario (nm)		owner		2526
+refugio (nm)		shelter, refuge		2964
+requisito (nm)		prerequisite, requirement		2644
+respaldo (nm)		support, backing, back		2692
+resumen (nm)		summary		2593
+robo (nm)		theft, robbery		2919
+rumor (nm)		rumor, murmur		2626
+saco (nm)		sack, bag, plunder		2798
+saludo (nm)		greeting		2661
+sello (nm)		stamp, seal		2999
+septiembre (nm)		September		2574
+sombrero (nm)		hat, sombrero		2899
+suceso (nm)		event, incident		2563
+sufrimiento (nm)		suffering		2658
+tabaco (nm)		tobacco, cigarette, cigar		2560
+tejido (nm)		fabric, tissue		2547
+tesoro (nm)		treasure, thesaurus		2629
+tránsito (nm)		traffic, transit		2792
+traslado (nm)		transfer		2763
+tribunal (nm)		court		2571
+tronco (nm)		trunk, torso		2936
+trozo (nm)		piece, chunk		2527
+tubo (nm)		tube, pipe		2932
+túnel (nm)		tunnel		2942
+vapor (nm)		vapor, steam		2827
+verso (nm)		verse, poem		2643
+vicio (nm)		vice, bad habit, defect		2805
+arquitecto (nm/f)		architect		2808
+científico (nm/f)		scientist (nm/f)		2745
+corredor (nm/f)		broker, corridor, runner		2591
+investigador (nm/f)		researcher, investigator		2981
+músico (nm/f)		musician		2518
+obrero (adj)		working class (adj)		2851
+técnico (nm/f)		technician (nm/f)		2982
+postre; a la postre (nmf)		dessert; in the end		2985
+dieciocho (num)		eighteen		2694
+dieciséis (num)		sixteen		2793
+veinticuatro (num)		twenty-four		2998
+tuyo (pron)		yours (singular familiar)		2797
+abrazar (v)		to hug, embrace		2873
+abundar (v)		to be plentiful		2923
+acentuar (v)		to accent, stress		2718
+acoger (v)		to welcome, accept		2715
+adivinar (v)		to guess, solve		2954
+administrar (v)		to administer, manage		2773
+afrontar (v)		to face, confront		2832
+ahogar (v)		to drown, choke, flood		2821
+ahorrar (v)		to save (money, time)		2775
+alargar (v)		to enlarge, elongate		2649
+alegrar (v)		to be/make happy		2689
+alzar (v)		to lift, raise		2511
+anotar (v)		to annotate, jot, note		2570
+anular (v)		to annul, cancel		2637
+armar (v)		to arm, put together		2627
+asimilar (v)		to assimilate		2928
+asustar (v)		to frighten, scare		2565
+autorizar (v)		to authorize, legalize		2829
+brillar (v)		to shine, twinkle, be outstanding		2558
+brotar (v)		to sprout		2979
+calentar (v)		to warm, heat		2531
+cansar (v)		to tire, annoy		2552
+centrar (v)		to center, focus, base on		2810
+concretar (v)		to specify, materialize, fulfill		2839
+contraer (v)		to contract, shrink, abbreviate		2782
+conversar (v)		to converse, talk		2507
+convivir (v)		to coexist		2913
+convocar (v)		to convene, summon		2599
+deducir (v)		to deduce, infer		2869
+derrotar (v)		to defeat, beat		2951
+descartar (v)		to discard, reject, rule out		2877
+desviar (v)		to deviate, divert, change		2723
+detectar (v)		to detect		2826
+diferenciar (v)		to differentiate, distinguish		2995
+difundir (v)		to spread out		2740
+diseñar (v)		to design, develop		2910
+distraer (v)		to distract		2905
+efectuar (v)		to carry out, cause to happen		2523
+encantar (v)		to be very pleasing to		2859
+enriquecer (v)		to enrich		2681
+enterrar (v)		to bury		2779
+entretener (v)		to entertain, amuse		2722
+esforzar (v)		to make an effort, exert oneself		2823
+estimular (v)		to stimulate, encourage		2662
+exagerar (v)		to exaggerate		2755
+extrañar (v)		to miss, long for		2564
+flotar (v)		to float, flutter		2967
+frenar (v)		to brake, restrain		2952
+generalizar (v)		to generalize, popularize		2621
+guiar (v)		to guide, lead, steer		2522
+habitar (v)		to inhabit		2624
+heredar (v)		to inherit		2555
+iluminar (v)		to illuminate, light up		2515
+imprimir (v)		to print		2502
+inducir (v)		to lead to, induce		2857
+jurar (v)		to swear, take an oath		2846
+lamentar (v)		to regret		2509
+librar (v)		to liberate, set free		2556
+lucir (v)		to show off, shine		2741
+originar (v)		to give rise to, cause		2819
+pescar (v)		to fish		2958
+picar (v)		to bite, sting, itch, chop		2840
+pisar (v)		to step on		2667
+planear (v)		to plan		2872
+plantar (v)		to plant		2949
+presionar (v)		to press, pressure		2896
+privar (v)		to deprive of		2868
+proclamar (v)		to proclaim		2944
+progresar (v)		to progress		2916
+promover (v)		to promote		2767
+proseguir (v)		to continue, carry on		2534
+proveer (v)		to provide		2911
+redactar (v)		to edit, write, compose		2870
+reflexionar (v)		to reflect, consider on		2788
+reiterar (v)		to reiterate, repeat		2900
+relatar (v)		to tell, narrate		2733
+remontar (v)		to go back to (time)		2580
+reparar (v)		to repair, to mend, to fix		2770
+rescatar (v)		to rescue, save		2559
+reservar (v)		to reserve, book		2750
+residir (v)		to reside, live in		2764
+restar (v)		to subtract, minimize		2836
+retroceder (v)		to go back		2724
+rezar (v)		to pray, recite		2847
+sacrificar (v)		to sacrifice		2752
+sacudir (v)		to shake, jolt		2969
+seleccionar (v)		to select		2912
+sembrar (v)		to sow, plant		2717
+sobrar (v)		to be too much, left over		2978
+sonreír (v)		to smile		2731
+sujetar (v)		to fasten, attach, hold		2879
+suprimir (v)		to suppress, delete		2976
+tejer (v)		to sew, weave		2941
+tolerar (v)		to tolerate, put up with		2874
+tragar (v)		to swallow		2965
+transportar (v)		to transport, carry		2690
+trazar (v)		to draw, trace		2892
+triunfar (v)		to triumph		2697
+tropezar (v)		to trip, stumble		2907
+valorar (v)		to value		2994
+violar (v)		to violate, trespass, rape		2673
+aceptable (adj)		acceptable, suitable		3384
+altísimo (adj)		very high, tall		3477
+ambicioso (adj)		ambitious, greedy		3310
+amoroso (adj)		loving, affectionate		3028
+animado (adj)		excited, lively		3163
+ansioso (adj)		anxious eager		3395
+auxiliar (adj)		auxiliary, ancillary		3373
+británico (adj)		British		3265
+brusco (adj)		brusque, abrupt, sudden		3332
+callado (adj)		quiet, reserved		3095
+casero (adj)		homemade		3370
+célebre (adj)		famous, renowned		3127
+chileno (adj)		Chilean		3164
+colgado (adj)		hanging		3185
+colonial (adj)		colonial		3293
+cómico (adj)		comic		3485
+contemporáneo (adj)		contemporary		3009
+contradictorio (adj)		contradictory		3107
+décimo (adj)		tenth		3355
+delgado (adj)		thin, skinny		3039
+delicioso (adj)		delicious, delightful, charming		3132
+despacio (adj)		slow, slowly		3398
+destacado (adj)		outstanding, leading		3001
+dicho (nm)		saying, proverb (nm)		3348
+discreto (adj)		discreet, tactful		3025
+disponible (adj)		available		3262
+distinguido (adj)		distinguished		3228
+dotado (adj)		endowed, gifted		3083
+dudoso (adj)		doubtful, dubious		3230
+ejecutivo (adj)		executive		3065
+electoral (adj)		electoral		3411
+electrónico (adj)		electronic		3149
+enamorado (adj)		in love		3274
+encantado (adj)		pleased, delighted		3264
+encendido (adj)		turned on, burning		3002
+enérgico (adj)		energetic, vigorous		3459
+espantoso (adj)		frightening, dreadful		3281
+estupendo (adj)		marvelous, stupendous		3478
+estúpido (adj)		stupid, idiotic		3319
+financiero (adj)		financial		3289
+flexible (adj)		flexible		3097
+formidable (adj)		formidable, tremendous		3414
+frágil (adj)		fragile, weak		3202
+genial (adj)		brilliant, inspired		3216
+geográfico (adj)		geographical		3194
+gracioso (adj)		funny, charming, amusing		3221
+grato (adj)		agreeable, pleasant		3442
+gratuito (adj)		free, arbitrary, gratuitous		3299
+heroico (adj)		heroic		3351
+honesto (adj)		honest		3326
+ignorante (adj)		ignorant		3467
+iluminado (adj)		illuminated		3342
+ilustrado (adj)		learned, illustrated		3473
+indirecto (adj)		indirect		3061
+innecesario (adj)		unnecessary		3248
+innumerable (adj)		innumerable, countless		3399
+insoportable (adj)		unbearable, intolerable		3401
+insuficiente (adj)		insufficient		3278
+intacto (adj)		intact		3259
+intermedio (adj)		interim, intermediate (adj)		3223
+interminable (adj)		endless, interminable		3235
+irregular (adj)		irregular		3214
+laboral (adj)		labor, industry (adj)		3268
+lamentable (adj)		regrettable		3232
+materno (adj)		maternal		3167
+mediano (adj)		average, medium, ordinary		3103
+miserable (adj)		wretched, miserable		3441
+molesto (adj)		annoyed, bothered, upset		3371
+mortal (adj)		mortal, lethal, deadly (adj)		3112
+mudo (adj)		mute, silent		3118
+nativo (adj)		native		3381
+notorio (adj)		notorious, noticeable		3138
+obligatorio (adj)		obligatory, compulsory		3007
+optimista (adj)		optimistic		3030
+pacífico (adj)		peaceful		3105
+pálido (adj)		pale, ghastly, faded		3161
+pasajero (nm)		passenger (nm)		3354
+poético (adj)		poetic		3312
+policial (adj)		police (adj)		3311
+potente (adj)		potent, powerful		3133
+preferible (adj)		preferable		3126
+preso (nm)		prisoner (nm)		3069
+procedente (adj)		coming from [also proveniente]		3260
+psicológico (adj)		psychological		3123
+puntual (adj)		punctual		3498
+quemado (adj)		burned, burnt		3365
+quieto (adj)		still, motionless, calm		3154
+referente (adj)		concerning		3073
+regional (adj)		regional		3484
+repentino (adj)		sudden [also súbito]		3394
+restante (adj)		remaining		3482
+ridículo (adj)		ridiculous, absurd (adj)		3209
+rotundo (adj)		categorical		3388
+rubio (adj)		blonde, fair		3269
+satisfactorio (adj)		satisfactory		3316
+sexto (adj)		sixth		3140
+silencioso (adj)		quiet, silent		3374
+simbólico (adj)		symbolic		3349
+solemne (adj)		solemn		3115
+soltero (adj)		single, not married		3175
+sorprendido (adj)		surprised		3120
+sostenido (adj)		sustained, steady		3279
+tardío (adj)		late, belated		3487
+teatral (adj)		theatrical		3295
+temporal (adj)		temporary		3225
+tenso (adj)		tight, tense		3043
+usado (adj)		worn out, old, used		3305
+vago (adj)		vague		3318
+valiente (adj)		brave, courageous, bold		3131
+vano (adj)		vain, useless		3367
+vegetal (adj)		plant, vegetable (adj)		3304
+verbal (adj)		verbal, oral		3256
+vertical (adj)		vertical, upright		3297
+vinculado (adj)		connected		3181
+vuestro (adj)		your (plural familiar)		3137
+anoche (adv)		last night		3418
+automáticamente (adv)		automatically		3324
+concretamente (adv)		specifically, exactly		3466
+curiosamente (adv)		strangely, funnily enough		3469
+desgraciadamente (adv)		unfortunately		3315
+difícilmente (adv)		with difficulty		3300
+habitualmente (adv)		habitually		3245
+indudablemente (adv)		doubtless, undoubtedly		3360
+lógicamente (adv)		logically		3470
+ojalá (adv)		I hope that		3067
+permanentemente (adv)		permanently		3462
+propiamente (adv)		exactly, properly		3079
+seriamente (adv)		seriously		3206
+sucesivamente (adv)		successively, step by step		3428
+tranquilamente (adv)		calmly, peacefully		3247
+ama (nc)		housekeeper, housewife		3321
+asistente (nc)		assistant		3180
+cantante (nc)		singer		3147
+civil (nc)		civilian (nc)		3436
+descendiente (nc)		descendant		3387
+dirigente (nc)		leader, director, manager		3285
+turista (nc)		tourist (nc)		3177
+abundancia (nf)		abundance		3178
+adolescencia (nf)		adolescence		3397
+advertencia (nf)		warning, notice		3438
+afición (nf)		fondness, interest		3292
+agresión (nf)		aggression, attack		3204
+alarma (nf)		alarm		3452
+aldea (nf)		small village		3458
+alfombra (nf)		rug, carpet mat		3158
+ansiedad (nf)		anxiety		3284
+apertura (nf)		opening, beginning		3368
+audiencia (nf)		audience, hearing		3353
+autonomía (nf)		autonomy, range		3317
+bala (nf)		bullet, shot		3328
+barba (nf)		beard		3451
+caña (nf)		cane, reed		3173
+carencia (nf)		lack, shortage [also falta]		3199
+catástrofe (nf)		catastrophe		3099
+celebración (nf)		celebration		3409
+célula (nf)		cell (biology)		3052
+cerveza (nf)		beer, ale		3134
+cintura (nf)		waist		3323
+clave (adj)		key (adj)		3445
+comedia (nf)		comedy, play, pretense		3457
+complicación (nf)		complication		3400
+concesión (nf)		awarding, concession		3486
+conexión (nf)		connection, relationship		3302
+confesión (nf)		confession, admission		3237
+constancia (nf)		perseverance		3148
+continuidad (nf)		continuity		3195
+conveniencia (nf)		convenience, usefulness		3197
+corbata (nf)		tie, sash		3238
+corrupción (nf)		corruption		3236
+decadencia (nf)		decline, decay		3117
+depresión (nf)		depression, slump		3419
+desconfianza (nf)		distrust		3170
+diversión (nf)		fun, entertainment		3345
+duración (nf)		duration, length		3336
+emergencia (nf)		emergency		3273
+envidia (nf)		envy		3272
+escasez (nf)		scarcity, shortage		3135
+espada (nf)		sword		3024
+estabilidad (nf)		stability		3251
+estadística (nf)		statistic		3339
+estatua (nf)		statue		3116
+excelencia (nf)		excellence		3026
+falda (nf)		skirt		3143
+feria (nf)		fair, festival		3358
+fibra (nf)		fiber, grain		3424
+ficción (nf)		fiction		3165
+finalidad (nf)		purpose, aim		3287
+fortaleza (nf)		fortress, strength		3205
+frustración (nf)		frustration		3096
+galería (nf)		gallery, balcony		3191
+gallina (nf)		hen, coward		3023
+garganta (nf)		throat, gorge		3090
+grandeza (nf)		greatness, size		3252
+grasa (nf)		grease, fat		3275
+hembra (nf)		female, woman		3379
+ideología (nf)		ideology		3369
+ignorancia (nf)		ignorance		3076
+indiferencia (nf)		indifference		3217
+inspiración (nf)		inspiration, inhalation		3055
+introducción (nf)		introduction		3346
+jerarquía (nf)		hierarchy, rank		3335
+junta (nf)		meeting, conference, seam		3213
+justificación (nf)		justification		3211
+lámpara (nf)		lamp		3347
+lana (nf)		wool		3060
+lástima (nf)		shame, pity		3294
+licencia (nf)		license, permission		3415
+magia (nf)		magic		3019
+manga (nf)		sleeve		3266
+máscara (nf)		mask		3449
+matemática (nf)		mathematics		3257
+mejora (nf)		improvement		3044
+mención (nf)		mention		3291
+mentalidad (nf)		mindset, mind		3334
+mina (nf)		mine (nf)		3013
+molestia (nf)		bother, nuisance, trouble		3481
+motivación (nf)		motivation		3416
+muñeca (nf)		doll, wrist		3082
+negativa (nf)		negative, denial		3142
+nostalgia (nf)		nostalgia, homesickness		3290
+obsesión (nf)		mania, obsession		3412
+orquesta (nf)		orchestra, dance band		3301
+paja (nf)		straw, thatching		3483
+pauta (nf)		guideline, rule, standard		3325
+pelea (nf)		fight, quarrel		3034
+permanencia (nf)		permanence, tenure		3429
+persecución (nf)		pursuit, persecution		3031
+pesadilla (nf)		nightmare		3479
+pesca (nf)		fishing		3495
+petición (nf)		request, petition		3435
+placa (nf)		plaque, plate, badge		3330
+plenitud (nf)		fullness, abundance		3383
+porción (nf)		part, portion, share		3403
+porquería (nf)		filth, junk		3046
+previsión (nf)		forecast, precaution		3440
+prima (nf)		female cousin, down payment		3283
+prisa (nf)		hurry		3253
+proximidad (nf)		proximity		3338
+proyección (nf)		projection, screening		3057
+pureza (nf)		purity, chastity		3455
+rata (nf)		rat		3497
+raya (nf)		line, ray, stripe		3249
+recepción (nf)		reception, waiting-room		3327
+receta (nf)		recipe, prescription		3196
+recuperación (nf)		recovery, recuperation		3101
+renta (nf)		income, rent 		3210
+repetición (nf)		repetition		3113
+república (nf)		republic		3389
+respiración (nf)		respiration, breath		3171
+rutina (nf)		routine		3042
+secuencia (nf)		sequence		3241
+sed (nf)		thirst		3080
+seda (nf)		silk		3271
+seriedad (nf)		seriousness		3022
+sierra (nf)		mountain range, saw		3390
+tapa (nf)		cover, lid		3492
+taza (nf)		cup, bowl		3218
+timidez (nf)		shyness, timidity		3447
+tinta (nf)		ink		3089
+tontería (nf)		stupidity, stupid thing [also estupidez]		3074
+traducción (nf)		translation		3344
+traición (nf)		treason, betrayal		3493
+transición (nf)		transition		3139
+trascendencia (nf)		transcendent nature, significance		3233
+trayectoria (nf)		trajectory, path		3215
+uña (nf)		nail, fingernail, toenail		3106
+utilización (nf)		use, utilization		3491
+venganza (nf)		revenge, vengeance		3450
+de veras vera (nf)		really, for real		3038
+acero (nm)		steel		3064
+adorno (nm)		decoration, adornment		3468
+aficionado (nm)		fan, devotee		3125
+agujero (nm)		hole, opening		3128
+alcalde (nm)		mayor		3277
+aliento (nm)		breath, courage, spirit		3454
+almuerzo (nm)		lunch		3104
+amanecer (nm)		daybreak, dawn (nm)		3051
+anillo (nm)		ring		3150
+aplauso (nm)		applause, praise, acclaim		3282
+archivo (nm)		archive, file, filing cabinet		3244
+arroz (nm)		rice		3130
+ascenso (nm)		promotion, climb		3286
+asesinato (nm)		murder, assassination		3333
+asesino (nm)		killer, assassin		3092
+atractivo (nm)		attraction, charm (nm)		3094
+auxilio (nm)		help, aid, assistance		3500
+balance (nm)		outcome, balance		3151
+balcón (nm)		balcony		3207
+bando (nm)		faction, side		3380
+bebé (nm)		baby		3406
+beso (nm)		kiss		3322
+billete (nm)		ticket, bill, note		3070
+brillo (nm)		shine, twinkling, sparkle		3463
+bronce (nm)		bronze		3413
+cáncer (nm)		cancer		3242
+cañón (nm)		canyon, cannon		3229
+cartel (nm)		poster		3169
+cartón (nm)		cardboard, carton, sketch		3393
+casco (nm)		helmet		3033
+castillo (nm)		castle		3343
+cauce (nm)		riverbed, ditch		3075
+cemento (nm)		cement, concrete		3098
+centenar (nm)		hundred (nm)		3480
+cerdo (nm)		pig, sow, slob		3200
+cerro (nm)		hill		3187
+comedor (nm)		dining room		3021
+congreso (nm)		congress		3280
+coraje (nm)		courage, toughness		3385
+costado (nm)		side, flank		3356
+costo (nm)		price, cost, expense		3110
+crítico (nm)		critic (nm)		3054
+cuaderno (nm)		notebook, workbook		3220
+defensor (nm)		defender		3499
+demonio (nm)		demon, devil		3258
+desayuno (nm)		breakfast		3157
+domicilio (nm)		residence, address		3045
+dormitorio (nm)		bedroom, dormitory		3382
+dulce (nm)		candy, sweets (nm)		3100
+empeño (nm)		insistence, determination		3203
+encanto (nm)		charm, spell		3078
+enfrentamiento (nm)		confrontation		3212
+engaño (nm)		deceit, falsehood, hoax		3192
+entendimiento (nm)		understanding		3152
+escudo (nm)		shield, coat of arms		3081
+exilio (nm)		exile		3359
+filo (nm)		cutting edge		3309
+fragmento (nm)		fragment, passage		3004
+globo (nm)		balloon, globe		3408
+guante (nm)		glove		3392
+hallazgo (nm)		finding, discovery		3337
+horno (nm)		oven, furnace		3432
+imperio (nm)		empire, fortune		3032
+incidente (nm)		incident		3003
+indicio (nm)		indication, sign		3184
+infierno (nm)		hell, inferno		3062
+ingenio (nm)		ingenuity, talent, wit		3378
+invento (nm)		invention		3086
+jugador (nm)		player, gambler		3168
+ladrillo (nm)		brick		3056
+lápiz (nm)		pencil		3296
+latín (nm)		Latin (nm)		3040
+logro (nm)		success, achievement		3433
+macho (nm)		male, manliness		3239
+maíz (nm)		corn, maize		3314
+malestar (nm)		discomfort, unease, unrest		3496
+mandato (nm)		mandate, order, command		3443
+manifiesto (nm): poner de manifiesto 		to show		3111
+martes (nm)		Tuesday		3490
+miércoles (nm)		Wednesday		3431
+ministerio (nm)		ministry		3136
+mono (nm)		monkey		3471
+monstruo (nm)		monster, monstrosity		3405
+músculo (nm)		muscle		3029
+nido (nm)		nest		3298
+nudo (nm)		knot		3488
+obispo (nm)		bishop		3363
+observador (nm)		observer		3208
+otoño (nm)		autumn		3357
+pánico (nm)		panic		3227
+párrafo (nm)		paragraph		3461
+patrimonio (nm)		patrimony, inheritance		3114
+petróleo (nm)		oil, petroleum		3427
+plano (adj)		flat, plain, even, level (adj)		3005
+plomo (nm)		lead, bullet		3386
+pollo (nm)		chicken		3231
+porcentaje (nm)		percentage		3015
+portador (nm)		bearer, carrier		3362
+prisionero (nm)		prisoner		3176
+pulmón (nm)		lung		3420
+quehacer (nm)		task, job, chore		3410
+queso (nm)		cheese		3182
+rango (nm)		rank, range		3085
+rastro (nm)		track, sign, flea market		3465
+razonamiento (nm)		reasoning		3472
+recinto (nm)		grounds, precincts		3088
+reparto (nm)		distribution, delivery		3437
+restaurante (nm)		restaurant		3014
+reto (nm)		challenge, defiance		3476
+retorno (nm)		return [also regreso]		3035
+rito (nm)		rite, ritual		3093
+salario (nm)		salary, wages		3307
+seguro (nm)		insurance (nm)		3377
+suicidio (nm)		suicide		3329
+susto (nm)		fright, scare		3048
+taxi (nm)		taxi, cab		3402
+televisor (nm)		television set		3250
+timbre (nm)		doorbell, bell, seal, stamp		3404
+toque (nm)		touch, ringing, warning		3448
+trámite (nm)		procedure, step, requirement		3246
+tramo (nm)		section, stretch, plot		3475
+transcurso (nm)		passing, course, lapse		3155
+trayecto (nm)		trajectory, course, path		3407
+viajero (nm)		traveler, passenger		3091
+vientre (nm)		womb, belly		3434
+vigor (nm)		force, strength, vigor		3306
+vínculo (nm)		tie, bond, link		3219
+cazador (nm/f)		hunter		3376
+conductor (nm/f)		driver, conductor		3016
+enfermero (nm/f)		nurse		3122
+historiador (nm/f)		historian		3159
+pastor (nm/f)		shepherd, pastor		3474
+diecisiete (num)		seventeen		3446
+noventa (num)		ninety		3417
+quinientos (num)		five hundred		3426
+trescientos (num)		three hundred		3341
+excepto (prep)		except for		3108
+contigo (pron)		with you		3017
+vos (pron)		you (subj singular familiar) [also tú]		3430
+acelerar (v)		to accelerate, speed up		3053
+acertar (v)		to get right		3308
+acostar (v)		to put/go to bed		3077
+adorar (v)		to worship, adore		3124
+agitar (v)		to shake, move		3027
+aislar (v)		to isolate, insulate		3174
+alentar (v)		to encourage		3189
+aliviar (v)		to lighten, relieve, comfort		3063
+alternar (v)		to alternate		3303
+aludir (v)		to allude to		3037
+aplastar (v)		to flatten, crush, smash		3391
+aplaudir (v)		to clap, applaud		3068
+apoderar (v)		to take power		3421
+arder (v)		to burn, glow		3087
+arrebatar (v)		to snatch, grab		3439
+arriesgar (v)		to risk, venture		3183
+asentar (v)		to settle, establish, locate		3494
+asesinar (v)		to murder, assassinate		3352
+asignar (v)		to assign, allocate		3008
+bañar (v)		to bathe, take a bath		3224
+barrer (v)		sweep, clean out		3156
+batir (v)		to beat an object		3313
+bautizar (v)		to baptize, christen		3186
+beneficiar (v)		to benefit		3129
+burlar (v)		to mock		3047
+calmar (v)		to calm, soothe, relieve		3331
+cazar (v)		to hunt		3066
+cenar (v)		to dine		3261
+clavar (v)		to nail		3146
+cocinar (v)		to cook		3372
+compensar (v)		to compensate, make up for		3006
+conectar (v)		to connect, plug in		3084
+culminar (v)		to culminate, accomplish		3276
+debatir (v)		to debate, discuss		3422
+demorar (v)		to delay, take time		3320
+desatar (v)		to untie, unleash, spark off		3188
+descargar (v)		to unleash, unload		3190
+descuidar (v)		to neglect		3072
+desembocar (v)		to flow, lead into		3059
+desplegar (v)		to unfold, deploy		3058
+despreciar (v)		to despise, scorn		3141
+disimular (v)		to disguise, hide, pretend		3364
+disolver (v)		to dissolve		3240
+disputar (v)		to dispute, contest		3425
+eludir (v)		to evade, avoid, elude		3460
+emerger (v)		to emerge, surface		3145
+enamorar (v)		to fall in love		3193
+encajar (v)		to insert, fit well		3049
+ensayar (v)		to test, rehearse		3166
+evolucionar (v)		to evolve, develop		3018
+excluir (v)		to exclude, reject		3121
+fallecer (v)		to pass away (to die)		3456
+finalizar (v)		to end, finalize		3011
+fluir (v)		to flow		3350
+herir (v)		to wound, hurt		3109
+improvisar (v)		to improvise		3144
+insinuar (v)		to insinuate, hint		3453
+localizar (v)		to locate, find, localize		3102
+motivar (v)		to motivate, cause		3071
+nadar (v)		to swim		3050
+navegar (v)		to navigate, sail		3375
+ocasionar (v)		to occasion, bring about		3464
+odiar (v)		to hate		3444
+oler (v)		to smell		3036
+perfeccionar (v)		to perfect		3366
+perjudicar (v)		to endanger		3267
+persistir (v)		to persist		3254
+preceder (v)		to precede		3288
+precipitar (v)		to plunge, hurl, rush		3119
+preservar (v)		to preserve		3361
+presidir (v)		to preside over		3020
+presumir (v)		to boast, show off, suppose		3340
+prevenir (v)		to avoid, prevent [also evitar]		3270
+programar (v)		to plan, program		3162
+reemplazar (v)		to replace		3198
+reforzar (v)		to reinforce, strengthen		3012
+regir (v)		to rule, govern, manage		3222
+remitir (v)		to remit		3234
+reponer (v)		to replace, restore		3423
+resumir (v)		to summarize		3041
+retomar (v)		to retake, restart		3489
+rodar (v)		to roll, run, scatter		3179
+rogar (v)		to implore, pray, ask		3160
+rozar (v)		to touch lightly		3226
+soplar (v)		to blow (wind)		3201
+subrayar (v)		to underline, highlight, emphasize		3396
+suscitar (v)		to arouse, provoke		3010
+temblar (v)		to tremble, shake		3255
+tornar (v)		to transform, turn		3263
+velar (v)		to watch over		3243
+volcar (v)		to turn/knock over, empty		3153
+votar (v)		to vote		3172
+abstracto (adj)		abstract		3549
+africano (adj)		African		3654
+agrícola (adj)		agricultural, farming		3611
+ambiguo (adj)		ambiguous		3645
+anual (adj)		annual, yearly		3508
+apasionado (adj)		passionate		3547
+apretado (adj)		tight, jammed		3806
+apto (adj)		appropriate, fit, able		3535
+asombroso (adj)		amazing		3526
+áspero (adj)		rough, coarse, harsh		3854
+asustado (adj)		scared, frightened		3633
+autoritario (adj)		authoritarian		3552
+autorizado (adj)		authorized		3896
+biológico (adj)		biological		3674
+brutal (adj)		brutal, savage		3505
+civilizado (adj)		civilized		4000
+comparable (adj)		comparable		3719
+complementario (adj)		additional, complementary		3948
+consagrado (adj)		dedicated, consecrated		3956
+costoso (adj)		costly, expensive		3514
+creativo (adj)		creative		3551
+cubano (adj)		Cuban		3905
+denso (adj)		heavy, dense, thick		3605
+desaparecido (adj)		missing		3813
+desigual (adj)		uneven, unequal		3978
+despierto (adj)		awake		3958
+diplomático (adj)		diplomatic (adj)		3681
+disperso (adj)		spread out		3506
+dominante (adj)		dominant		3583
+educativo (adj)		educational		3794
+eficiente (adj)		efficient		3571
+egoísta (adj)		selfish		3845
+embarazada (adj)		pregnant		3969
+emocional (adj)		emotional		3680
+encantador (adj)		charming		3650
+espeso (adj)		thick, dense, stiff		3537
+estático (adj)		static, motionless		3923
+estudioso (adj)		studious		3940
+exigente (adj)		demanding, urgent		3530
+exótico (adj)		exotic		3847
+fabuloso (adj)		fabulous, fantastic		3596
+fascinante (adj)		fascinating		3853
+feroz (adj)		ferocious, fierce		3560
+flaco (adj)		thin, frail		3673
+franco (adj)		open, frank, outspoken		3878
+funcional (adj)		functional		3711
+furioso (adj)		furious		3939
+global (adj)		global, overall		3760
+glorioso (adj)		glorious		3689
+horizontal (adj)		horizontal		3728
+hostil (adj)		hostile, unfriendly		3871
+imaginario (adj)		imaginary		3504
+impreso (adj)		printed		3697
+incierto (adj)		uncertain		3536
+inédito (adj)		unpublished		3879
+ingenuo (adj)		naive, ingenuous		3507
+insignificante (adj)		insignificant		3747
+insólito (adj)		unusual, uncommon		3951
+integrante (adj)		integral, part of a group		3889
+inverso (adj)		inverse, opposite		3703
+invisible (adj)		invisible		3572
+latinoamericano (adj)		Latin American		3971
+leal (adj)		loyal, faithful		3897
+lingüístico (adj)		linguistic		3890
+liso (adj)		smooth, flat, straight		3632
+lujoso (adj)		luxurious		3866
+manual (nm)		manual, handbook (nm)		3929
+marginal (adj)		marginal, minor		3721
+masivo (adj)		mass, massive		3778
+matemático (adj)		mathematical		3912
+mensual (adj)		monthly		3618
+mexicano (adj)		Mexican		3892
+oral (adj)		oral		3773
+orgánico (adj)		organic		3716
+parcial (adj)		partial, biased		3775
+pardo (adj)		brown, dark, dim		3722
+penoso (adj)		painful, laborious		3737
+pésimo (adj)		dreadful, awful		3817
+poblado (adj)		populated		3695
+portugués (adj)		Portuguese		3913
+preferido (adj)		preferred, favorite		3744
+privilegiado (adj)		privileged		3579
+progresivo (adj)		progressive		3685
+propicio (adj)		appropriate, suitable		3636
+rebelde (adj)		rebel (adj)		3576
+repleto (adj)		full, overcrowded		3515
+representativo (adj)		representative (adj)		3930
+respetuoso (adj)		respectful		3653
+saludable (adj)		healthy, wholesome [also sano]		3803
+sangriento (adj)		bloody		3911
+sistemático (adj)		systematic		3567
+solar (adj)		solar		3841
+sospechoso (adj)		suspicious		3592
+subterráneo (adj)		underground		3555
+sumo (adj)		utmost, highest		3570
+tecnológico (adj)		technological		3972
+temeroso (adj)		fearful		3952
+tendido (adj)		spread, hung, laid out		3727
+tibio (adj)		lukewarm		3590
+torpe (adj)		clumsy, awkward, slow		3629
+tropical (adj)		tropical		3873
+turco (adj)		Turkish		3691
+vasco (adj)		Basque		3946
+vigente (adj)		in force, valid		3801
+virgen (nf)		virgin (nf)		3981
+adónde (adv)		to where?		3926
+antaño (adv)		in days gone by, last year		3924
+antemano (adv)		beforehand, in advance		3601
+asimismo (adv)		as well, also, moreover		3511
+básicamente (adv)		basically		3862
+diariamente (adv)		daily (adv)		3524
+enormemente (adv)		enormously		3678
+enteramente (adv)		completely, entirely		3789
+excesivamente (adv)		excessively		3553
+extraordinariamente (adv)		extraordinarily		3953
+físicamente (adv)		physically		3852
+frecuentemente (adv)		frequently, often		3753
+fuertemente (adv)		strongly		3759
+inclusive (adv)		including, even		3568
+inevitablemente (adv)		inevitably		3842
+intensamente (adv)		intensely		3914
+lamentablemente (adv)		regrettably		3919
+literalmente (adv)		literally		3750
+obviamente (adv)		obviously		3811
+simultáneamente (adv)		simultaneously		3627
+sinceramente (adv)		sincerely		3574
+suavemente (adv)		softly		3915
+cuidadosamente (adv)		carefully		3808
+compatriota (nc)		fellow countryman		3891
+rival (nc)		rival		3796
+acumulación (nf)		accumulation		3718
+acusación (nf)		accusation, charge		3573
+adaptación (nf)		adaptation		3809
+adquisición (nf)		acquisition		3687
+agricultura (nf)		agriculture, farming		3741
+aguja (nf)		needle, spire, stylus		3625
+alianza (nf)		alliance		3851
+alteración (nf)		alteration, change		3569
+alusión (nf)		allusion, hint		3640
+amplitud (nf)		breadth, extent, range		3908
+antigüedad (nf)		antiquity, seniority		3562
+aprobación (nf)		approval, consent		3709
+asamblea (nf)		assembly		3899
+beca (nf)		scholarship, grant		3959
+bestia (nf)		beast, brute		3765
+bicicleta (nf)		bicycle		3955
+cabecera (nf)		head, header		3723
+capilla (nf)		chapel		3788
+caridad (nf)		charity		3984
+casita (nf)		cottage		3849
+ceniza (nf)		ash		3546
+censura (nf)		censorship, criticism		3990
+central (nf)		headquarters (nf)		3844
+chispa (nf)		spark		3980
+clínica (nf)		clinic		3967
+comunión (nf)		communion		3986
+condena (nf)		sentence in prison, penalty		3519
+conservación (nf)		conservation		3661
+corrección (nf)		correction, amendment		3979
+cortina (nf)		curtain, screen		3630
+crueldad (nf)		cruelty, harshness		3830
+cuadra (nf)		city block, stable		3826
+cubierta (nf)		covering, top, lid		3668
+cumbre (nf)		summit, top		3523
+cuna (nf)		cradle, birth, lineage		3726
+cúpula (nf)		cupola, dome		3833
+dedicación (nf)		dedication, devotion		3698
+devoción (nf)		devotion		3702
+dieta (nf)		diet		3607
+difusión (nf)		spread, diffusion		3816
+disputa (nf)		dispute, argument, quarrel		3991
+dueña (nf)		landlady, owner (f)		3557
+dureza (nf)		hardness, toughness		3858
+elaboración (nf)		production [also producción]		3663
+electricidad (nf)		electricity		3950
+especulación (nf)		speculation, conjecture		3928
+espina (nf)		thorn, spine		3708
+ética (nf)		ethics		3683
+etiqueta (nf)		label, etiquette		3810
+exactitud (nf)		accuracy		3615
+excursión (nf)		excursion		3916
+excusa (nf)		excuse		3564
+expansión (nf)		expansion, spreading		3638
+expedición (nf)		expedition		3944
+explotación (nf)		exploitation, cultivation		3764
+fachada (nf)		front of a building		3710
+ficha (nf)		index card, chip, token		3736
+fidelidad (nf)		faithfulness, accuracy		3885
+franja (nf)		strip, stripe, fringe		3670
+generosidad (nf)		generosity		3777
+gira (nf)		tour		3903
+goma (nf)		rubber		3677
+hacienda (nf)		ranch		3561
+harina (nf)		flour		3614
+hazaña (nf)		deed, heroic feat		3857
+iluminación (nf)		illumination, lighting		3989
+incapacidad (nf)		inability, incompetence		3730
+inocencia (nf)		innocence		3520
+inscripción (nf)		inscription, registration		3684
+inseguridad (nf)		insecurity		3738
+insistencia (nf)		insistence, persistence		3587
+interrupción (nf)		interruption		3518
+intuición (nf)		intuition		3509
+invención (nf)		invention, contrivance		3510
+ira (nf)		rage, wrath		3545
+ironía (nf)		irony		3531
+lámina (nf)		sheet of metal		3770
+lealtad (nf)		loyalty, faithfulness		3996
+lentitud (nf)		slowness		3875
+llama (nf)		flame, llama		3835
+localidad (nf)		town, locality		3894
+maestra (nf)		teacher (f)		3966
+maquinaria (nf)		machinery		3582
+mariposa (nf)		butterfly, wing nut		3883
+mecánica (nf)		mechanics, mechanism		3949
+medalla (nf)		medal, medallion		3995
+modificación (nf)		modification, alteration		3717
+monja (nf)		nun		3548
+muralla (nf)		city wall		3812
+naturalidad (nf)		ease, spontaneity		3742
+ópera (nf)		opera		3757
+oveja (nf)		sheep, ewe		3556
+paloma (nf)		dove		3700
+parada (nf)		transportation stop		3649
+pasta (nf)		pasta, dough		3771
+pertenencia (nf)		membership, property		3846
+peseta (nf)		peseta (money)		3725
+peste (nf)		plague, pestilence, pest		3943
+pila (nf)		battery, pile, sink		3672
+pistola (nf)		gun, pistol		3745
+plataforma (nf)		platform, springboard		3965
+polémica (nf)		polemics, argument		3774
+proposición (nf)		proposition		3647
+prudencia (nf)		prudence, moderation		3621
+rebeldía (nf)		rebelliousness, defiance		3977
+redacción (nf)		editing, wording, essay		3735
+reducción (nf)		reduction		3815
+renovación (nf)		renewal, renovation		3937
+renuncia (nf)		resignation, renunciation		3693
+réplica (nf)		answer, retort, copy		3758
+represión (nf)		repression		3814
+reproducción (nf)		reproduction		3637
+retirada (nf)		retreat, withdrawal		3861
+revelación (nf)		revelation		3724
+revisión (nf)		checking revision		3860
+rienda (nf)		rein, restraint		3829
+ronda (nf)		round (nf)		3786
+sábana (nf)		bed sheet		3859
+salvación (nf)		salvation, rescue		3575
+semejanza (nf)		similarity, likeness		3522
+seña (nf)		sign, mark, seal		3533
+serenidad (nf)		serenity, calm		3743
+solicitud (nf)		request, application		3540
+sopa (nf)		soup		3795
+sugerencia (nf)		suggestion		3784
+supervivencia (nf)		survival		3983
+ternura (nf)		tenderness		3797
+tolerancia (nf)		tolerance		3792
+tortura (nf)		torture		3585
+trama (nf)		plot, theme		3566
+ubicación (nf)		position, location		3559
+uva (nf)		grape		3682
+vanidad (nf)		vanity, conceit		3935
+variante (nf)		variant, difference		3798
+vegetación (nf)		vegetation		3837
+vena (nf)		vein		3512
+villa (nf)		village, villa		3731
+víspera (nf)		eve		3541
+vitalidad (nf)		vitality, health		3807
+ansia (nf el)		anxiety, anguish		3832
+aula (nf el)		classroom		3876
+abismo (nm)		abyss, large gap		3612
+abrazo (nm)		hug, embrace		3767
+absurdo (nm)		absurdity, nonsense		3648
+ácido (nm)		acid		3729
+acorde (nm)		agreement, accord		3783
+adversario (nm)		adversary		3667
+algodón (nm)		cotton		3613
+alquiler (nm)		rent, rental		3733
+ancho (nm)		width (nm)		3679
+aniversario (nm)		anniversary		3669
+antepasado (nm)		ancestor		3600
+aporte (nm)		contribution (nm)		3957
+apunte (nm)		note, annotation		3599
+aroma (nm)		aroma		3863
+asalto (nm)		assault, robbery		3768
+ascensor (nm)		elevator		3954
+asombro (nm)		amazement, astonishment		3906
+bote (nm)		small boat		3840
+bulto (nm)		bulk, shape		3925
+buque (nm)		large ship		3974
+calendario (nm)		calendar		3656
+campamento (nm)		camp, camping		3910
+carbón (nm)		coal, charcoal		3909
+chocolate (nm)		chocolate		3776
+cinturón (nm)		belt		3922
+circo (nm)		circus		3666
+circuito (nm)		circuit, circumference, track		3554
+cobre (nm)		copper		3503
+colectivo (nm)		collective, group (nm)		3606
+colmo; para colmo (nm)		climax; to top it all		3525
+comandante (nm)		commander, commanding officer		3755
+coronel (nm)		colonel		3715
+correo (nm)		mail, post office		3665
+cumpleaños (nm)		birthday		3785
+decreto (nm)		decree, order		3529
+descenso (nm)		decline, descent, lowering		3641
+desfile (nm)		parade, line, formation		3973
+desierto (adj)		deserted, desolate (adj)		3782
+desplazamiento (nm)		movement, removal		3887
+diagnóstico (nm)		diagnosis		3825
+dicho (adj)		aforementioned, said (adj)		3644
+diputado (nm)		deputy, member		3749
+discípulo (nm)		disciple		3714
+disgusto (nm)		disgust, annoyance		3660
+disparo (nm)		shot, discharge		3932
+divorcio (nm)		divorce		3997
+duelo (nm)		grief, affliction		3751
+encargo (nm)		job, order, errand		3818
+enfoque (nm)		focus, approach		3999
+escritorio (nm)		desk, bureau		3539
+espectro (nm)		ghost, specter		3802
+esplendor (nm)		splendor		3992
+estadio (nm)		stadium		3970
+evento (nm)		event		3867
+expediente (nm)		dossier, proceedings		3791
+fallo (nm)		mistake, blunder, fault		3976
+flujo (nm)		flow, tide, discharge		3624
+freno (nm)		brake		3513
+fundador (nm)		founder		3577
+gallo (nm)		rooster		3872
+gobernador (nm)		governor		3907
+heredero (nm)		heir, heiress		3968
+himno (nm)		hymn, anthem		3881
+humano (nm)		human (nm)		3586
+insecto (nm)		insect		3542
+instituto (nm)		institute		3699
+insulto (nm)		insult		3622
+interlocutor (nm)		participant in a dialog		3657
+jugo (nm)		juice		3712
+lecho (nm)		bed		3732
+lema (nm)		motto, slogan		3838
+lobo (nm)		wolf		3898
+mantenimiento (nm)		maintenance, sustenance		3720
+manto (nm)		cloak		3904
+mate (nm)		mate (beverage)		3865
+molde (nm)		mold, cast, pattern		3800
+océano (nm)		ocean		3646
+oeste (nm)		West		3821
+optimismo (nm)		optimism		3864
+original (nm)		original (nm)		3581
+pañuelo (nm)		handkerchief, shawl		3900
+parentesco (nm)		kinship		3975
+parto (nm)		birth		3550
+pasto (nm)		grass, pasture		3870
+perfume (nm)		perfume		3843
+perjuicio (nm)		damage, loss		3994
+planteamiento (nm)		proposal, exposition		3626
+polo (nm)		pole, polo, polo shirt		3609
+preso (adj)		imprisoned, confined (adj)		3756
+préstamo (nm)		loan, borrowing		3694
+provecho (nm)		benefit, use		3617
+pulso (nm)		pulse, pulsation		3762
+puño (nm)		fist, handle, cuff		3563
+ratón (nm)		mouse, rat		3856
+realismo (nm)		realism		3780
+recorte (nm)		clipping, cutting, trimming		3804
+reglamento (nm)		regulations, rules		3805
+relieve; poner de relieve (nm)		relief (scupture or Earth surface); to emphasize		3521
+rendimiento (nm)		yield, output, efficiency		3874
+reposo (nm)		rest, peace		3769
+residuo (nm)		residue, waste		3934
+retraso (nm)		delay		3886
+ridículo (nm)		ridicule (nm)		3543
+ritual (nm)		ritual, rite		3534
+sillón (nm)		armchair, seat		3604
+sindicato (nm)		trade union		3882
+sobrino (nm)		nephew		3593
+temblor (nm)		tremor, shudder, shiver		3902
+teniente (nm)		lieutenant, deputy mayor		3608
+tercio (nm)		third (one-third)		3988
+titular (nm)		headline, holder (nm)		3655
+tomate (nm)		tomato		3920
+trigo (nm)		wheat		3961
+umbral (nm)		threshold, outset		3639
+uniforme (adj)		uniform (adj)		3880
+vocabulario (nm)		vocabulary		3927
+administrador (nm/f)		administrator, manager		3527
+embajador (nm/f)		ambassador		3987
+físico (nm/f)		physicist (nm/f)		3868
+pescador (nm/f)		fisherman		3824
+coma (nmf)		comma (f), coma (m)		3739
+abusar (v)		to abuse		3658
+acarrear (v)		to carry, result in, entail		3631
+acontecer (v)		to happen, come about		3831
+agradar (v)		to please		3619
+aguardar (v)		to wait for, await		3598
+albergar (v)		to lodge, harbor		3822
+alegar (v)		to plead, argue		3836
+almorzar (v)		to have lunch		3820
+alquilar (v)		to rent, hire [also arrendar]		3761
+alumbrar (v)		to light, illuminate		3985
+amanecer (v)		to dawn, get light (v)		3591
+apelar (v)		to call upon, appeal to		3790
+apostar (v)		to wager, bet		3635
+arrepentir (v)		to repent, regret		3528
+asaltar (v)		to assault		3517
+asombrar (v)		to amaze, astound		3565
+atrapar (v)		to trap, catch		3589
+besar (v)		to kiss		3696
+charlar (v)		to chat, talk		3671
+clasificar (v)		to classify, sort, file		3642
+complacer (v)		to please, satisfy		3823
+complementar (v)		to complement, supplement		3659
+conmover (v)		to move, affect		3664
+consentir (v)		to consent to, pamper		3960
+consolar (v)		to console		3705
+consumar (v)		to complete, carry out, consummate		3516
+contrastar (v)		to contrast		3734
+coser (v)		to sew		3799
+cuestionar (v)		to question		3888
+dañar (v)		to damage		3558
+derribar (v)		to knock down, to demolish		3772
+derrumbar (v)		to knock down, demolish		3544
+desbordar (v)		to overflow, spill over		3834
+descomponer (v)		to decompose, break down		3706
+desechar (v)		to throw out		3855
+desencadenar (v)		to unleash, unchain		3933
+desenvolver (v)		to unwrap		3740
+deslizar (v)		to slide, glide, slip		3651
+destrozar (v)		to rip/break into pieces		3945
+disipar (v)		to dispel, dissipate		3963
+dotar (v)		to endow, bestow		3998
+embarcar (v)		to embark, load		3597
+emigrar (v)		to emigrate		3850
+encarar (v)		to front, confront		3839
+encarnar (v)		to embody		3918
+enfocar (v)		to focus		3707
+enfriar (v)		to cool		3938
+entusiasmar (v)		to fill with enthusiasm, excite		3793
+equivaler (v)		to be equivalent, tantamount to		3675
+estirar (v)		to stretch, strain		3652
+estrechar (v)		to tighten, make closer		3501
+estrenar (v)		to use for the first time, debut		3869
+explorar (v)		to explore		3595
+extinguir (v)		to extinguish, put out		3616
+felicitar (v)		to congratulate		3532
+filtrar (v)		to seep, filter		3781
+florecer (v)		to flower, bloom, flourish		3628
+fomentar (v)		to foster, promote, encourage		3676
+fundir (v)		to melt, cast, smelt		3893
+honrar (v)		to honor		3931
+ilustrar (v)		to illustrate		3941
+incitar (v)		to incite		3877
+incrementar (v)		to increase [also aumentar]		3964
+inscribir (v)		to register, record [also registrar]		3993
+intercambiar (v)		to exchange		3704
+interrogar (v)		to question, interrogate		3746
+madurar (v)		to mature, ripen		3819
+meditar (v)		to meditate, ponder		3901
+mojar (v)		to make wet, dampen		3766
+morder (v)		to bite		3588
+movilizar (v)		to mobilize		3787
+mudar (v)		to move, change		3688
+narrar (v)		to narrate, tell		3623
+negociar (v)		to negotiate, deal with		3921
+ofender (v)		to offend		3936
+oscilar (v)		oscillate		3578
+paralizar (v)		to paralyze		3962
+parir (v)		to give birth		3602
+pecar (v)		to sin		3828
+predicar (v)		to preach		3917
+prescindir (v)		to do without		3692
+presenciar (v)		to be present at, witness		3538
+profundizar (v)		to deepen, analyze in depth		3634
+propiciar (v)		to favor, foster, aid		3884
+radicar (v)		to lie, be situated		3763
+ratificar (v)		to ratify		3942
+reanudar (v)		to renew, resume		3686
+recitar (v)		to recite		3594
+recobrar (v)		to recover, regain		3580
+recortar (v)		to trim, cut off, clip		3643
+refugiar (v)		to take shelter, give refuge		3603
+remover (v)		to remove, stir		3827
+reprimir (v)		to repress		3895
+reprochar (v)		to reproach		3982
+resaltar (v)		to emphasize		3701
+retornar (v)		to return, give back [also devolver]		3754
+revivir (v)		to revive		3662
+revolver (v)		to stir, to make upset, to rummage through		3752
+sentir (nm)		feeling (nm)		3690
+simular (v)		to pretend, simulate		3947
+sobrepasar (v)		excel, out perform		3620
+sobresalir (v)		to stand out, excel		3779
+subsistir (v)		to subsist, survive		3748
+traicionar (v)		to betray		3713
+tranquilizar (v)		to calm down		3848
+traspasar (v)		to go beyond, cross over		3502
+vaciar (v)		to empty, pour out		3584
+verificar (v)		to verify		3610
+acertado (adj)		correct, accurate		4040
+adicional (adj)		additional		4124
+ágil (adj)		agile		4119
+agitado (adj)		agitated, irritated		4045
+agrario (adj)		agrarian, agricultural		4499
+alternativo (adj)		alternating, alternative		4180
+ambulante (adj)		traveling		4440
+amenazado (adj)		threatened		4350
+amistoso (adj)		friendly		4462
+apagado (adj)		turned off		4405
+arbitrario (adj)		arbitrary, high-handed		4015
+ardiente (adj)		passionate, ardent		4446
+atrapado (adj)		trapped		4234
+atrasado (adj)		behind, slow		4120
+audaz (adj)		audacious, bold		4107
+brasileño (adj)		Brazilian		4391
+cariñoso (adj)		affectionate		4033
+catalán (adj)		Catalan		4097
+celeste (adj)		heavenly, sky-blue		4026
+celoso (adj)		jealous		4211
+clandestino (adj)		undercover, clandestine		4269
+coherente (adj)		coherent, connected		4166
+compacto (adj)		compact, dense		4162
+comprensible (adj)		understandable		4048
+comunitario (adj)		of the community		4416
+condicionado (adj)		conditioned		4126
+constitucional (adj)		constitutional		4213
+convincente (adj)		convincing (adj)		4030
+criminal (nc)		criminal (nc)		4061
+cuidadoso (adj)		careful, cautious		4049
+defensivo (adj)		defensive		4270
+descalzo (adj)		barefoot		4384
+deseable (adj)		desirable		4313
+desordenado (adj)		messy, confused		4335
+destruido (adj)		destroyed		4487
+detallado (adj)		detailed, thorough		4228
+dichoso (adj)		fortunate, happy		4497
+diminuto (adj)		diminutive, tiny, minute		4025
+dinámico (adj)		dynamic		4064
+disfrazado (adj)		disguised		4115
+efímero (adj)		ephemeral, short-lived		4371
+enterado (adj)		aware of		4175
+enterrado (adj)		buried		4208
+entusiasmado (adj)		enthused, excited		4243
+equivalente (adj)		equivalent (adj)		4308
+erótico (adj)		erotic		4349
+espacial (adj)		spatial, space		4424
+estatal (adj)		state, government-owned		4189
+estéril (adj)		sterile, barren		4195
+estratégico (adj)		strategic		4171
+ético (adj)		ethical		4173
+experimental (adj)		experimental		4360
+explícito (adj)		explicit		4417
+expresivo (adj)		expressive		4181
+expreso (adj)		express, explicit		4345
+fiscal (adj)		fiscal, treasury (adj)		4423
+fotográfico (adj)		photographic		4333
+genético (adj)		genetic		4156
+gigante (adj)		gigantic (adj)		4264
+gráfico (adj)		graphic, explicit		4336
+grandioso (adj)		magnificent, grandiose		4491
+grosero (adj)		crude, rude, crass		4096
+guapo (adj)		handsome, beautiful		4140
+holandés (adj)		Dutch		4206
+honrado (adj)		honest, respectable		4428
+hundido (adj)		buried, sunken		4055
+imperial (adj)		imperial, imperialist		4357
+imprevisto (adj)		unforeseen, unexpected		4436
+incipiente (adj)		incipient, beginning		4178
+incomprensible (adj)		incomprehensible		4134
+indefinido (adj)		vague, indefinite		4471
+indiscutible (adj)		indisputable, unquestionable		4452
+indudable (adj)		unquestionable		4002
+inexplicable (adj)		unexplainable		4358
+infeliz (adj)		unhappy, unfortunate		4161
+inmerso (adj)		engrossed, immersed		4144
+inminente (adj)		imminent		4351
+inmóvil (adj)		immovable, motionless		4093
+inolvidable (adj)		unforgettable		4251
+inquietante (adj)		disquieting		4478
+invertido (adj)		reversed, inverted		4374
+irracional (adj)		irrational		4053
+justificado (adj)		justifiable, justified		4331
+latente (adj)		latent		4201
+lateral (adj)		side, lateral		4007
+liviano (adj)		light, frivolous		4242
+llamativo (adj)		striking		4322
+maldito (adj)		damned, wretched		4088
+matrimonial (adj)		matrimonial		4307
+medieval (adj)		medieval		4426
+mediocre (adj)		mediocre		4042
+minucioso (adj)		meticulous, thorough		4394
+mixto (adj)		mixed, co-ed		4277
+mojado (adj)		wet		4383
+monótono (adj)		monotonous		4433
+necesitado (adj)		poor, needy		4470
+opaco (adj)		dull, opaque, heavy		4362
+óptimo (adj)		optimum		4129
+orientado (adj)		positioned, guided		4385
+paralizado (adj)		paralyzed		4473
+pasivo (adj)		passive		4317
+penal (adj)		penal		4285
+periodístico (adj)		journalistic		4032
+perpetuo (adj)		continual, perpetual		4192
+perteneciente (adj)		pertaining, belonging		4467
+peruano (adj)		Peruvian		4359
+perverso (adj)		perverse, wicked		4444
+pintoresco (adj)		picturesque		4293
+potencial (adj)		potential		4439
+precario (adj)		precarious		4046
+presidencial (adj)		presidential		4388
+primordial (adj)		fundamental, primary		4152
+proveniente (adj)]		coming from [also procedente		4151
+publicitario (adj)		advertising		4297
+refinado (adj)		refined		4071
+reflejado (adj)		reflected		4224
+relevante (adj)		relevant, significant		4104
+republicano (adj)		republican		4486
+respetable (adj)		respectable		4021
+revuelto (adj)		confused, messed up		4338
+rosado (adj)		pink, rosy		4461
+ruidoso (adj)		noisy		4261
+rústico (adj)		rustic, rural		4395
+sanitario (adj)		health, sanitary, clean		4047
+semanal (adj)		weekly		4268
+sereno (adj)		serene, calm		4066
+silvestre (adj)		wild		4418
+solidario (adj)		united, jointly shared		4472
+sombrío (adj)		shady, dark, dismal		4455
+soviético (adj)		Soviet		4438
+súbito (adj)		sudden [also repentino]		4130
+suizo (adj)		Swiss		4500
+susceptible (adj)		susceptible		4250
+tenue (adj)		tenuous, flimsy		4450
+transitorio (adj)		transitory		4381
+veloz (adj)		fast, quick		4429
+visual (adj)		visual		4479
+adonde (adv)		to where		4275
+altamente (adv)		highly		4238
+ampliamente (adv)		widely		4263
+bruscamente (adv)		quickly, sharply		4406
+correctamente (adv)		correctly		4118
+decididamente (adv)		decidedly, decisively		4403
+específicamente (adv)		specifically		4492
+extremadamente (adv)		extremely		4494
+independientemente (adv)		independently		4135
+íntimamente (adv)		intimately		4083
+mutuamente (adv)		mutually, each other		4117
+radicalmente (adv)		radically		4464
+supuestamente (adv)		supposedly, allegedly		4262
+violentamente (adv)		violently		4425
+agradecido (adj)		grateful, thankful		4123
+retirado (adj)		retired, remote, secluded		4067
+adolescente (adj)		adolescent (adj)		4459
+cómplice (nc)		accomplice		4310
+criminal (adj)		criminal (adj)		4165
+delincuente (nc)		delinquent		4111
+gobernante (nc)		ruler, leader		4396
+interrogante (nc)		question, interrogator		4190
+noble (nc)		nobleman, noble (nc)		4463
+novelista (nc)		novelist		4468
+rebelde (nc)		rebel, insurgent (nc)		4400
+academia (nf)		academy		4039
+afueras (nf)		outskirts, suburbs		4225
+agitación (nf)		agitation, excitement		4153
+alerta (nf)		alert		4068
+amargura (nf)		bitterness, sorrow		4408
+apreciación (nf)		appreciation, assessment		4443
+aproximación (nf)		approximation		4241
+apuesta (nf)		wager, bet		4320
+autorización (nf)		authorization		4106
+bandeja (nf)		tray		4240
+barbaridad (nf)		atrocity		4013
+biografía (nf)		biography		4200
+bruja (nf)		witch, hag		4305
+burla (nf)		mockery, joke, trick		4169
+cadera (nf)		hip		4279
+calificación (nf)		evaluation, qualification		4295
+camiseta (nf)		T-shirt		4427
+cancha (nf)		playing field, court		4485
+carcajada (nf)		hearty laughter, guffaw		4484
+cátedra (nf)		academic chair		4070
+catedral (nf)		cathedral		4041
+ceja (nf)		eyebrow, brow		4227
+chaqueta (nf)		jacket		4372
+chimenea (nf)		chimney, fireplace		4415
+cima (nf)		summit, peak, top		4291
+clasificación (nf)		classification		4233
+colina (nf)		hill, slope		4003
+compensación (nf)		compensation		4342
+computadora (nf)		computer		4253
+consigna (nf)		watchword, motto, slogan		4091
+constitución (nf)		constitution		4231
+contienda (nf)		contest, dispute		4356
+contribución (nf)		contribution (nf)		4168
+cordillera (nf)		mountain range		4432
+cortesía (nf)		courtesy		4092
+corteza (nf)		bark, crust, rind, peel		4430
+cría (nf)		breeding, raising		4282
+densidad (nf)		density, thickness		4318
+dinámica (nf)		dynamics		4365
+elegancia (nf)		elegance, style		4060
+embajada (nf)		embassy		4404
+encuesta (nf)		poll, survey, inquiry		4281
+era (nf)		era, age		4076
+escultura (nf)		sculpture, carving		4125
+estatura (nf)		stature, height		4098
+estupidez (nf)		stupidity, stupid thing [also tontería]		4382
+eternidad (nf)		eternity		4352
+exageración (nf)		exaggeration		4442
+exploración (nf)		exploration		4306
+exportación (nf)		export, exportation		4493
+faena (nf)		task, job, performance		4147
+falla (nf)		flaw, failure		4167
+farmacia (nf)		pharmacy, drugstore		4290
+fatiga (nf)		fatigue		4303
+finca (nf)		property, estate		4294
+firmeza (nf)		firmness		4001
+fracción (nf)		fraction		4216
+fundación (nf)		foundation		4058
+furia (nf)		fury, rage		4095
+gala (nf)		gala (performance/dinner)		4075
+ganancia (nf)		gain, profit		4155
+grabación (nf)		recording		4476
+humillación (nf)		humiliation		4456
+ida (nf)		departure, first half of a trip		4164
+ilustración (nf)		illustration		4309
+imitación (nf)		imitation		4209
+imposibilidad (nf)		impossibility		4052
+imposición (nf)		imposition		4028
+imprenta (nf)		printing house		4453
+incorporación (nf)		inclusion, incorporation		4301
+indicación (nf)		indication		4084
+indignación (nf)		indignation		4122
+infinidad (nf)		infinity, countless		4127
+innovación (nf)		innovation		4482
+integración (nf)		integration		4174
+integridad (nf)		integrity		4105
+jaula (nf)		cage, crate, playpen		4005
+leña (nf)		firewood		4185
+llanura (nf)		plain, prairie, plainness		4196
+longitud (nf)		length, longitude		4434
+maleta (nf)		suitcase, case		4146
+manta (nf)		blanket		4063
+marea (nf)		wave, tide, ebb		4109
+melodía (nf)		melody		4311
+merced (nf)		favor, mercy		4397
+mierda (nf)		shit, crap, excrement		4355
+minoría (nf)		minority		4137
+nacionalidad (nf)		nationality		4321
+narración (nf)		narration, account		4283
+niebla (nf)		fog		4274
+niñez (nf)		childhood, infancy		4184
+normalidad (nf)		normality		4367
+parcela (nf)		piece of property		4004
+parroquia (nf)		parish		4260
+pastilla (nf)		pill, capsule		4354
+patada (nf)		kick, punt		4078
+percepción (nf)		perception		4136
+perla (nf)		pearl		4172
+piedad (nf)		pity, mercy		4267
+plancha (nf)		electric iron, plate, sheet		4073
+presidencia (nf)		presidency		4087
+princesa (nf)		princess		4402
+probabilidad (nf)		probability		4393
+procesión (nf)		procession		4280
+prohibición (nf)		prohibition		4343
+psicología (nf)		psychology		4437
+rebelión (nf)		rebellion		4202
+reconstrucción (nf)		reconstruction		4259
+resonancia (nf)		resonance, repercussion		4369
+sanción (nf)		sanction, approval, penalty		4141
+sede (nf)		headquarters, seat		4236
+sencillez (nf)		simplicity		4380
+sequía (nf)		drought		4364
+serpiente (nf)		snake		4150
+siesta (nf)		siesta, afternoon nap		4176
+sinceridad (nf)		sincerity		4069
+superioridad (nf)		superiority		4011
+talla (nf)		size (of clothing), stature		4330
+terraza (nf)		terrace, balcony		4074
+tertulia (nf)		get-together, meeting of friends		4483
+tira (nf)		strip, strap		4102
+tonelada (nf)		ton		4399
+transmisión (nf)		broadcast, transmission		4034
+transparencia (nf)		transparency, slide		4059
+validez (nf)		validity		4410
+vanguardia (nf)		vanguard, forefront		4043
+vejez (nf)		old age		4099
+verdura (nf)		vegetables, greenery		4480
+violación (nf)		violation, rape		4481
+virgen (adj)		virgin (adj)		4304
+abanico (nm)		range, handheld fan		4422
+aburrimiento (nm)		boredom		4488
+acercamiento (nm)		approach, approximation		4334
+acierto (nm)		good aim, guess, hit		4248
+adelanto (nm)		advance, progress [also avance]		4210
+aislamiento (nm)		isolation		4017
+ajuste (nm)		adjustment, settlement		4006
+alambre (nm)		wire		4255
+aliado (nm)		ally		4086
+alivio (nm)		relief, unburdening		4018
+altar (nm)		altar		4247
+amparo (nm)		protection, shelter		4289
+anhelo (nm)		longing, yearning		4401
+apetito (nm)		appetite		4082
+arranque (nm)		start, outburst, kick-start		4077
+arroyo (nm)		brook, stream, gutter		4218
+asco (nm)		disgust		4375
+atardecer (nm)		evening, dusk		4186
+atributo (nm)		attribute, quality		4094
+bastón (nm)		walking cane		4454
+bigote (nm)		mustache		4182
+a bordo (nm)		on board		4341
+catálogo (nm)		catalog		4287
+caudal (nm)		volume, abundance, fortune		4296
+chorro (nm)		stream, jet, spurt		4361
+clavo (nm)		nail, tack, peg		4363
+codo (nm)		elbow		4412
+colchón (nm)		mattress		4449
+collar (nm)		collar, necklace		4197
+comisario (nm)		commissioner, delegate		4332
+compás (nm)		rhythm, time, compass		4194
+comprador (nm)		buyer		4266
+conejo (nm)		rabbit		4316
+conocedor (nm)		expert, judge, connoisseur		4245
+consuelo (nm)		comfort, consolation		4031
+contorno (nm)		outline, perimeter, edge		4339
+convento (nm)		convent, monastery		4217
+corral (nm)		corral, yard		4302
+cuerno (nm)		horn, antler		4326
+desacuerdo (nm)		disagreement		4038
+deterioro (nm)		deterioration, damage		4138
+diccionario (nm)		dictionary		4223
+disparate (nm)		nonsense, blunder		4022
+egoísmo (nm)		selfishness		4340
+elogio (nm)		praise, eulogy, compliment		4062
+embarazo (nm)		pregnancy		4051
+emisor (nm)		transmitter, emitter		4103
+enlace (nm)		link, connection, bond		4220
+entierro (nm)		burial		4008
+entrenamiento (nm)		training		4019
+esqueleto (nm)		skeleton, framework		4121
+estallido (nm)		crash, outbreak, explosion		4445
+frasco (nm)		bottle, jar, flask		4477
+grueso (nm)		bulk, mass (nm)		4474
+herido (nm)		wounded (person) (nm)		4469
+hígado (nm)		liver		4203
+intervalo (nm)		interval, gap		4214
+jovencito (nm)		young person		4300
+laberinto (nm)		maze, labyrinth		4348
+lapso (nm)		lapse		4080
+lío (nm)		mess, problem, bad situation		4235
+litro (nm)		liter		4239
+llanto (nm)		crying, weeping		4163
+mango (nm)		handle, mango		4256
+manual (adj)		manual (adj)		4271
+mármol (nm)		marble		4199
+mozo (nm)		waiter, youth, bellboy		4324
+ocio (nm)		leisure time		4366
+pilar (nm)		pillar, column		4128
+pino (nm)		pine tree		4157
+pleito (nm)		litigation, suit, dispute		4378
+productor (nm)		producer		4312
+protector (nm)		protector, defender		4288
+ramo (nm)		bunch of flowers, branch		4284
+reclamo (nm)		claim, complaint, protest		4465
+rencor (nm)		grudge, spite		4387
+repertorio (nm)		repertoire, list, index		4072
+reportaje (nm)		news report		4056
+resentimiento (nm)		resentment		4110
+riñón (nm)		kidney		4292
+rollo (nm)		roll, coil		4014
+rosario (nm)		rosary, beads, string		4258
+seguidor (nm)		follower, supporter, fan		4170
+seminario (nm)		seminar, seminary		4108
+sendero (nm)		foot path		4036
+sudor (nm)		sweat, perspiration		4081
+tablero (nm)		board, panel		4207
+tacto (nm)		sense of touch, feel		4411
+talón (nm)		heel, check, coupon, stub		4447
+tambor (nm)		drum		4057
+terremoto (nm)		earthquake		4100
+tinte (nm)		tint, dye		4451
+trago (nm)		drink, [a] swallow		4215
+traidor (nm)		traitor		4286
+trance (nm)		trance, fix, enrapture		4457
+trapo (nm)		rag, cloth		4244
+trastorno (nm)		confusion, trouble, upheaval		4298
+triángulo (nm)		triangle		4016
+truco (nm)		trick, ruse		4020
+turismo (nm)		tourism		4012
+veneno (nm)		poison, venom		4198
+verbo (nm)		verb		4278
+volante (nm)		steering wheel		4458
+asesor (nm/f)		adviser, consultant		4466
+cocinero (nm/f)		cook		4023
+consejero (nm/f)		advisor, counselor		4089
+fotógrafo (nm/f)		photographer		4027
+piloto (nm/f)		pilot, driver		4249
+portero (nm/f)		porter, doorkeeper, goalkeeper		4315
+senador (nm/f)		senator		4386
+servidor (nm/f)		servant		4010
+trabajador (adj)		hardworking (adj)		4489
+lente (nmf)		lens, [pl] glasses		4193
+vosotros (pron)		you (subj plural familiar)		4132
+aburrir (v)		to bore, tire		4024
+acariciar (v)		to stroke, fondle, caress		4398
+adornar (v)		to adorn, to decorate		4179
+aferrar (v)		to grasp, clutch		4373
+agravar (v)		to aggravate, worsen		4226
+agrupar (v)		to put in a group		4441
+aparentar (v)		to give the appearance		4205
+apresurar(se) (v) [also apurar]		to hurry up		4377
+apurarse (v) [also apresurarse]		to hurry (LAm)		4389
+argumentar (v)		to argue, deduce		4139
+arrasar (v)		to raze, ravage		4158
+articular (v)		to articulate		4101
+atener (v)		to abide by, comply with		4448
+calzar (v)		to wear shoes		4414
+capturar (v)		to capture		4325
+ceñir (v)		to adhere to, fit tightly, encircle		4299
+chupar (v)		to suck		4475
+circular (adj)		circular (adj)		4219
+colar (v)		to slip in [se]		4237
+concurrir (v)		to coincide, concur, meet		4183
+condicionar (v)		to condition, determine		4498
+configurar (v)		to form, configure 		4257
+consagrar (v)		to consecrate, establish		4276
+consolidar (v)		to consolidate		4376
+constatar (v)		to prove, verify		4314
+contagiar (v)		to infect, infest		4273
+contradecir (v)		to contradict, be inconsistent		4143
+coronar (v)		to crown, top		4346
+debilitar (v)		to weaken, debilitate		4112
+derramar (v)		to shed, pour out		4222
+desafiar (v)		to defy, stand up to		4044
+desfilar (v)		to march, parade		4329
+despojar (v)		to deprive, rob		4050
+devorar (v)		to devour, consume		4370
+diluir (v)		to dilute, weaken		4029
+disculpar (v)		to excuse		4079
+dispersar (v)		to disperse, scatter, spread		4319
+editar (v)		to edit, publish, release		4421
+emocionar (v)		to move, make/get excited		4420
+encabezar (v)		to head, lead off		4460
+encaminar (v)		to head for, guide		4246
+engendrar (v)		to engender, beget		4272
+enlazar (v)		to link, connect		4232
+entrevistar (v)		to interview		4160
+espantar (v)		to scare, frighten		4435
+evaluar (v)		to evaluate, assess		4419
+evocar (v)		to evoke, recall		4149
+expandir (v)		to expand		4495
+fiar (v)		to vouch for, confide, trust		4328
+fingir (v)		to feign, pretend		4113
+fortalecer (v)		to fortify		4409
+frecuentar (v)		to frequent, visit		4037
+hervir (v)		to boil		4065
+igualar (v)		to equate, equalize		4114
+inquietar (v)		to make uneasy, disturb		4490
+insultar (v)		to insult, berate		4390
+interponer (v)		to interpose, intervene		4229
+intuir (v)		to sense		4368
+inundar (v)		to flood, inundate		4090
+invocar (v)		to invoke		4252
+latir (v)		to beat (heart)		4379
+liquidar (v)		to liquidate, sell off		4347
+manipular (v)		to manipulate, handle		4145
+obrar (v)		to work, act		4344
+oscurecer (v)		to get dark		4212
+ostentar (v)		to flaunt, show off		4254
+palpar (v)		to feel, touch, fondle		4191
+perdurar (v)		to last, live on, endure		4085
+poblar (v)		to populate, inhabit		4142
+predecir (v)		to predict		4496
+prevalecer (v)		to prevail		4265
+prosperar (v)		to prosper, thrive		4154
+reaparecer (v)		to reappear		4337
+rebajar (v)		to lower, reduce, discount		4159
+regar (v)		to water, irrigate		4148
+regular (v)		to regulate, adjust (v)		4131
+reinar (v)		to reign, prevail		4054
+rematar (v)		to finish off, finish up		4133
+remediar (v)		to heal, cure		4327
+repasar (v)		to review, revise		4353
+replicar (v)		to reply		4177
+restaurar (v)		to restore, reinstate		4187
+retrasar (v)		to delay, fall behind		4188
+reventar (v)		to burst, puncture		4009
+sumergir (v)		to submerge, plunge		4431
+sustentar (v)		to maintain, support		4392
+titular (v)		to title, call (v)		4035
+topar (v)		to run into, bump into		4230
+torcer (v)		to twist, bend, distort		4221
+trepar (v)		to climb		4116
+vacilar (v)		to vacillate, hesitate		4323
+vibrar (v)		to vibrate, tremble		4413
+vincular (v)		to connect, link, bind		4407
+abierto (adj)		open, unlocked		439
+alto (adj)		tall, high		185
+ambos (adj)		both		488
+anterior (adj)		previous, preceding		370
+antiguo (adj)		old, ancient, former		348
+aquel (adj)		that (over there)		107
+bajo (prep)		under, underneath (prep)		214
+blanco (adj)		white		250
+bueno (adj)		good (adj)		115
+cada (adj)		each, every		96
+capaz (adj)		capable, able		411
+cierto (adj)		certain, sure, true		123
+claro (adj)		clear (adj)		259
+completo (adj)		complete		458
+común (adj)		common		438
+contrario (adj)		contrary, opposite		460
+en cuanto a cuanto (adj)		in terms of, regarding		213
+cuyo (adj)		whose		264
+demás (adj)		the rest, others		312
+demasiado (adj)		too much, too many		335
+derecho (nm)		right, justice, law (nm)		427
+diferente (adj)		different, separate		365
+difícil (adj)		difficult, hard		314
+distinto (adj)		distinct, different		254
+económico (adj)		economic		426
+enorme (adj)		enormous, vast		471
+ese, esa (adj)		that		32
+español (adj)		Spanish		285
+especial (adj)		special		364
+este, esta (adj)		this (adj)		29
+al final final (nmf)		finally, in the end		307
+general (adj)		general (adj)		227
+grande (adj)		large, great, big		62
+humano (adj)		human (adj)		218
+igual (adj)		equal, same as		239
+importante (adj)		important		207
+joven (adj)		young (adj)		442
+junto (adv)		together with, next to (adv)		378
+largo (adj)		long (adj)		175
+libre (adj)		free, vacant		413
+malo (adj)		bad		275
+mayor (adj)		larger, older, main		138
+medio (nm)		means, middle (nm)		171
+mejor (adj)		best, better (adv)		121
+menor (adj)		younger, youngest		334
+menos (adj)		less, fewer		98
+mi (adj)		my		49
+mismo (adj)		same		51
+natural (adj)		natural		414
+necesario (adj)		necessary		322
+negro (adj)		black		317
+nuestro (adj)		our		82
+nuevo (adj)		new		99
+otro (adj)		other, another		31
+pasado (adj)		past, last (adj)		445
+pequeño (adj)		little, small, young		184
+pobre (adj)		poor		373
+poco (adj)		little, few, a little bit (adv)		74
+político (adj)		political (adj)		284
+posible (adj)		possible		225
+primero (adj)		first		60
+principal (adj)		main, principal		496
+profundo (adj)		deep, profound		489
+propio (adj)		own, proper, typical		140
+próximo (adj)		next		440
+público (adj)		public (adj)		465
+real (adj)		royal, real, authentic		462
+segundo (adj)		second (adj)		243
+siguiente (adj)		following, next		309
+social (adj)		social		280
+solo (adj)		lonely, alone (adj)		160
+su (adj)		his/her/their/your (formal)		14
+tal (adj)		such a		120
+tanto (adj)		so much, so many		79
+tercero (adj)		third		394
+todo (adj)		all, every		22
+tu (adj)		your (singular familiar)		349
+último (adj)		last, final		139
+único (adj)		only, unique, sole		181
+varios (adj)		several, various		224
+verdadero (adj)		true, real		420
+viejo (adj)		old, aged		281
+vivo (adj)		alive, bright		453
+bastante (adj, adv)		rather, fairly, quite a bit		270
+mucho (adj, adv)		much, many, a lot		45
+alguno (adj, pron)		some, someone		50
+cualquier (adj, pron)		any, anyone		149
+ninguno (adj pron)		no, none, nobody		144
+además (adv)		also, as well, besides		159
+ahí (adv) [also allí]		there		189
+ahora (adv)		now		85
+allá (adv)		there, over there		324
+allí (adv)		there [also ahí]		167
+antes (adv)		before		114
+aquí (adv)		here		129
+así (adv)		like that		59
+atrás (adv)		behind		483
+aún (adv)		still, yet [also todavía]		282
+bien (adv) [also bueno]		well (adv)		73
+bueno (adv) [also bien]		well (adv)		337
+casi (adv)		almost, nearly		146
+cerca (adv)		close, near		391
+claro (adv)		of course, clearly (adv)		482
+como (conj)		like, as		16
+cuando (conj)		when (conj)		40
+dentro (adv) [also adentro]		inside		174
+después (adv)		after		87
+donde (conj)		where		84
+durante (adv)		during, for (time)		148
+encima (adv)		above, on top, in addition		436
+entonces (adv)		so, then		76
+fuera (adv)		out, outside, away		451
+hoy (adv)		today, nowadays		164
+incluso (adv)		including, even (adv)		294
+lejos (adv)		far away, far off		469
+luego (adv)		later, afterwards		132
+mal (adv)		badly (adv)		301
+mañana (nf)		morning, tomorrow (nf)		401
+muy (adv)		very, really		42
+no (adv)		no		10
+nunca (adv)		never, ever		151
+pronto (adv)		soon, quick		396
+quizás (adv)		perhaps, maybe		297
+realmente (adv)		really, actually, in fact		416
+si (conj)		if, whether		34
+siempre (adv)		always, forever		90
+solamente (adv)		only [also únicamente]		336
+solo (adv)		only, just (adv)		102
+también (adv)		also		53
+tampoco (adv)		neither, nor, either		279
+tan (adv)		such, as, too, so		83
+tarde (nf)		afternoon, evening (nf)		242
+todavía (adv)		still, yet [also aún]		211
+a través (adv)		across, over, through		347
+ya (adv)		already, still		36
+él (pron)		he, [ellos] them (m)		41
+lo (art)		the (neuter art)		20
+un (art)		a, an		7
+aunque (conj)		although, even though		117
+cómo (adv)		how?		126
+dónde (adv)		where?		421
+más (adj)		more		24
+mientras (conj)		while, whereas, as long as		154
+ni (conj)		not even, neither, nor		64
+o (conj)		or		26
+pero (conj)		but, yet, except		23
+porque (conj)		because		38
+pues (conj)		then, well then		103
+que (conj)		that, which		3
+sí (adv)		yes		70
+sino (conj)		but, except, rather		109
+y (conj)		and		4
+acción (nf)		action, act, deed		405
+actividad (nf)		activity, action		393
+atención (nf)		attention		441
+base (nf)		base, basis		498
+cabeza (nf)		head (part of body)		298
+calle (nf)		street		248
+cantidad (nf)		quantity, amount		404
+cara (nf)		face, expression		356
+carrera (nf)		career, course, race		485
+casa (nf)		house		116
+ciudad (nf)		city		197
+clase (nf)		kind, class, order		288
+condición (nf)		condition		341
+cosa (nf)		thing		78
+cuenta (nf)		bill, account		170
+cuestión (nf)		question, matter		398
+diferencia (nf)		difference		400
+duda (nf)		doubt		399
+edad (nf)		age		350
+época (nf)		time, age, period		358
+especie (nf)		kind, sort, species		388
+experiencia (nf)		experience		361
+falta (nf)		lack, shortage [also carencia]		344
+familia (nf)		family		201
+figura (nf)		figure		495
+forma (nf)		form, shape, way		113
+fuerza (nf)		strength, force, power		255
+gente (nf)		people		158
+gracia (nf)		thank you, grace, favor		272
+guerra (nf)		war, warfare		377
+historia (nf)		history, story		192
+hora (nf)		hour, time (specific)		143
+idea (nf)		idea		193
+imagen (nf)		image, picture		484
+importancia (nf)		importance		429
+ley (nf)		law, bill, rule		384
+libertad (nf)		freedom, liberty		435
+línea (nf)		line, course		473
+luz (nf)		light		256
+madre (nf)		mother		278
+manera (nf)		way, manner (nf)		152
+mano (nf)		hand		150
+medida (nf); a medida que		measure: to the extent		333
+mesa (nf)		table, board		461
+muerte (nf)		death		424
+mujer (nf)		woman, wife		127
+necesidad (nf)		necessity, need		340
+noche (nf)		night, evening		196
+obra (nf)		work, book, deed		206
+ocasión (nf)		opportunity, occasion		463
+palabra (nf)		word		176
+parte (nf)		part, portion		86
+persona (nf)		person		137
+posibilidad (nf)		possibility		367
+pregunta (nf)		question		481
+puerta (nf)		door		354
+razón (nf)		reason		212
+realidad (nf)		reality, actuality		202
+relación (nf)		relationship, relation		230
+respuesta (nf)		answer, reply		472
+semana (nf)		week		304
+situación (nf)		situation		268
+sociedad (nf)		society		408
+tierra (nf)		earth, land, ground		276
+verdad (nf)		truth		209
+vez (nf)		time (specific occurrence)		44
+vida (nf)		life		88
+vista (nf)		view, sight		310
+voz (nf)		voice		320
+zona (nf)		area, zone (nf)		449
+agua (nf el)		water		194
+acuerdo (nm); de acuerdo		accord: in agreement		313
+aire (nm)		air, wind, appearance		374
+amigo (nm)		friend		262
+amor (nm)		love		423
+animal (nm)		animal		497
+año (nm)		year		55
+aspecto (nm)		aspect, appearance		385
+cabo (nm)		end, bit		477
+cambio (nm)		change		186
+camino (nm)		road, route, path		319
+campo (nm)		field, country		295
+caso (nm)		case, occasion		130
+centro (nm)		center, middle, downtown		339
+color (nm)		color		359
+conocimiento (nm)		knowledge		434
+cuerpo (nm)		body		232
+deber (v)		should, ought to; to owe (v)		75
+día (nm)		day		71
+dinero (nm)		money		291
+dios (nm)		god, divinity		274
+don (nm)		courtesy title (m), Mr., gift		303
+efecto (nm)		effect		418
+ejemplo (nm)		example		162
+sin embargo embargo (nm)		nevertheless	sin embargo	180
+esfuerzo (nm)		effort, endeavor		444
+espacio (nm)		space, room		474
+estado (nm)		state, condition, status		351
+estudio (nm)		study, learning		321
+favor (nm)		favor, benefit		468
+fin (nm)		end		156
+fondo (nm)		background, back, bottom		318
+gobierno (nm)		government		476
+grupo (nm)		group		216
+hecho (nm)		fact, happening		235
+hijo (nm)		son, [pl] children		166
+hombre (nm)		man, mankind, husband		80
+interés (nm)		interest		308
+juego (nm)		game, play, sport		371
+lado (nm)		side		165
+ladrón (nm)		thief		449
+libro (nm)		book		253
+lugar (nm)		place, position		135
+medio (adj)		half, middle (adj)		208
+mes (nm)		month		210
+miedo (nm)		fear [also temor]		450
+minuto (nm)		minute		459
+modo (nm)		way, manner (nm)		198
+momento (nm)		moment, time		108
+movimiento (nm)		movement		362
+mundo (nm)		world		118
+niño (nm)		child, little boy		178
+nivel (nm)		level		475
+nombre (nm)		name, noun		199
+número (nm)		number		315
+objeto (nm)		object, thing		419
+ojo (nm)		eye		247
+padre (nm)		father		182
+país (nm)		country		133
+papel (nm)		paper, role, part		277
+parecer (v)		to seem, look like (v)		81
+partido (nm)		party, group, sports match		425
+paso (nm)		step, pace		267
+pesar (nm)		sorrow (nm)		366
+peso (nm)		peso (money), weight, load		417
+pie (nm)		foot, base		386
+poder (v)		to be able to, can (v)		27
+principio (nm)		beginning, principle		237
+problema (nm)		problem		169
+proceso (nm)		process, procedure		452
+programa (nm)		program, plan		467
+pueblo (nm)		people, village		241
+punto (nm)		point, dot, period		147
+respecto (nm); con respecto a		respect: with regards to		433
+resto (nm)		rest, remainder, leftover		447
+resultado (nm)		result, outcome		379
+saber (v)		to know (a fact), find out (v)		46
+santo (nm)		saint (m)		258
+señor (nm)		sir, Mr., lord		240
+sentido (nm)		sense, feeling		265
+sentir (v)		to feel, regret (v)		131
+ser (v)		to be (norm) (v)		8
+servicio (nm)		service, helpfulness		390
+siglo (nm)		century, age		273
+sistema (nm)		system		430
+suelo (nm)		ground, floor		432
+te (pron)		you (obj, familiar)		136
+tema (nm)		theme, subject, topic		283
+tiempo (nm)		time (general), weather		68
+tipo (nm)		type, kind		157
+trabajo (nm)		work, job, effort		145
+valor (nm)		value, worth (n)		326
+viaje (nm)		travel, trip		431
+al frente: frente a frente (nmf)		facing; across from		260
+orden (nmf)		order; sequence (m), religious (f)		302
+ciento (num)		hundred (num)		300
+cinco (num)		five		231
+cuatro (num)		four		188
+diez (num)		ten		346
+dos (num)		two		56
+mil (num)		thousand		217
+ocho (num)		eight		492
+seis (num)		six		375
+siete (num)		seven		470
+tres (num)		three		119
+uno (num)		one		72
+a (prep)		to, at		5
+ante (prep)		before, in the presence of		236
+bajo (adj)		short, low (adj)		412
+con (prep)		with		13
+contra (prep)		against, opposite		172
+de (prep) de		of, from		2
+desde (prep)		from, since		61
+en (prep)		in, on		6
+entre (prep)		between, among		58
+hacia (prep)		toward, towards		125
+hasta (prep)		until, up to, even (adv)		54
+para (prep)		for, to, in order to		15
+por (prep)		by, for, through		12
+según (prep)		according to		257
+sin (prep)		without		43
+sobre (prep)		on top of, over, about		48
+algo (pron)		something, somewhat		101
+alguien (pron)		somebody, someone, anyone		480
+cual (pron)		which, who, whom		153
+cuál (pron)		which?		395
+el, la (art)		the		1
+ella, ellas (pron)		she, them (f)		69
+ello (pron)		it (subj-n)		343
+eso (pron)		that (pron)		63
+éste, ésta (pron)		this one		168
+esto (pron)		this (pron)		110
+la (pron)		3rd person dir obj-f		33
+le (pron)		3rd person indir obj		19
+lo (pron)		3rd person dir obj-m		21
+me (pron) [also mí]		me (pron)		35
+mí (pron) [also me]		me (pron)		357
+nada (pron)		nothing, not at all		95
+nadie (pron)		nobody, anybody		233
+nos (pron)		us		65
+nosotros (pron)		we		191
+qué (adj)		what?, which?, how (adj)!		47
+quien (pron)		who, whom		141
+quién (pron)		who?, whom?		292
+se (pron)		oneself, self		9
+usted (pron)		you (subj formal)		269
+yo (pron)		I (pron)		52
+abrir (v)		to open		252
+acabar (v)		to have just		266
+aceptar (v)		to accept		296
+acercar (v)		to come near		410
+alcanzar (v)		to reach, catch up with		329
+aparecer (v)		to appear		221
+aprender (v)		to learn		422
+ayudar (v)		to help		345
+buscar (v)		to look for		173
+caer (v)		to fall		245
+cambiar (v)		to change		246
+cerrar (v)		to close		454
+comenzar (v)		to begin, start [also empezar]		223
+comer (v)		to eat		389
+comprar (v)		to buy		437
+comprender (v)		to understand [also entender]		306
+conocer (v)		to know (someone or place)		124
+conseguir (v)		to get, acheive		222
+considerar (v)		to consider		261
+contar (v)		to tell, count		155
+continuar (v)		to continue		403
+convertir (v)		to convert, change, become		271
+correr (v)		to run		332
+crear (v)		to create		251
+creer (v)		to believe, think		91
+cumplir (v)		to fulfill		363
+dar (v)		to give		39
+decidir (v)		to decide		381
+decir (v)		to tell, say		28
+dedicar (v)		to dedicate, devote		415
+dejar (v)		to let, leave		94
+desarrollar (v)		to develop		491
+descubrir (v)		to discover		369
+detener (v)		to stop, detain		490
+dirigir (v)		to direct, manage		331
+echar (v)		to throw		455
+elegir (v)		to choose, elect		494
+empezar (v)		to begin, start [also comenzar]		161
+encontrar (v)		to find		100
+entender (v)		to understand [also comprender]		203
+entrar (v)		to enter		179
+escribir (v)		to write		187
+escuchar (v)		to listen to		360
+esperar (v)		to wait, hope for, expect		163
+estar (v)		to be (location, change from norm)		17
+estudiar (v)		to study		328
+evitar (v)		to avoid, prevent [also prevenir]		446
+existir (v)		to exist		177
+explicar (v)		to explain		316
+fijar (v)		to set, fix, [se] notice		407
+formar (v)		to form		287
+ganar (v)		to win, earn		286
+gustar (v)		to be pleasing to		353
+haber (v)		to have (aux v)		11
+hablar (v)		to speak, talk		92
+hacer (v)		to do, to make		25
+imaginar (v)		to imagine		486
+importar (v)		to matter, import		464
+indicar (v)		to indicate		479
+intentar (v)		to try, attempt		376
+interesar (v)		to interest		448
+ir (v)		to go		30
+jugar (v)		to play (sport/game)		355
+leer (v)		to read		244
+levantar (v)		to raise, lift		372
+llamar (v)		to call, name [also denominar]		104
+llegar (v)		to arrive		66
+llevar (v)		to take, carry		93
+lograr (v)		to get, to manage to (do something)		311
+mantener (v)		to keep, maintain		234
+mirar (v)		to look, watch		142
+morir (v)		to die		293
+mostrar (v)		to show		392
+mover (v)		to move, incite		402
+nacer (v)		to be born		330
+necesitar (v)		to need		229
+observar (v)		to observe, to notice		478
+obtener (v)		to obtain		466
+ocupar (v)		to occupy, use		397
+ocurrir (v)		to happen, occur		200
+ofrecer (v)		to offer, present		368
+oír (v)		to hear		263
+olvidar (v)		to forget		383
+pagar (v)		to pay		342
+partir (v)		to leave, split		290
+pasar (v)		to pass, spend time		67
+pedir (v)		to ask for, request		204
+pensar (v)		to think		106
+perder (v)		to lose, miss		190
+permitir (v)		to allow, permit		220
+poder (nm)		power (nm)		428
+poner (v)		to put on		77
+preguntar (v)		to ask a question		323
+preparar (v)		to prepare		499
+presentar (v)		to introduce, present		249
+producir (v)		to produce, cause		195
+proponer (v)		to propose		500
+quedar (v)		to remain, stay		89
+querer (v)		to want, love		57
+realizar (v)		to fulfill, carry out		299
+recibir (v)		to receive		205
+reconocer (v)		to recognize, admit		327
+recordar (v) [also acordar]		to remember, remind		215
+referir (v)		to refer to, tell		409
+repetir (v)		to repeat		382
+responder (v)		to answer, respond		456
+resultar (v)		to result, turn out		238
+sacar (v)		to take out		228
+salir (v)		to leave [also partir]		111
+seguir (v)		to follow, to go on		97
+señalar (v)		to point out, signal		493
+ser (nm)		being (nm)		352
+servir (v)		to serve		226
+soler (v)		to be accustomed to [also acostumbrar]		487
+subir (v)		to go up		443
+suceder (v)		to happen		406
+sufrir (v)		to suffer, undergo		457
+suponer (v)		to suppose, assume		305
+tener (v)		to have		18
+terminar (v)		to finish, end		219
+tocar (v)		to touch, play an instrument		325
+tomar (v)		to take, drink		122
+trabajar (v)		to work		183
+traer (v)		to bring, carry		289
+tratar (v)		to try, treat, deal with		134
+usar (v)		to use		380
+utilizar (v)		to use, utilize		338
+valer (v)		to be worth, cost		387
+venir (v)		to come		105
+ver (v)		to see		37
+vivir (v)		to live		128
+volver (v)		to turn, to turn over, to return to a place		112
+accesible (adj)		accessible		4992
+acelerado (adj)		accelerated, quick		4633
+acomodado (adj)		well-to-do, suitable		4768
+afín (adj)		related, similar		4726
+afortunado (adj)		fortunate		4739
+alarmante (adj)		alarming		4565
+andaluz (adj)		Andalusian		4591
+angustiado (adj)		anguished, distressed		4668
+angustioso (adj)		distressing		4699
+aplastado (adj)		crushed, flattened		4976
+árido (adj)		arid, dry		4634
+asombrado (adj)		amazed, bewildered		4541
+atroz (adj)		atrocious		4599
+bancario (adj)		bank, banking		4735
+bélico (adj)		warlike		4955
+bendito (adj)		blessed		4560
+bíblico (adj)		biblical		4625
+callejero (adj)		of the street		4889
+caprichoso (adj)		capricious, whimsical		4635
+carente (adj)		lacking, devoid		4907
+cerebral (adj)		cerebral		4860
+clínico (adj)		clinical		4887
+colombiano (adj)		Colombian		4695
+colorado (adj)		red, colored		4614
+combinado (adj)		combined		4956
+comprensivo (adj)		understanding (adj)		4713
+confundido (adj)		confused		4943
+congelado (adj)		frozen		4518
+constructivo (adj)		constructive		4985
+contundente (adj)		decisive, blunt, forceful		4901
+cordial (adj)		cordial, friendly		4666
+corporal (adj)		of the body, corporal		4672
+crónico (adj)		chronic		4622
+decente (adj)		respectable, decent		4517
+desconcertado (adj)		disoriented, disconcerted		4808
+eclesiástico (adj)		ecclesiastical		4942
+educado (adj)		educated		4846
+elocuente (adj)		eloquent		4719
+entusiasta (adj)		enthusiastic		4970
+esporádico (adj)		sporadic		4678
+estadístico (adj)		statistical		4707
+exento (adj)		exempt, free		4884
+extra (adj)		extra		4756
+fértil (adj)		fertile, rich		4765
+frívolo (adj)		trivial, frivolous		4936
+frontal (adj)		frontal		4837
+geométrico (adj)		geometric		4557
+grotesco (adj)		grotesque, ridiculous		4874
+guerrero (adj)		warrior, warlike (adj)		4787
+hispano (adj)		Hispanic		4983
+ilegal (adj)		illegal		4659
+ilimitado (adj)		unlimited		4674
+impecable (adj)		impeccable, faultless		4575
+implacable (adj)		relentless, implacable		4584
+imponente (adj)		impressive, magnificent		4909
+importado (adj)		imported		4753
+impreciso (adj)		imprecise		4825
+inestable (adj)		unstable, unsteady		4926
+inexistente (adj)		non-existent		4792
+informativo (adj)		informative		4744
+ingenioso (adj)		ingenious, clever		4549
+inseguro (adj)		unsure, unsafe		4529
+inseparable (adj)		inseparable		4922
+institucional (adj)		institutional		4595
+íntegro (adj)		whole, entire, honest		4754
+involuntario (adj)		involuntary		4790
+irónico (adj)		ironic, mocking		4536
+irreal (adj)		unreal		4966
+irreversible (adj)		irreversible		4847
+laborioso (adj)		laborious, industrious		4941
+larguísimo (adj)		very long		4608
+llano (adj)		flat, level, plain		4694
+maligno (adj)		evil, malignant		4710
+marrón (adj)		brown		4951
+melancólico (adj)		melancholy		4684
+minúsculo (adj)		minute, insignificant		4636
+mismísimo (adj)		very same		4900
+místico (adj)		mystical		4881
+monstruoso (adj)		monstrous		4842
+monumental (adj)		monumental		4990
+móvil (adj)		mobile		4686
+neutro (adj)		neutral		4801
+nítido (adj)		clear, clean, neat		4908
+nulo (adj)		void, null		4581
+ocasional (adj)		occasional, random		4987
+parlamentario (adj)		parliamentary		4961
+paterno (adj)		paternal		4628
+patriótico (adj)		patriotic		4972
+pedagógico (adj)		pedagogical, teaching		4864
+pequeñito (adj)		very small, tiny		4566
+persistente (adj)		persistent		4843
+piadoso (adj)		pious, devout, merciful		4671
+prematuro (adj)		premature		4853
+prestigioso (adj)		prestigious		4620
+presunto (adj)		alleged, presumed		4501
+previsible (adj)		foreseeable		4835
+prodigioso (adj)		prodigious, famous		4938
+productivo (adj)		productive, profitable		4589
+provincial (adj)		provincial		4654
+recíproco (adj)		reciprocal		4761
+rítmico (adj)		rhythmic		4978
+robusto (adj)		strong, robust, sturdy		4689
+rudo (adj)		rude, crude, coarse		4859
+sabroso (adj)		delicious, tasty		4605
+secular (adj)		secular, lay		4911
+séptimo (adj)		seventh		4905
+simultáneo (adj)		simultaneous		4609
+siniestro (adj)		sinister		4880
+sintético (adj)		synthetic		4954
+soberano (adj)		sovereign, self-assured		4782
+soberbio (adj)		proud, arrogant [also orgulloso]		4576
+sofisticado (adj)		sophisticated		4546
+sonriente (adj)		smiling		4579
+subjetivo (adj)		subjective		4793
+sumido (adj)		sunken, drowned		4876
+terrestre (adj)		earthly, of the earth		4663
+trascendental (adj)		momentous, transcendental		4613
+trascendente (adj)		transcendent		4564
+trasero (adj)		behind, back		4962
+triple (adj)		triple		4520
+turístico (adj)		tourist (adj)		4572
+usual (adj)		normal, usual		4729
+vertiginoso (adj)		dizzying		4516
+vigoroso (adj)		vigorous, strong		4596
+vulnerable (adj)		vulnerable		4554
+abiertamente (adv)		openly		4649
+brevemente (adv)		briefly		4587
+debidamente (adv)		properly, duly		4897
+duramente (adv)		harshly, severely		4875
+económicamente (adv)		economically		4778
+esencialmente (adv)		essentially		4607
+espontáneamente (adv)		spontaneously		4743
+firmemente (adv)		firmly		4677
+inicialmente (adv)		initially		4920
+largamente (adv)		for a long time, at length		4888
+mentalmente (adv)		mentally		4932
+oficialmente (adv)		officially		4545
+parcialmente (adv)		partially		4894
+públicamente (adv)		publicly, in public		4877
+terriblemente (adv)		terribly		4928
+tradicionalmente (adv)		traditionally		4657
+viceversa (adv)		vice versa		4904
+voluntariamente (adv)		voluntarily		4891
+hola (interj)		hello, hi		4752
+fiscal (nc)		district attorney, prosecutor (nc)		4612
+gigante (nc)		giant (nc)		4738
+idiota (nc)		idiot, dunce		4769
+inmigrante (nc)		immigrant		4993
+intérprete (nc)		performer, interpreter		4716
+mortal (nc)		mortal (nc)		4879
+abeja (nf)		bee		4741
+abstracción (nf)		abstraction		4872
+acera (nf)		sidewalk		4886
+actriz (nf)		actress		4606
+adhesión (nf)		adherence		4933
+agonía (nf)		agony, grief		4638
+agresividad (nf)		aggressiveness		4931
+almohada (nf)		pillow		4939
+ampliación (nf)		enlargement, extension		4959
+antena (nf)		antenna		4644
+araña (nf)		spider		4717
+audacia (nf)		boldness, audacity		4757
+autopista (nf)		freeway, motorway		4523
+bahía (nf)		bay		4770
+balanza (nf)		balance, (measuring) scale		4551
+batería (nf)		battery, gun deck		4597
+bodega (nf)		cellar, pantry, warehouse		4643
+caballería (nf)		cavalry, knighthood		4731
+cabina (nf)		cabin, cockpit		4882
+cabra (nf)		goat		4912
+cal (nf)		lime, whitewash		4977
+cautela (nf)		caution		4621
+cera (nf)		wax		4593
+clientela (nf)		customers, clients		4823
+complejidad (nf)		complexity		4906
+complicidad (nf)		involvement, complicity		4816
+concurrencia (nf)		coming together, participation		4798
+consistencia (nf)		consistency		4661
+conspiración (nf)		conspiracy		4673
+contestación (nf)		answer		4863
+convención (nf)		convention, assembly		4934
+cooperación (nf)		cooperation		4690
+crema (nf)		cream		4598
+cuenca (nf)		socket, basin, bowl		4975
+cueva (nf)		cave		5000
+decena (nf)		ten (of something)		4580
+decepción (nf)		disappointment, disenchantment		4895
+decoración (nf)		decoration		4532
+delicadeza (nf)		gentleness, tenderness		4986
+denominación (nf)		name, denomination		4914
+descarga (nf)		unloading, discharge		4971
+desilusión (nf)		disappointment, letdown		4784
+despedida (nf)		goodbye, farewell		4848
+destreza (nf)		skill		4679
+detención (nf)		detention, arrest		4675
+dicha (nf)		fortune, happiness, luck		4590
+diligencia (nf)		diligence		4903
+disculpa (nf)		apology, excuse		4563
+distracción (nf)		distraction, amusement		4705
+diversidad (nf)		diversity, variety		4733
+documentación (nf)		documentation		4578
+edificación (nf)		construction, building		4871
+eficiencia (nf)		efficiency		4940
+elevación (nf)		rise, elevation, increase		4691
+emisión (nf)		broadcast, emission		4812
+entrañas (nf)		insides, bowels		4681
+envergadura (nf)		breadth, expanse		4916
+equivocación (nf)		mistake, misconception		4774
+espuma (nf)		foam, lather		4697
+estampa (nf)		print, engraving, illustration		4999
+estética (nf)		aesthetics		4730
+euforia (nf)		euphoria, elation		4539
+exhibición (nf)		exhibition, showing		4723
+expulsión (nf)		expulsion, ejection		4988
+extinción (nf)		extinction		4838
+fabricación (nf)		manufacture, production		4526
+facción (nf)		face feature, faction		4718
+factura (nf)		invoice, bill		4552
+fiera (nf)		wild beast		4923
+flecha (nf)		arrow, dart		4781
+frialdad (nf)		coldness, indifference		4827
+gama (nf)		range, musical scale		4512
+garra (nf)		claw, fang		4795
+gratitud (nf)		gratitude		4682
+grieta (nf)		crack, opening, slit		4788
+hectárea (nf)		hectare		4991
+higiene (nf)		hygiene		4973
+hormiga (nf)		ant		4553
+hostilidad (nf)		hostility, enmity		4667
+impotencia (nf)		impotence		4664
+incidencia (nf)		incidence, impact		4832
+incursión (nf)		invasion, incursion		4965
+infección (nf)		infection		4703
+inicial (nf)		initial (letters) (nf)		4830
+inspección (nf)		inspection		4829
+inundación (nf)		flood, deluge		4902
+inyección (nf)		shot, injection		4658
+jugada (nf)		move, play		4998
+latitud (nf)		latitude		4771
+legislación (nf)		legislation		4760
+lesión (nf)		injury, wound, harm		4527
+libra (nf)		pound (money/weight)		4964
+librería (nf)		bookstore		4577
+limosna (nf)		alms, charity		4779
+maldad (nf)		evil, wickedness		4646
+maldición (nf)		damnation, curse		4948
+manía (nf)		obsession, mania		4562
+matanza (nf)		slaughter, carnage		4626
+mejilla (nf)		cheek		4528
+metáfora (nf)		metaphor		4568
+modalidad (nf)		mode, manner		4506
+navaja (nf)		razor, blade, navaja		4947
+navegación (nf)		navigation, shipping		4870
+negociación (nf)		negotiation		4538
+nobleza (nf)		nobility, uprightness		4662
+obediencia (nf)		obedience		4647
+ocurrencia (nf)		idea, witty remark		4648
+olla (nf)		pot, kettle		4927
+órbita (nf)		orbit, socket, field		4522
+pala (nf)		shovel		4601
+partícula (nf)		particle		4776
+penetración (nf)		penetration, insight		4569
+penumbra (nf)		semidarkness, twilight		4997
+pinta (nf)		pint, aspect, dot		4630
+pirámide (nf)		pyramid		4799
+piscina (nf)		swimming pool		4653
+pólvora (nf)		gunpowder, powder		4763
+prevención (nf)		prevention, warning		4995
+prioridad (nf)		priority		4505
+procedencia (nf)		origin, source		4611
+prolongación (nf)		extension		4749
+prosa (nf)		prose		4524
+pugna (nf)		battle, struggle		4712
+puta (nf)		whore, prostitute		4982
+recompensa (nf)		reward, recompense		4815
+reivindicación (nf)		claim, demand, redemption		4702
+repercusión (nf)		repercussion, impact		4852
+resignación (nf)		resignation, acceptance		4759
+restricción (nf)		restriction		4819
+rigidez (nf)		rigidity		4845
+senda (nf)		path, lane		4585
+servidumbre (nf)		staff of servants, servitude		4602
+significación (nf)		meaning, significance		4862
+sirena (nf)		siren, mermaid		4696
+soberanía (nf)		sovereignty		4824
+sobra (nf)		excess, surplus, leftover		4547
+táctica (nf)		tactics, strategy		4623
+tasa (nf)		rate, fee, levy		4550
+toalla (nf)		towel		4967
+torta (nf)		cake		4715
+tregua (nf)		truce, rest		4640
+vara (nf)		rod, stick		4822
+vecindad (nf)		nearness, vicinity		4910
+ventanilla (nf)		vehicle window, box office		4836
+vereda (nf)		path, sidewalk		4700
+vibración (nf)		vibration		4818
+acta (nf el)		meeting proceedings, minutes		4592
+adjetivo (nm)		adjective		4511
+admirador (nm)		admirer		4917
+agradecimiento (nm)		gratitude, gratefulness		4755
+apuro (nm)		trouble, predicament		4618
+artefacto (nm)		artifact, device		4509
+asilo (nm)		asylum, shelter		4865
+astro (nm)		star (nm)		4746
+atentado (nm)		attack, offense		4692
+autobús (nm)		bus		4676
+bachillerato (nm)		high school diploma		4950
+banquete (nm)		banquet, feast		4734
+bicho (nm)		bug, creature		4687
+buey (nm)		ox		4772
+burro (nm)		donkey		4610
+caldo (nm)		broth, bouillon, soup		4637
+campeón (nm)		champion		4840
+caramelo (nm)		piece of candy, caramel		4762
+centavo (nm)		cent		4892
+cerco (nm)		fence, circle, ring		4996
+chiquillo (nm)		kid, youngster		4704
+coco (nm)		coconut		4929
+cohete (nm)		rocket		4937
+comando (nm)		command, order		4810
+complemento (nm)		complement, supplement		4650
+comunismo (nm)		communism		4775
+convencimiento (nm)		convincing (nm)		4540
+cordón (nm)		cord, yarn, braid		4504
+cráneo (nm)		skull, cranium		4750
+delirio (nm)		delirium, nonsense		4574
+desconcierto (nm)		disorder, chaos		4543
+descuido (nm)		neglect, oversight		4624
+desenlace (nm)		outcome, result		4507
+desequilibrio (nm)		imbalance, unsteadiness		4953
+desperdicio (nm)		waste, refuse, garbage		4957
+despliegue (nm)		deployment, display		4963
+diamante (nm)		diamond		4984
+dictador (nm)		dictator		4747
+elefante (nm)		elephant		4945
+emperador (nm)		emperor		4856
+encaje (nm)		lace		4850
+enigma (nm)		enigma, mystery		4989
+ente (nm)		entity, being, firm		4898
+entretenimiento (nm)		entertainment		4600
+equivalente (nm)		equivalent (nm)		4780
+escaparate (nm)		showcase, display window		4725
+escrito (nm)		manuscript, writing		4629
+fósforo (nm)		match, match stick		4803
+gabinete (nm)		cabinet, den, office		4514
+ganador (nm)		winner		4855
+gusano (nm)		worm, caterpillar		4559
+hueco (adj)		hollow (adj)		4714
+incremento (nm)		increase, raise		4866
+infinito (nm)		infinite, infinity (nm)		4839
+ingrediente (nm)		ingredient		4708
+intermedio (nm)		means, interval (nm)		4777
+jinete (nm)		rider, horseman		4789
+lomo (nm)		back, loin, spine		4868
+martillo (nm)		hammer		4688
+medicamento (nm)		medicine, drug		4669
+micrófono (nm)		microphone		4834
+molino (nm)		mill, windmill		4893
+mosaico (nm)		mosaic		4861
+muelle (nm)		wharf, dock		4530
+muslo (nm)		thigh		4807
+olfato (nm)		sense of smell		4913
+oso (nm)		bear		4555
+oxígeno (nm)		oxygen		4844
+pabellón (nm)		pavilion, sports hall		4740
+padrino (nm)		godparent, sponsor		4732
+paraje (nm)		place, spot		4935
+paréntesis (nm)		parenthesis, digression		4525
+participante (nm)		participant		4616
+pasajero (adj)		fleeting, transitory (adj)		4570
+pato (nm)		duck		4786
+peón (nm)		unskilled laborer, field hand		4519
+periodismo (nm)		journalism		4652
+pionero (nm)		pioneer		4980
+precedente (nm)		precedent		4858
+profeta (nm)		prophet		4804
+puñado (nm)		fistful, small group		4693
+rancho (nm)		ranch, farm		4533
+rebaño (nm)		herd, flock		4919
+recelo (nm)		mistrust, suspicion		4817
+recipiente (nm)		container, recipient, tank		4960
+reproche (nm)		reproach, criticism		4660
+rescate (nm)		rescue, ransom		4617
+retiro (nm)		withdrawal, retreat		4809
+retroceso (nm)		movement backwards		4833
+roce (nm)		brush, rubbing, contact		4748
+rol (nm)		role		4764
+sargento (nm)		sergeant		4727
+soporte (nm)		support, endorsement		4797
+sótano (nm)		basement		4930
+tanque (nm)		tank, large container		4594
+tejado (nm)		roof, housetop		4944
+temperamento (nm)		temperament, personality		4586
+tenis (nm)		tennis		4968
+tenor (nm)		meaning, sense, tenor		4814
+tigre (nm)		tiger		4582
+tranvía (nm)		trolley, tram, streetcar		4502
+trazo (nm)		line, stroke		4556
+trono (nm)		throne		4510
+vaivén (nm)		swinging, rocking		4773
+vegetal (nm)		plant, vegetable (nm)		4921
+velo (nm)		veil		4531
+vestuario (nm)		wardrobe, changing room		4641
+violín (nm)		violin		4745
+volcán (nm)		volcano		4981
+whisky (nm)		whisky		4571
+agricultor (nm/f)		farmer		4794
+bailarín (nm/f)		dancer		4508
+cirujano (nm/f)		surgeon		4698
+diplomático (nm/f)		diplomat (nm/f)		4722
+economista (nm/f)		economist		4544
+editor (nm/f)		editor, publisher		4651
+guerrero (nm/f)		warrior, soldier (nm/f)		4885
+inspector (nm/f)		inspector		4521
+marinero (nm/f)		sailor		4949
+psicólogo (nm/f)		psychologist		4604
+cólera (nmf)		rage (f), cholera (m)		4758
+cometa (nmf)		comet (m), kite (f)		4857
+editorial (nmf)		publisher (f), editorial article (m)		4685
+veintidós (num)		twenty-two		4873
+acatar (v)		to comply with, abide by		4820
+adentrar (v)		to penetrate, go inside		4721
+adherir (v)		to adhere, attach		4890
+aflojar (v)		to loosen		4751
+alarmar (v)		to alarm		4537
+alertar (v)		to alert, warn		4503
+alojar (v)		to host, accommodate		4896
+andar (nm)		walk, gait, pace (nm)		4737
+asentir (v)		to assent, agree		4742
+aventurar (v)		to venture, risk		4800
+bordear (v)		to border		4915
+conferir (v)		to confer		4561
+decaer (v)		to decay, wane		4974
+demandar (v)		to claim, sue		4802
+desayunar (v)		to have breakfast		4588
+descifrar (v)		to decipher		4946
+desesperar (v)		to despair, lose hope		4642
+desmentir (v)		to contradict		4925
+despejar (v)		to clear up		4573
+deteriorar (v)		to deteriorate		4639
+dialogar (v)		to confer, talk		4883
+discurrir (v)		to flow, pass, roam		4791
+disfrazar (v)		to disguise, hide, conceal		4979
+encomendar (v)		to commend, entrust		4828
+endurecer (v)		harden, make hard		4656
+enfermar (v)		to become ill		4513
+engordar (v)		to fatten, get fat		4796
+enredar (v)		to entangle, ensnare		4548
+ensuciar (v)		to get dirty		4766
+entablar (v)		to start, establish		4952
+entrenar (v)		to train		4670
+enumerar (v)		to enumerate, count		4706
+envidiar (v)		to envy		4631
+estropear (v)		to ruin, mess up		4851
+exceder (v)		to exceed, excel		4534
+excitar (v)		to excite		4701
+fascinar (v)		to fascinate		4854
+financiar (v)		to finance		4615
+impartir (v)		to impart, administer		4736
+incidir (v)		to influence, affect		4841
+incurrir (v)		to incur, fall into		4867
+indagar (v)		to investigate [also investigar]		4515
+insertar (v)		to insert, put in		4785
+instruir (v)		to instruct		4918
+internar (v)		to confine		4899
+irritar (v)		to irritate		4711
+irrumpir (v)		to burst in, raid		4994
+joder (v)		to f**k, screw (around/up)		4535
+largar (v)		to let go, start out		4767
+ligar (v)		to tie, link, bind		4645
+mediar (v)		to mediate		4655
+percatar (v)		to inform, become aware		4826
+perfilar (v)		to outline, shape		4969
+perturbar (v)		to perturb, upset		4627
+posar (v)		to rest, pose, land		4709
+predominar (v)		to predominate		4567
+premiar (v)		to award		4583
+presentir (v)		to sense in advance		4783
+propagar (v)		to propagate, spread		4958
+rascar (v)		to scratch, scrape		4542
+razonar (v)		to reason out, think		4680
+rebasar (v)		to exceed, pass over		4813
+recrear (v)		to recreate, amuse		4728
+rectificar (v)		to rectify, straighten out		4683
+relajar (v)		to relax		4724
+renacer (v)		to be reborn, reappear		4805
+reposar (v)		to rest, lie down		4632
+resignar (v)		to resign, relinquish		4878
+restablecer (v)		to reestablish, restore		4806
+resucitar (v)		to resuscitate, revive 		4603
+seducir (v)		to seduce, tempt		4831
+sobrevenir (v)		to happen unexpectedly, befall, ensue		4811
+sudar (v)		to sweat		4619
+suspirar (v)		to sigh		4558
+tentar (v)		to tempt, entice		4869
+transitar (v)		to roam, go by		4821
+tumbar (v)		to knock over, cast down		4720
+vengar (v)		to take revenge, avenge		4849
+verter (v)		to pour, spill, shed		4924
+vislumbrar (v)		to glimpse		4665
+Key to Abbreviations		art - article		0000
