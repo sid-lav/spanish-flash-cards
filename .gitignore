@@ -1,2 +1,3 @@
 keys/api.py
 __pycache__
+*.pyc
