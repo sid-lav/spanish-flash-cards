@@ -5,7 +5,7 @@
 import anthropic
 import os
 import time
-from api import claude_key
+from keys.api import claude_key
 
 ##########################################################################################################################################################################################
 # 1. globals
@@ -24,15 +24,15 @@ def claude_query(anki_word):
 
     # system message
     sysmsg = """
-You are a tool for language learning, your job is to make an A2 level Spanish sentence including the given word in the prompt.
-Only provide the Spanish sentence! Do not write anything else in the prompt!
+You are a tool for language learning, you will be given a Spanish verb, your job is to conjugate the verb randomly in European/Castillian Spanish.
+Output in a python list format like this [conjugated verb, english translation, tense, person)]
+Do not include any other text in your output than the given list
 """
 
     # sysmsg = "Use the word in the prompt in " 
     # prompt_format = """<nonword>{query_word}</nonword>?"""
     
     query = "The word is <word>{word}</word>".format(word = anki_word) 
-    print(query)
     message = [
         {
             "role": "user",
@@ -48,6 +48,5 @@ Only provide the Spanish sentence! Do not write anything else in the prompt!
     )
     print(response.content[0].text.lower())
     
-    return response, response.content[0].text.lower()
+    return response.content[0].text.lower()
 
-claude_query("playa")
