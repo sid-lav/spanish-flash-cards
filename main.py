@@ -11,9 +11,6 @@ for i in range(3):
     result = tkinter(question, answer, tense, person)
     
 
-"NA MAIKA TI PUTKATATAAAAAAAAAAAAAA"
-
-
 """
 # sample question
 question = "What is the capital of France?"
