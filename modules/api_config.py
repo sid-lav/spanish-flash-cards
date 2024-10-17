@@ -5,7 +5,7 @@
 import anthropic
 import os
 import time
-from keys.api import claude_key
+from __pycache__.api import claude_key
 
 ##########################################################################################################################################################################################
 # 1. globals
