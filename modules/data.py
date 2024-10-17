@@ -1,20 +1,16 @@
 import json
 
-def load_categorised_words(json_file):
-    # Open and load the JSON file
-    with open(json_file, 'r', encoding='utf-8') as file:
-        data = json.load(file)
-    
-    # Extract the individual dictionaries from the JSON file
-    adjectives = data.get('adjectives', [])
-    verbs = data.get('verbs', [])
-    adverbs = data.get('adverbs', [])
-    nouns = data.get('nouns', [])
-    
-    # Optionally: also load the word type frequencies if needed
-    word_type_frequencies = data.get('word_type_frequencies', {})
-    
-    # Return the dictionaries
-    return adjectives, verbs, adverbs, nouns
-    
-adjectives, verbs, adverbs, nouns = load_categorised_words("data/categorised_words.json")
+# Load the JSON data from the file
+with open('data/data.json', 'r') as json_file:
+    data = json.load(json_file)
+
+# Assign the loaded data to original variable names
+verbs = data["verbs"]
+adjectives = data["adjectives"]
+adverbs = data["adverbs"]
+nouns = data["nouns"]
+
+verbs_keylist = list(verbs.keys())
+adjectives_keylist = list(adjectives.keys())
+adverbs_keylist = list(adverbs.keys())
+nouns_keylist = list(nouns.keys())

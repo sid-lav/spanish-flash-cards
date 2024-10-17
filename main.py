@@ -1,11 +1,13 @@
 from modules.api_config import claude_query
 from modules.gui import tkinter
-from modules.data import adjectives, verbs, adverbs, nouns
+from modules.data import *
 import ast
 import json
 
+print(type(verbs))
+
 for i in range(3):
-    result = claude_query(verbs[i])
+    result = claude_query(verbs_keylist[i])
     result = ast.literal_eval(result)
     question, answer, tense, person = result[0], result[1], result[2], result[3]
     result = tkinter(question, answer, tense, person)
