@@ -6,6 +6,22 @@ def connect_db(db_name='data/flashcards.db'):
     return sqlite3.connect(db_name)
 
 
+# Update a card after the user has reviewed it
+def update_card(card_id, new_due, stability, difficulty, reps, lapses, state, last_review):
+    conn = connect_db()
+    cursor = conn.cursor()
+
+    query = '''
+    UPDATE cards
+    SET due = ?, stability = ?, difficulty = ?, reps = ?, lapses = ?, state = ?, last_review = ?
+    WHERE id = ?
+    '''
+    cursor.execute(query, (new_due, stability, difficulty, reps, lapses, state, last_review, card_id))
+
+    conn.commit()
+    conn.close()
+
+
 def get_next_due_card():
     conn = connect_db()
     cursor = conn.cursor()
@@ -24,30 +40,13 @@ def get_next_due_card():
     conn.close()
     return card
 
-
-# Update a card after the user has reviewed it
-def update_card(card_id, new_due, stability, difficulty, reps, lapses, state, last_review):
+def process_card_review(card_id, due, stability, reps, lapses, difficulty):
     conn = connect_db()
     cursor = conn.cursor()
 
-    query = '''
-    UPDATE cards
-    SET due = ?, stability = ?, difficulty = ?, reps = ?, lapses = ?, state = ?, last_review = ?
-    WHERE id = ?
-    '''
-    cursor.execute(query, (new_due, stability, difficulty, reps, lapses, state, last_review, card_id))
-
-    conn.commit()
-    conn.close()
-
-def process_card_review(card, difficulty):
-    conn = connect_db()
-    cursor = conn.cursor()
-
-    card_id = card["id"]
-    stability = float(card["stability"])
-    reps = int(card["reps"])
-    lapses = int(card["lapses"])
+    stability = float(stability)
+    reps = int(reps)
+    lapses = int(lapses)
 
     if difficulty == "Easy":
         stability += 1.5
@@ -72,4 +71,5 @@ def process_card_review(card, difficulty):
 
     conn.commit()
     conn.close()
+
 
