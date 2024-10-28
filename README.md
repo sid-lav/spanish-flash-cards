@@ -1,8 +1,3 @@
-# improved_flash_cards
+# anki style spanish flash cards
 
-for word in wordlist:
-    question = claude(word)
-    result = tkinter(question
-    fsmr(result)
-
-
+python program that uses the FSRS algorithm to calculate frequency of flash cards appearing, Claude LLM is queried to randomly conjugate known verbs and make personalised questions based on knowledge bank.
